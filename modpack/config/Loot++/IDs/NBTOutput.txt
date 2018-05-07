@@ -1,0 +1,1 @@
+{x:-35,y:72,z:255,Record:4106,id:"RecordPlayer",RecordItem:{id:"lootplusplus:ThatsHot",Count:1b,Damage:0s,},}

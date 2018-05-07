@@ -1,0 +1,501 @@
+{
+  "records.AoW": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/AoW",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.doot": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/doot",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.GladionTheme": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/GladionTheme",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.HEY": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/HEY",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.kirby": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/kirby",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.LavenderTown": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/LavenderTown",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.leekSpin": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/leekSpin",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.nyanCat": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/nyanCat",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.Rasputin": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Rasputin",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.sanic": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/sanic",
+        "stream": true
+      }
+    ]
+  },
+  
+  "records.ThatsHot": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/ThatsHot",
+        "stream": true
+      }
+    ]
+  },
+ 
+ "records.Batman": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Batman",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Soviet": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Soviet",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Kalinka": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Kalinka",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Monika": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Monika",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Darklars9": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Darklars9",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Loophole": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Loophole",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Panther": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Panther",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Blue": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Blue",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Mother": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Mother",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Pollyanna": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Pollyanna",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Undertale": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Undertale",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Portal": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Portal",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Calamari": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Calamari",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Mario": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Mario",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Luigi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Luigi",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.S3rl": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/S3rl",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Wario": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Wario",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Waluigi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Waluigi",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.L": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/L",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Peach": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Peach",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Megaman": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Megaman",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Eggplant": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Eggplant",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Sand": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Sand",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Nier": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Nier",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Turret": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Turret",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Kebab": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Kebab",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Marvel": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Marvel",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Forest": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Forest",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Zelda": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Zelda",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Trash": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Trash",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Spider": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Spider",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Metaknight": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Metaknight",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Steven": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Steven",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Avengers": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Avengers",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Periodic": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Periodic",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Mulan": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Mulan",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Gone": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Gone",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Hamilton": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Hamilton",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.Mercy": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Mercy",
+        "stream": true
+      }
+    ]
+  }
+}

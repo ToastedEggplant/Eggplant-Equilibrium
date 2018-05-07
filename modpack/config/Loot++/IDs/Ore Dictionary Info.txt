@@ -1,0 +1,415 @@
+## Ore Dictionary Info                      ##
+##############################################
+## In the form:                             ##
+## <ore dictionary entry>                   ##
+##     <item id registered> - <item damage> ##
+##     etc...                               ##
+##############################################
+blockCoal
+minecraft:coal_block - 0
+
+
+blockDiamond
+minecraft:diamond_block - 0
+
+
+blockEmerald
+minecraft:emerald_block - 0
+
+
+blockGlass
+minecraft:glass - 0
+minecraft:stained_glass - any
+
+
+blockGlassBlack
+minecraft:stained_glass - 15
+
+
+blockGlassBlue
+minecraft:stained_glass - 11
+
+
+blockGlassBrown
+minecraft:stained_glass - 12
+
+
+blockGlassColorless
+minecraft:glass - 0
+
+
+blockGlassCyan
+minecraft:stained_glass - 9
+
+
+blockGlassGray
+minecraft:stained_glass - 7
+
+
+blockGlassGreen
+minecraft:stained_glass - 13
+
+
+blockGlassLightBlue
+minecraft:stained_glass - 3
+
+
+blockGlassLightGray
+minecraft:stained_glass - 8
+
+
+blockGlassLime
+minecraft:stained_glass - 5
+
+
+blockGlassMagenta
+minecraft:stained_glass - 2
+
+
+blockGlassOrange
+minecraft:stained_glass - 1
+
+
+blockGlassPink
+minecraft:stained_glass - 6
+
+
+blockGlassPurple
+minecraft:stained_glass - 10
+
+
+blockGlassRed
+minecraft:stained_glass - 14
+
+
+blockGlassWhite
+minecraft:stained_glass - 0
+
+
+blockGlassYellow
+minecraft:stained_glass - 4
+
+
+blockGold
+minecraft:gold_block - 0
+
+
+blockIron
+minecraft:iron_block - 0
+
+
+blockLapis
+minecraft:lapis_block - 0
+
+
+blockQuartz
+minecraft:quartz_block - 0
+
+
+blockRedstone
+minecraft:redstone_block - 0
+
+
+cobblestone
+minecraft:cobblestone - 0
+
+
+cropCarrot
+minecraft:carrot - 0
+
+
+cropPotato
+minecraft:potato - 0
+
+
+cropWheat
+minecraft:wheat - 0
+
+
+dustGlowstone
+minecraft:glowstone_dust - 0
+
+
+dustRedstone
+minecraft:redstone - 0
+
+
+dye
+minecraft:dye - any
+
+
+dyeBlack
+minecraft:dye - 0
+
+
+dyeBlue
+minecraft:dye - 4
+
+
+dyeBrown
+minecraft:dye - 3
+
+
+dyeCyan
+minecraft:dye - 6
+
+
+dyeGray
+minecraft:dye - 8
+
+
+dyeGreen
+minecraft:dye - 2
+
+
+dyeLightBlue
+minecraft:dye - 12
+
+
+dyeLightGray
+minecraft:dye - 7
+
+
+dyeLime
+minecraft:dye - 10
+
+
+dyeMagenta
+minecraft:dye - 13
+
+
+dyeOrange
+minecraft:dye - 14
+
+
+dyePink
+minecraft:dye - 9
+
+
+dyePurple
+minecraft:dye - 5
+
+
+dyeRed
+minecraft:dye - 1
+
+
+dyeWhite
+minecraft:dye - 15
+
+
+dyeYellow
+minecraft:dye - 11
+
+
+gemDiamond
+minecraft:diamond - 0
+
+
+gemEmerald
+minecraft:emerald - 0
+
+
+gemLapis
+minecraft:dye - 4
+
+
+gemQuartz
+minecraft:quartz - 0
+
+
+glowstone
+minecraft:glowstone - 0
+
+
+ingotBrick
+minecraft:brick - 0
+
+
+ingotBrickNether
+minecraft:netherbrick - 0
+
+
+ingotGold
+minecraft:gold_ingot - 0
+
+
+ingotIron
+minecraft:iron_ingot - 0
+
+
+logWood
+minecraft:log - any
+minecraft:log2 - any
+
+
+nuggetGold
+minecraft:gold_nugget - 0
+
+
+oreCoal
+minecraft:coal_ore - 0
+
+
+oreDiamond
+minecraft:diamond_ore - 0
+
+
+oreEmerald
+minecraft:emerald_ore - 0
+
+
+oreGold
+minecraft:gold_ore - 0
+
+
+oreIron
+minecraft:iron_ore - 0
+
+
+oreLapis
+minecraft:lapis_ore - 0
+
+
+oreQuartz
+minecraft:quartz_ore - 0
+
+
+oreRedstone
+minecraft:redstone_ore - 0
+
+
+paneGlass
+minecraft:glass_pane - 0
+minecraft:stained_glass_pane - any
+
+
+paneGlassBlack
+minecraft:stained_glass_pane - 15
+
+
+paneGlassBlue
+minecraft:stained_glass_pane - 11
+
+
+paneGlassBrown
+minecraft:stained_glass_pane - 12
+
+
+paneGlassColorless
+minecraft:glass_pane - 0
+
+
+paneGlassCyan
+minecraft:stained_glass_pane - 9
+
+
+paneGlassGray
+minecraft:stained_glass_pane - 7
+
+
+paneGlassGreen
+minecraft:stained_glass_pane - 13
+
+
+paneGlassLightBlue
+minecraft:stained_glass_pane - 3
+
+
+paneGlassLightGray
+minecraft:stained_glass_pane - 8
+
+
+paneGlassLime
+minecraft:stained_glass_pane - 5
+
+
+paneGlassMagenta
+minecraft:stained_glass_pane - 2
+
+
+paneGlassOrange
+minecraft:stained_glass_pane - 1
+
+
+paneGlassPink
+minecraft:stained_glass_pane - 6
+
+
+paneGlassPurple
+minecraft:stained_glass_pane - 10
+
+
+paneGlassRed
+minecraft:stained_glass_pane - 14
+
+
+paneGlassWhite
+minecraft:stained_glass_pane - 0
+
+
+paneGlassYellow
+minecraft:stained_glass_pane - 4
+
+
+plankWood
+minecraft:planks - any
+
+
+record
+minecraft:record_13 - 0
+minecraft:record_cat - 0
+minecraft:record_blocks - 0
+minecraft:record_chirp - 0
+minecraft:record_far - 0
+minecraft:record_mall - 0
+minecraft:record_mellohi - 0
+minecraft:record_stal - 0
+minecraft:record_strad - 0
+minecraft:record_ward - 0
+minecraft:record_11 - 0
+minecraft:record_wait - 0
+
+
+sand
+minecraft:sand - any
+
+
+sandstone
+minecraft:sandstone - any
+
+
+slabWood
+minecraft:wooden_slab - any
+
+
+slimeball
+minecraft:slime_ball - 0
+
+
+stairWood
+minecraft:oak_stairs - 0
+minecraft:spruce_stairs - 0
+minecraft:birch_stairs - 0
+minecraft:jungle_stairs - 0
+minecraft:acacia_stairs - 0
+minecraft:dark_oak_stairs - 0
+
+
+stickWood
+minecraft:stick - 0
+
+
+stone
+minecraft:stone - 0
+
+
+treeLeaves
+minecraft:leaves - any
+minecraft:leaves2 - any
+
+
+treeSapling
+minecraft:sapling - any
+
+
