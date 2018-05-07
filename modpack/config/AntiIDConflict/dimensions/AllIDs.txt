@@ -25,7 +25,7 @@
 -76 is Avaible
 -75 is Avaible
 -74 is Avaible
--73 is Occupied by: Outer Lands, Provider: (id: -73, class: class makeo.gadomancy.common.utils.world.WorldProviderTCEldrich)
+-73 is Avaible
 -72 is Avaible
 -71 is Avaible
 -70 is Avaible
@@ -91,15 +91,15 @@
 -10 is Avaible
 -9 is Avaible
 -8 is Avaible
--7 is Occupied by: FZHammer, Provider: (id: -7, class: class factorization.fzds.HammerWorldProvider)
+-7 is Avaible
 -6 is Avaible
 -5 is Avaible
 -4 is Avaible
 -3 is Avaible
 -2 is Avaible
--1 is Occupied by: Nether, Provider: (id: -1, class: class biomesoplenty.common.world.WorldProviderBOPHell)
-0 is Occupied by: Overworld, Provider: (id: 0, class: class biomesoplenty.common.world.WorldProviderSurfaceBOP)
-1 is Occupied by: The End, Provider: (id: 1, class: class chylex.hee.world.WorldProviderHardcoreEnd)
+-1 is Occupied by: Nether, Provider: (id: -1, class: class net.minecraft.world.WorldProviderHell)
+0 is Occupied by: Overworld, Provider: (id: 0, class: class net.minecraft.world.WorldProviderSurface)
+1 is Occupied by: The End, Provider: (id: 1, class: class net.minecraft.world.WorldProviderEnd)
 2 is Avaible
 3 is Avaible
 4 is Avaible
@@ -140,7 +140,7 @@
 39 is Avaible
 40 is Avaible
 41 is Avaible
-42 is Occupied by: Soul Network Dimension, Provider: (id: 42, class: class tombenpotter.sanguimancy.world.WorldProviderSoulNetworkDimension)
+42 is Avaible
 43 is Avaible
 44 is Avaible
 45 is Avaible

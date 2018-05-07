@@ -7,6 +7,7 @@ Setting up NEI Library...
 Setting up CreativeTab library...
 DragonAPI:minecraft:bed_technical has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: DragonAPI, name: minecraft:bed_technical. If this is not correct please report it as a bug!
+The mod DragonAPI is registering items or blocks with bad registry names. Names should not contain multiple colons as it breaks the ability to do reverse-lookups through FML. Please tell whoever made this mod that this should be changed!
 DragonAPI:minecraft:brewing_stand_technical has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: DragonAPI, name: minecraft:brewing_stand_technical. If this is not correct please report it as a bug!
 DragonAPI:minecraft:cake_technical has a bad registry name! Attempting to parse and reassemble correctly...
@@ -59,7 +60,6 @@ Found creative tab: tabBloodMagic
 Found creative tab: misc
 Found creative tab: agricraft
 Found creative tab: materials
-Found creative tab: Automagy
 Found creative tab: avaritia
 Found creative tab: tools
 Found creative tab: BiblioCraft
@@ -67,7 +67,6 @@ Found creative tab: BiblioCraftLights
 Found creative tab: BigReactors
 Found creative tab: apiculture
 Found creative tab: buildingBlocks
-Found creative tab: tabBiomesOPlenty
 Found creative tab: Botania
 Found creative tab: Botany
 Found creative tab: buildcraft.main
@@ -83,11 +82,6 @@ Found creative tab: ChromatiCraft
 Found creative tab: ChromatiCraft Items
 Found creative tab: ChromatiCraft Tools
 Found creative tab: CC Info Fragments
-Found creative tab: applemilkcontainer
-Found creative tab: applemilk
-Found creative tab: applemilkfood
-Found creative tab: applemilkmaterial
-Found creative tab: applemilkmagic
 Found creative tab: blocksAndItems
 Found creative tab: food
 Found creative tab: toolsAndWeapons
@@ -95,43 +89,24 @@ Found creative tab: EMT.creativeTab
 Found creative tab: ElectriCraft
 Found creative tab: EnderIO
 Found creative tab: decorations
-Found creative tab: EnderTechAll
-Found creative tab: extratic.parts
-Found creative tab: extratic.blocks
-Found creative tab: extratic.items
-Found creative tab: extratic.buckets
 Found creative tab: arboriculture
 Found creative tab: lepidopterology
 Found creative tab: extraUtil
 Found creative tab: combat
 Found creative tab: extraUtil_FMP
-Found creative tab: forbidden
-Found creative tab: mobcrystal
 Found creative tab: transportation
-Found creative tab: GalacticraftItems
-Found creative tab: GalacticraftBlocks
-Found creative tab: AddonsBlocks
-Found creative tab: AddonsItems
-Found creative tab: AddonsArmor
 Found creative tab: Genetics
-Found creative tab: GeoStrata
-Found creative tab: GeoStrata Ores
-Found creative tab: GeoStrata Slabs
-Found creative tab: GeoStrata Stairs
-Found creative tab: GeoStrata Stone
-Found creative tab: tabGaia
-Found creative tab: tabHardcoreEnderExpansion
+Found creative tab: creative_tab_grccore
+Found creative tab: creative_tab_grccellar
+Found creative tab: creative_tab_grcbamboo
+Found creative tab: creative_tab_grcbees
+Found creative tab: creative_tab_grcgrapes
+Found creative tab: creative_tab_grcmilk
 Found creative tab: IC2
 Found creative tab: ImmersiveEngineering
 Found creative tab: jabba
 Found creative tab: magicBees
 Found creative tab: tabMekanism
-Found creative tab: Metallurgy.Machines
-Found creative tab: Metallurgy.Tools
-Found creative tab: Metallurgy.Items
-Found creative tab: Metallurgy.Blocks
-Found creative tab: Metallurgy.Armor
-Found creative tab: metallurgyCore.items
 Found creative tab: MineFactory Reloaded
 Found creative tab: natura.plants
 Found creative tab: redstone
@@ -140,38 +115,23 @@ Found creative tab: natura.trees
 Found creative tab: Nether Ores
 Found creative tab: tabOpenBlocks
 Found creative tab: OpenComputers
-Found creative tab: tabPneumaticCraft
 Found creative tab: paTab
-Found creative tab: RArm.creativeTab
 Found creative tab: railcraft
 Found creative tab: Random Things
 Found creative tab: ReactorCraft
 Found creative tab: ReactorCraft Components
 Found creative tab: ReactorCraft Items
-Found creative tab: redstonearsenal.creativeTab
-Found creative tab: RefinedRelocation
 Found creative tab: RotaryCraft
 Found creative tab: RotaryCraft Tools
 Found creative tab: RotaryCraft Items
 Found creative tab: Mod Ores
 Found creative tab: Spawners
-Found creative tab: tabSanguimancy
-Found creative tab: solarflux
 Found creative tab: sfm
 Found creative tab: SC2Blocks
 Found creative tab: SC2Modules
 Found creative tab: SC2Items
-Found creative tab: storageDrawers
-Found creative tab: storageDrawersSorting
-Found creative tab: TConstructBlocks
-Found creative tab: TConstructWeaponry
-Found creative tab: TConstructParts
-Found creative tab: TConstructTools
-Found creative tab: TConstructMaterials
-Found creative tab: TConstructEquipables
 Found creative tab: TaintedMagic
 Found creative tab: thaumcraft
-Found creative tab: thaumicExploration
 Found creative tab: thaumichorizons
 Found creative tab: ThaumicTinkerer
 Found creative tab: brewing
@@ -184,24 +144,14 @@ Found creative tab: thermalexpansion.creativeTabFlorbs
 Found creative tab: thermalfoundation.creativeTab
 Found creative tab: thermalfoundation.creativeTabArmor
 Found creative tab: thermalfoundation.creativeTabTools
-Found creative tab: ThermalSmeltery
 Found creative tab: travellersgear
-Found creative tab: twilightForest
 Found creative tab: witchinggadgets
-Found creative tab: ztones
+Found creative tab: bdew.ae2stuff
 Found creative tab: aobd
 Found creative tab: appliedenergistics2
 Found creative tab: appliedenergistics2.facades
-Found creative tab: arcaneengineering
-Found creative tab: JordTab
-Found creative tab: armourersworkshop
 Found creative tab: Ars Magica Items
 Found creative tab: Ars Magica Blocks
-Found creative tab: bluepower:machines
-Found creative tab: bluepower:tools
-Found creative tab: bluepower:blocks
-Found creative tab: bluepower:items
-Found creative tab: bluepower:lighting
 Found creative tab: tabWoodChiselBlocks
 Found creative tab: tabStairChiselBlocks
 Found creative tab: tabModdedChiselBlocks
@@ -211,21 +161,9 @@ Found creative tab: tabChisel
 Found creative tab: tabMetalChiselBlocks
 Found creative tab: tabComputronics
 Found creative tab: cookingbook
-Found creative tab: chiselAncientTrees
-Found creative tab: dendrology
-Found creative tab: storageDrawersAncientTrees
-Found creative tab: enhancedportals
-Found creative tab: etfuturum
 Found creative tab: Extra_Cells
-Found creative tab: factorizationTab
-Found creative tab: tabFlan1
-Found creative tab: tabFlan4
-Found creative tab: tabFlan0
-Found creative tab: tabFlan3
-Found creative tab: tabFlan2
 Found creative tab: Fossil Blocks
 Found creative tab: Fossil Items
-Found creative tab: gadomancy
 Found creative tab: bdew.gendustry
 Found creative tab: bdew.samples
 Found creative tab: bdew.templates
@@ -233,38 +171,27 @@ Found creative tab: guideapi.creativeTab
 Found creative tab: tabHarvestCraft2
 Found creative tab: tabHarvestCraft3
 Found creative tab: tabHarvestCraft
-Found creative tab: tabComponents
-Found creative tab: tabDecorative
-Found creative tab: tabMachines
 Found creative tab: immersiveintegration
 Found creative tab: ironbackpacks
-Found creative tab: openmodularturrets
+Found creative tab: tabLootPPAdditions
+Found creative tab: tabLootPP
+Found creative tab: tabMatterOverdrive_food
+Found creative tab: tabMatterOverdrive
+Found creative tab: tabMatterOverdrive_buildings
+Found creative tab: tabMatterOverdrive_decorative
+Found creative tab: tabMatterOverdrive_ships
+Found creative tab: tabMatterOverdrive_modules
+Found creative tab: tabMatterOverdrive_upgrades
 Found creative tab: plants
 Found creative tab: build
 Found creative tab: crops
 Found creative tab: aquatic
 Found creative tab: flowers
-Found creative tab: bdew.canisters
-Found creative tab: bdew.pressure
-Found creative tab: psycheDrinks
-Found creative tab: psychedelicraft
-Found creative tab: psycheWeapons
-Found creative tab: RfTools
-Found creative tab: RfToolsDimlets
 Found creative tab: tabSimplyJetpacks
 Found creative tab: Thaumic Bases Blocks
 Found creative tab: Thaumic Bases Items
-Found creative tab: thebetweenlands.block
-Found creative tab: thebetweenlands.herbLore
-Found creative tab: thebetweenlands.plants
-Found creative tab: thebetweenlands.special
-Found creative tab: thebetweenlands.item
-Found creative tab: thebetweenlands.gear
-Found creative tab: TinkerIO_Tabs
-Found creative tab: Totemic
+Found creative tab: ThaumicEnergistics
 Found creative tab: tabWitchery
-Found creative tab: xreliquary
-Found creative tab: zettaindustries
 Setting up ForgeMicroblock Library...
 Setting up ExtraUtilities Library...
 Setting up BuildCraft Library...
@@ -274,8 +201,8 @@ Bootstrap setting found. Loading: Bootstrap.js
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 4033
-override called. Params: appliedenergistics2, item.ItemFacade, 1456
+getNumberOfTypes called. Returned: 2199
+override called. Params: appliedenergistics2, item.ItemFacade, 1704
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: AgriCraft.js
@@ -503,8 +430,8 @@ override called. Params: BiblioCraft, item.seatBack5, 0,6
 Regex match found! BiblioCraft:item.seatBack5 matches BiblioCraft:item.seatBack5.
 Found ItemStack BiblioCraft:item.seatBack5. 64xitem.seatBack@0
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 5874
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 951
+getFacadesSize called. Returned: 3213
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1645
 Loading: cfm.js
 Loading: Decocraft.js
 Loading: ExtraUtilities.js
@@ -559,15 +486,12 @@ Found ItemStack ExtraUtilities:generator.8. 64xtile.extrautils:generator.8@0
 override called. Params: ExtraUtilities, generator.64, 0,1,2,3,4,5,7,8,9,10,11
 Regex match found! ExtraUtilities:generator.64 matches ExtraUtilities:generator.64.
 Found ItemStack ExtraUtilities:generator.64. 64xtile.extrautils:generator.64@0
-getRandomMaterial called. Returned: BiomesOPlenty:gemOre_10
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, BiomesOPlenty:gemOre_10
+getRandomMaterial called. Returned: Botania:customBrick_8
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Botania:customBrick_8
 Loading: ForbiddenMagic.js
-override called. Params: ForbiddenMagic, MobCrystal, 0
-Regex match found! ForbiddenMagic:MobCrystal matches ForbiddenMagic:MobCrystal.
-Found ItemStack ForbiddenMagic:MobCrystal. 1xitem.MobCrystal@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: BiomesOPlenty:colorizedLeaves1_2
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, BiomesOPlenty:colorizedLeaves1_2
+getRandomMaterial called. Returned: Botania:customBrick_8
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Botania:customBrick_8
 Loading: Gendustry.js
 override called. Params: gendustry, GeneSample, 0
 Regex match found! gendustry:GeneSample matches gendustry:GeneSample.
@@ -624,6 +548,7 @@ Regex match found! AWWayofTime:bloodLight matches AWWayofTime:bloodLight.
 Found ItemStack AWWayofTime:bloodLight. 64xtile.blockBloodLightSource@0
 AWWayofTime:bloodMagicBaseItems:32 has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: AWWayofTime, name: bloodMagicBaseItems:32. If this is not correct please report it as a bug!
+The mod AWWayofTime is registering items or blocks with bad registry names. Names should not contain multiple colons as it breaks the ability to do reverse-lookups through FML. Please tell whoever made this mod that this should be changed!
 hide called. Params: AWWayofTime, bloodMagicBaseItems:32
 hide called. Params: AWWayofTime, boundBootsWater
 Regex match found! AWWayofTime:boundBootsWater matches AWWayofTime:boundBootsWater.
@@ -872,6 +797,7 @@ Regex match found! chisel:bloodBrick matches chisel:bloodBrick.
 Found ItemStack chisel:bloodBrick. 64xtile.chisel.bloodBrick@0
 chisel:limestone_slab_top:1 has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: chisel, name: limestone_slab_top:1. If this is not correct please report it as a bug!
+The mod chisel is registering items or blocks with bad registry names. Names should not contain multiple colons as it breaks the ability to do reverse-lookups through FML. Please tell whoever made this mod that this should be changed!
 hide called. Params: chisel, limestone_slab_top:1
 chisel:marble_pillar_slab_top:1 has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: chisel, name: marble_pillar_slab_top:1. If this is not correct please report it as a bug!
@@ -880,23 +806,11 @@ chisel:marble_slab_top:1 has a bad registry name! Attempting to parse and reasse
 Parsed bad name into: modid: chisel, name: marble_slab_top:1. If this is not correct please report it as a bug!
 hide called. Params: chisel, marble_slab_top:1
 hide called. Params: dendrology, dslab0
-Regex match found! dendrology:dslab0 matches dendrology:dslab0.
-Found ItemStack dendrology:dslab0. 64xtile.dendrology:slab@0
 hide called. Params: dendrology, dslab1
-Regex match found! dendrology:dslab1 matches dendrology:dslab1.
-Found ItemStack dendrology:dslab1. 64xtile.dendrology:slab@0
 hide called. Params: HardcoreEnderExpansion, corrupted_energy_high
-Regex match found! HardcoreEnderExpansion:corrupted_energy_high matches HardcoreEnderExpansion:corrupted_energy_high.
-Found ItemStack HardcoreEnderExpansion:corrupted_energy_high. 64xtile.null@0
 hide called. Params: HardcoreEnderExpansion, item_special_effects
-Regex match found! HardcoreEnderExpansion:item_special_effects matches HardcoreEnderExpansion:item_special_effects.
-Found ItemStack HardcoreEnderExpansion:item_special_effects. 64xitem.itemNumber@0
 hide called. Params: HardcoreEnderExpansion, laser_beam
-Regex match found! HardcoreEnderExpansion:laser_beam matches HardcoreEnderExpansion:laser_beam.
-Found ItemStack HardcoreEnderExpansion:laser_beam. 64xtile.laserBeam@0
 hide called. Params: HardcoreEnderExpansion, temple_end_portal
-Regex match found! HardcoreEnderExpansion:temple_end_portal matches HardcoreEnderExpansion:temple_end_portal.
-Found ItemStack HardcoreEnderExpansion:temple_end_portal. 64xtile.templeEndPortal@0
 hide called. Params: JAKJ_RedstoneInMotion, tile.JAKJ_RedstoneInMotion_Spectre
 hide called. Params: LogisticsPipes, logisticsPipeBlock
 hide called. Params: malisisdoors, curtain
@@ -943,23 +857,13 @@ hide called. Params: plantmegapack, bambooWetForestSlabDouble
 Regex match found! plantmegapack:bambooWetForestSlabDouble matches plantmegapack:bambooWetForestSlabDouble.
 Found ItemStack plantmegapack:bambooWetForestSlabDouble. 64xtile.bambooWetForestSlabDouble@0
 hide called. Params: PneumaticCraft, droneRedstoneEmitter
-Regex match found! PneumaticCraft:droneRedstoneEmitter matches PneumaticCraft:droneRedstoneEmitter.
-Found ItemStack PneumaticCraft:droneRedstoneEmitter. 64xtile.droneRedstoneEmitter@0
 hide called. Params: qmunitylib, qmunitylib.blocks.multipart
 Regex match found! qmunitylib:qmunitylib.blocks.multipart matches qmunitylib:qmunitylib.blocks.multipart.
 Found ItemStack qmunitylib:qmunitylib.blocks.multipart. 64xtile.qmunitylib:multipart@0
 hide called. Params: RArm, BlockInvisible.Light
-Regex match found! RArm:BlockInvisible.Light matches RArm:BlockInvisible.Light.
-Found ItemStack RArm:BlockInvisible.Light. 64xtile.RArm.invisible@0
 hide called. Params: RArm, BlockInvisible.Redstone
-Regex match found! RArm:BlockInvisible.Redstone matches RArm:BlockInvisible.Redstone.
-Found ItemStack RArm:BlockInvisible.Redstone. 64xtile.RArm.invisible@0
 hide called. Params: TConstruct, GravelOre
-Regex match found! TConstruct:GravelOre matches TConstruct:GravelOre.
-Found ItemStack TConstruct:GravelOre. 64xtile.tconstruct.gravelore@0
 hide called. Params: TConstruct, ore.berries.one
-Regex match found! TConstruct:ore.berries.one matches TConstruct:ore.berries.one.
-Found ItemStack TConstruct:ore.berries.one. 64xtile.ore.berries.one@0
 hide called. Params: Thaumcraft, blockCosmeticDoubleSlabStone
 Regex match found! Thaumcraft:blockCosmeticDoubleSlabStone matches Thaumcraft:blockCosmeticDoubleSlabStone.
 Found ItemStack Thaumcraft:blockCosmeticDoubleSlabStone. 64xtile.blockCosmeticDoubleSlabStone@0
@@ -971,6 +875,7 @@ hide called. Params: tropicraft, tile.bambooMug
 hide called. Params: tropicraft, tile.doubleSlabs
 tropicraft:tile.doubleSlabs:1 has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: tropicraft, name: tile.doubleSlabs:1. If this is not correct please report it as a bug!
+The mod tropicraft is registering items or blocks with bad registry names. Names should not contain multiple colons as it breaks the ability to do reverse-lookups through FML. Please tell whoever made this mod that this should be changed!
 hide called. Params: tropicraft, tile.doubleSlabs:1
 tropicraft:tile.doubleSlabs:10 has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: tropicraft, name: tile.doubleSlabs:10. If this is not correct please report it as a bug!
@@ -990,11 +895,7 @@ hide called. Params: tropicraft, tile.doubleSlabs:9
 hide called. Params: tropicraft, tile.rainStopper
 hide called. Params: tropicraft, tile.tropicsWater
 hide called. Params: TwilightForest, tile.AuroraDoubleSlab
-Regex match found! TwilightForest:tile.AuroraDoubleSlab matches TwilightForest:tile.AuroraDoubleSlab.
-Found ItemStack TwilightForest:tile.AuroraDoubleSlab. 64xtile.AuroraDoubleSlab@0
 hide called. Params: TwilightForest, tile.TFUncraftingTable
-Regex match found! TwilightForest:tile.TFUncraftingTable matches TwilightForest:tile.TFUncraftingTable.
-Found ItemStack TwilightForest:tile.TFUncraftingTable. 64xtile.TFUncraftingTable@0
 hide called. Params: witchery, icedoubleslab
 Regex match found! witchery:icedoubleslab matches witchery:icedoubleslab.
 Found ItemStack witchery:icedoubleslab. 64xtile.witchery:icedoubleslab@0
@@ -1006,6 +907,7 @@ Regex match found! witchery:witchwooddoubleslab matches witchery:witchwooddouble
 Found ItemStack witchery:witchwooddoubleslab. 64xtile.witchery:witchwooddoubleslab@0
 witchery:witchwooddoubleslab:1 has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: witchery, name: witchwooddoubleslab:1. If this is not correct please report it as a bug!
+The mod witchery is registering items or blocks with bad registry names. Names should not contain multiple colons as it breaks the ability to do reverse-lookups through FML. Please tell whoever made this mod that this should be changed!
 hide called. Params: witchery, witchwooddoubleslab:1
 witchery:witchwooddoubleslab:2 has a bad registry name! Attempting to parse and reassemble correctly...
 Parsed bad name into: modid: witchery, name: witchwooddoubleslab:2. If this is not correct please report it as a bug!
@@ -1020,135 +922,8 @@ override called. Params: OpenBlocks, tank, 0
 Regex match found! OpenBlocks:tank matches OpenBlocks:tank.
 Found ItemStack OpenBlocks:tank. 64xtile.openblocks.tank@0
 override called. Params: pressure, Canister, 0
-Regex match found! pressure:Canister matches pressure:Canister.
-Found ItemStack pressure:Canister. 1xitem.pressure.Canister@0
 Loading: StorageDrawers.js
-override called. Params: StorageDrawers, *, 0
-Regex match found! StorageDrawers:* matches StorageDrawers:compDrawers.
-Regex match found! StorageDrawers:* matches StorageDrawers:compDrawersSort.
-Regex match found! StorageDrawers:* matches StorageDrawers:controller.
-Regex match found! StorageDrawers:* matches StorageDrawers:controllerSlave.
-Regex match found! StorageDrawers:* matches StorageDrawers:framingTable.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullCustom1.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullCustom2.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullCustom4.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullDrawers1.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullDrawers2.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullDrawers4.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullDrawersSort1.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullDrawersSort2.
-Regex match found! StorageDrawers:* matches StorageDrawers:fullDrawersSort4.
-Regex match found! StorageDrawers:* matches StorageDrawers:halfCustom2.
-Regex match found! StorageDrawers:* matches StorageDrawers:halfCustom4.
-Regex match found! StorageDrawers:* matches StorageDrawers:halfDrawers2.
-Regex match found! StorageDrawers:* matches StorageDrawers:halfDrawers4.
-Regex match found! StorageDrawers:* matches StorageDrawers:halfDrawersSort2.
-Regex match found! StorageDrawers:* matches StorageDrawers:halfDrawersSort4.
-Regex match found! StorageDrawers:* matches StorageDrawers:personalKey.
-Regex match found! StorageDrawers:* matches StorageDrawers:shroudKey.
-Regex match found! StorageDrawers:* matches StorageDrawers:tape.
-Regex match found! StorageDrawers:* matches StorageDrawers:trim.
-Regex match found! StorageDrawers:* matches StorageDrawers:trimCustom.
-Regex match found! StorageDrawers:* matches StorageDrawers:trimSort.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgrade.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeCreative.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeLock.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeRedstone.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeSorting.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeStatus.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeTemplate.
-Regex match found! StorageDrawers:* matches StorageDrawers:upgradeVoid.
-Found ItemStack StorageDrawers:compDrawers. 64xtile.compDrawers@0
-Found ItemStack StorageDrawers:compDrawersSort. 64xtile.compDrawers@0
-Found ItemStack StorageDrawers:controller. 64xtile.drawerController@0
-Found ItemStack StorageDrawers:controllerSlave. 64xtile.controllerSlave@0
-Found ItemStack StorageDrawers:framingTable. 64xtile.framingTable@0
-Found ItemStack StorageDrawers:fullCustom1. 64xtile.fullCustom1@0
-Found ItemStack StorageDrawers:fullCustom2. 64xtile.fullCustom2@0
-Found ItemStack StorageDrawers:fullCustom4. 64xtile.fullCustom4@0
-Found ItemStack StorageDrawers:fullDrawers1. 64xtile.fullDrawers1@0
-Found ItemStack StorageDrawers:fullDrawers2. 64xtile.fullDrawers2@0
-Found ItemStack StorageDrawers:fullDrawers4. 64xtile.fullDrawers4@0
-Found ItemStack StorageDrawers:fullDrawersSort1. 64xtile.fullDrawers1@0
-Found ItemStack StorageDrawers:fullDrawersSort2. 64xtile.fullDrawers2@0
-Found ItemStack StorageDrawers:fullDrawersSort4. 64xtile.fullDrawers4@0
-Found ItemStack StorageDrawers:halfCustom2. 64xtile.halfCustom2@0
-Found ItemStack StorageDrawers:halfCustom4. 64xtile.halfCustom4@0
-Found ItemStack StorageDrawers:halfDrawers2. 64xtile.halfDrawers2@0
-Found ItemStack StorageDrawers:halfDrawers4. 64xtile.halfDrawers4@0
-Found ItemStack StorageDrawers:halfDrawersSort2. 64xtile.halfDrawers2@0
-Found ItemStack StorageDrawers:halfDrawersSort4. 64xtile.halfDrawers4@0
-Found ItemStack StorageDrawers:personalKey. 64xitem.storagedrawers.personalKey@0
-Found ItemStack StorageDrawers:shroudKey. 64xitem.storagedrawers.shroudKey@0
-Found ItemStack StorageDrawers:tape. 1xitem.storagedrawers.tape@0
-Found ItemStack StorageDrawers:trim. 64xtile.trim@0
-Found ItemStack StorageDrawers:trimCustom. 64xtile.trimCustom@0
-Found ItemStack StorageDrawers:trimSort. 64xtile.trim@0
-Found ItemStack StorageDrawers:upgrade. 64xitem.storagedrawers.upgrade@0
-Found ItemStack StorageDrawers:upgradeCreative. 64xitem.storagedrawers.upgradeCreative@0
-Found ItemStack StorageDrawers:upgradeLock. 64xitem.storagedrawers.upgradeLock@0
-Found ItemStack StorageDrawers:upgradeRedstone. 64xitem.storagedrawers.upgradeRedstone@0
-Found ItemStack StorageDrawers:upgradeSorting. 64xitem.storagedrawers.upgradeSorting@0
-Found ItemStack StorageDrawers:upgradeStatus. 64xitem.storagedrawers.upgradeStatus@0
-Found ItemStack StorageDrawers:upgradeTemplate. 64xitem.storagedrawers.upgradeTemplate@0
-Found ItemStack StorageDrawers:upgradeVoid. 64xitem.storagedrawers.upgradeVoid@0
-override called. Params: StorageDrawers, upgrade, 2,3,4,5,6
-Regex match found! StorageDrawers:upgrade matches StorageDrawers:upgrade.
-Found ItemStack StorageDrawers:upgrade. 64xitem.storagedrawers.upgrade@0
-override called. Params: StorageDrawers, upgradeStatus, 1,2
-Regex match found! StorageDrawers:upgradeStatus matches StorageDrawers:upgradeStatus.
-Found ItemStack StorageDrawers:upgradeStatus. 64xitem.storagedrawers.upgradeStatus@0
-hide called. Params: StorageDrawersBop, *
-hide called. Params: StorageDrawersForestry, *
-hide called. Params: StorageDrawersMisc, *
-hide called. Params: dendrology, fullDrawers1
-Regex match found! dendrology:fullDrawers1 matches dendrology:fullDrawers1.
-Found ItemStack dendrology:fullDrawers1. 64xtile.dendrology.fullDrawers1@0
-hide called. Params: dendrology, fullDrawers2
-Regex match found! dendrology:fullDrawers2 matches dendrology:fullDrawers2.
-Found ItemStack dendrology:fullDrawers2. 64xtile.dendrology.fullDrawers2@0
-hide called. Params: dendrology, fullDrawers4
-Regex match found! dendrology:fullDrawers4 matches dendrology:fullDrawers4.
-Found ItemStack dendrology:fullDrawers4. 64xtile.dendrology.fullDrawers4@0
-hide called. Params: dendrology, halfDrawers2
-Regex match found! dendrology:halfDrawers2 matches dendrology:halfDrawers2.
-Found ItemStack dendrology:halfDrawers2. 64xtile.dendrology.halfDrawers2@0
-hide called. Params: dendrology, halfDrawers4
-Regex match found! dendrology:halfDrawers4 matches dendrology:halfDrawers4.
-Found ItemStack dendrology:halfDrawers4. 64xtile.dendrology.halfDrawers4@0
-hide called. Params: dendrology, fullDrawersSort1
-Regex match found! dendrology:fullDrawersSort1 matches dendrology:fullDrawersSort1.
-Found ItemStack dendrology:fullDrawersSort1. 64xtile.dendrology.fullDrawers1@0
-hide called. Params: dendrology, fullDrawersSort2
-Regex match found! dendrology:fullDrawersSort2 matches dendrology:fullDrawersSort2.
-Found ItemStack dendrology:fullDrawersSort2. 64xtile.dendrology.fullDrawers2@0
-hide called. Params: dendrology, fullDrawersSort4
-Regex match found! dendrology:fullDrawersSort4 matches dendrology:fullDrawersSort4.
-Found ItemStack dendrology:fullDrawersSort4. 64xtile.dendrology.fullDrawers4@0
-hide called. Params: dendrology, halfDrawersSort4
-Regex match found! dendrology:halfDrawersSort4 matches dendrology:halfDrawersSort4.
-Found ItemStack dendrology:halfDrawersSort4. 64xtile.dendrology.halfDrawers4@0
-hide called. Params: dendrology, halfDrawersSort2
-Regex match found! dendrology:halfDrawersSort2 matches dendrology:halfDrawersSort2.
-Found ItemStack dendrology:halfDrawersSort2. 64xtile.dendrology.halfDrawers2@0
 Loading: Tcon.js
-override called. Params: TConstruct, tool*, 0
-Regex match found! TConstruct:tool* matches TConstruct:toolRod.
-Regex match found! TConstruct:tool* matches TConstruct:toolShard.
-Found ItemStack TConstruct:toolRod. 64xitem.tconstruct.ToolRod@0
-Found ItemStack TConstruct:toolShard. 64xitem.tconstruct.ToolShard@0
-override called. Params: TConstruct, binding, 0
-Regex match found! TConstruct:binding matches TConstruct:binding.
-Found ItemStack TConstruct:binding. 64xitem.tconstruct.Binding@0
-override called. Params: TConstruct, scytheBlade, 0
-Regex match found! TConstruct:scytheBlade matches TConstruct:scytheBlade.
-Found ItemStack TConstruct:scytheBlade. 64xitem.tconstruct.ScytheHead@0
-override called. Params: TConstruct, ore.berries.two, 9
-Regex match found! TConstruct:ore.berries.two matches TConstruct:ore.berries.two.
-Found ItemStack TConstruct:ore.berries.two. 64xtile.ore.berries.two@0
-override called. Params: TConstruct, oreBerries, 5
-Regex match found! TConstruct:oreBerries matches TConstruct:oreBerries.
-Found ItemStack TConstruct:oreBerries. 64xitem.oreberry@0
 Loading: ThermalExpansion.js
 override called. Params: ThermalExpansion, florb, 0,1
 Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.

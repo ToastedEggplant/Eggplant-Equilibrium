@@ -1,13 +1,4 @@
-Total amount of conflicted potion ids: 10
+Total amount of conflicted potion ids: 0
 IDs in conflict:
 
-24 is asked by: Water Breathing (am2.buffs.ArsMagicaPotion), ic2.potion.radiation (ic2.core.IC2Potion)
-27 is asked by: potion.paralysis (biomesoplenty.common.potions.PotionParalysis), immersiveengineering.potion.flammable (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
-28 is asked by: potion.possession (biomesoplenty.common.potions.PotionPossession), immersiveengineering.potion.slippery (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
-29 is asked by: potion.radiation (galaxyspace.SolarSystem.core.potions.Radiation), immersiveengineering.potion.conductive (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
-30 is asked by: potion.wellfedPotion (iguanaman.hungeroverhaul.potion.PotionWellFed), immersiveengineering.potion.sticky (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
-32 is asked by: Bat (totemic_commons.pokefenn.potion.PotionBat), potion.taintWithdrawl (flaxbeard.thaumicexploration.misc.TXTaintPotion)
-33 is asked by: Horse (totemic_commons.pokefenn.potion.PotionHorse), witchery:potion.paralysed (com.emoniph.witchery.brewing.potions.PotionParalysis)
-35 is asked by: Spider (totemic_commons.pokefenn.potion.PotionSpider), witchery:potion.spiked (com.emoniph.witchery.brewing.potions.PotionSpiked)
-43 is asked by: Astral Distortion (am2.buffs.ArsMagicaPotion), witchery:potion.hellishaura (com.emoniph.witchery.brewing.potions.PotionHellishAura)
-44 is asked by: Mana Shield (am2.buffs.ArsMagicaPotion), witchery:potion.brewingexpertise (com.emoniph.witchery.brewing.potions.PotionBrewingExpertise)
+
