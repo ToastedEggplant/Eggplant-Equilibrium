@@ -497,5 +497,135 @@
         "stream": true
       }
     ]
+  },
+
+"records.House": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/House",
+        "stream": true
+      }
+    ]
+  },
+
+"records.Imperial": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Imperial",
+        "stream": true
+      }
+    ]
+  },
+
+"records.Yoda": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Yoda",
+        "stream": true
+      }
+    ]
+  },
+
+"records.One": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/One",
+        "stream": true
+      }
+    ]
+  },
+
+"records.Rainbow": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Rainbow",
+        "stream": true
+      }
+    ]
+  },
+
+"records.Pokemon": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Pokemon",
+        "stream": true
+      }
+    ]
+  },
+
+"records.Grow": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Grow",
+        "stream": true
+      }
+    ]
+  },
+
+"records.Gay": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Gay",
+        "stream": true
+      }
+    ]
+  },
+
+"records.Tetris": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Tetris",
+        "stream": true
+      }
+    ]
+  },
+
+"records.Tracks": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Tracks",
+        "stream": true
+      }
+    ]
+  },
+
+"records.Expect": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Expect",
+        "stream": true
+      }
+    ]
+  },
+
+"records.Britain": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Britain",
+        "stream": true
+      }
+    ]
+  },
+
+"records.Rocket": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Rocket",
+        "stream": true
+      }
+    ]
   }
 }
