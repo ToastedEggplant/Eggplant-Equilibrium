@@ -1,4 +1,4 @@
-{
+	{
   "records.AoW": {
     "category": "record",
     "sounds": [
@@ -625,6 +625,128 @@
       {
         "name": "records/Rocket",
         "stream": true
+
+      }
+    ]
+  },
+
+"records.DK": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/DK",
+        "stream": true
+
+      }
+    ]
+  },
+
+"records.Skyrim": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Skyrim",
+        "stream": true
+
+      }
+    ]
+  },
+
+"records.Doki": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Doki",
+        "stream": true
+
+      }
+    ]
+  },
+
+"records.Daisy": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Daisy",
+        "stream": true
+
+      }
+    ]
+  },
+
+"records.90s": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/90s",
+        "stream": true
+
+      }
+    ]
+  },
+
+"records.Glob": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Glob",
+        "stream": true
+
+      }
+    ]
+  },
+
+"records.Toad": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Toad",
+        "stream": true
+
+      }
+    ]
+  },
+
+"records.Sky": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Sky",
+        "stream": true
+
+      }
+    ]
+  },
+
+"records.Sunshine": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Sunshine",
+        "stream": true
+
+      }
+    ]
+  },
+
+"records.Snowman": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Snowman",
+        "stream": true
+
+      }
+    ]
+  },
+
+"records.Odyssey": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Odyssey",
+        "stream": true
+
       }
     ]
   }
