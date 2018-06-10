@@ -1,5 +1,5 @@
-Total amount of free potion ids: 980
-Total amount of occupied potion ids: 144
+Total amount of free potion ids: 981
+Total amount of occupied potion ids: 143
 Total amount of conflicted potion ids: 0
 All ids and their position:
 0 is Avaible
@@ -26,8 +26,8 @@ All ids and their position:
 21 is Occupied by potion.healthBoost (net.minecraft.potion.PotionHealthBoost)
 22 is Occupied by potion.absorption (net.minecraft.potion.PotionAbsoption)
 23 is Occupied by potion.saturation (net.minecraft.potion.PotionHealth)
-24 is Occupied by ic2.potion.radiation (ic2.core.IC2Potion)
-25 is Occupied by potion.wellfedPotion (iguanaman.hungeroverhaul.potion.PotionWellFed)
+24 is Occupied by potion.wellfedPotion (iguanaman.hungeroverhaul.potion.PotionWellFed)
+25 is Avaible
 26 is Avaible
 27 is Avaible
 28 is Avaible
@@ -42,7 +42,7 @@ All ids and their position:
 37 is Occupied by witchery:potion.love (com.emoniph.witchery.brewing.potions.PotionLove)
 38 is Occupied by witchery:potion.allergysun (com.emoniph.witchery.brewing.potions.PotionSunAllergy)
 39 is Occupied by witchery:potion.chilled (com.emoniph.witchery.brewing.potions.PotionChilled)
-40 is Occupied by witchery:potion.snowtrail (com.emoniph.witchery.brewing.potions.PotionSnowTrail)
+40 is Occupied by potion.featherfall (enhancedportals.item.PotionFeatherfall)
 41 is Occupied by witchery:potion.floating (com.emoniph.witchery.brewing.potions.PotionFloating)
 42 is Occupied by witchery:potion.hellishaura (com.emoniph.witchery.brewing.potions.PotionHellishAura)
 43 is Occupied by witchery:potion.brewingexpertise (com.emoniph.witchery.brewing.potions.PotionBrewingExpertise)

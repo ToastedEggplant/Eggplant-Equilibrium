@@ -1,6 +1,7 @@
 Total amount of free potion ids: C:\Users\ljjmr\AppData\Roaming\.technic\modpacks\eggplant-equilibrium\config\AntiIDConflict\potions\avaibleIDs.txt
 List of free potion ids:
 0
+25
 26
 27
 28

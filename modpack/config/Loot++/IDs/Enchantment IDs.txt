@@ -63,6 +63,62 @@
 	- Max Level: 3
 
 
+8
+	- Name: enchantment.soulbound
+	- Weight: 5
+	- Min Level: 1
+	- Max Level: 1
+
+
+9
+	- Name: enchantment.chroma.aggromask
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 2
+
+
+10
+	- Name: enchantment.chroma.airminer
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 1
+
+
+11
+	- Name: enchantment.chroma.phasing
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 4
+
+
+12
+	- Name: enchantment.chroma.bosskill
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 4
+
+
+13
+	- Name: enchantment.chroma.enderlock
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 1
+
+
+14
+	- Name: enchantment.chroma.harvestlevel
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 2
+
+
+15
+	- Name: enchantment.chroma.fastsink
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 1
+
+
 16
 	- Name: enchantment.damage.all
 	- Weight: 10
@@ -105,6 +161,48 @@
 	- Max Level: 3
 
 
+22
+	- Name: enchantment.chroma.rareloot
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 4
+
+
+23
+	- Name: enchantment.chroma.userepair
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 3
+
+
+24
+	- Name: enchantment.chroma.weaponaoe
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 5
+
+
+25
+	- Name: enchantment.magicresist
+	- Weight: 5
+	- Min Level: 1
+	- Max Level: 5
+
+
+26
+	- Name: enchantment.enderio.soulBound
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 1
+
+
+28
+	- Name: enchantment.matteroverdrive.weapon.damage
+	- Weight: 10
+	- Min Level: 1
+	- Max Level: 4
+
+
 32
 	- Name: enchantment.digging
 	- Weight: 10
@@ -131,6 +229,20 @@
 	- Weight: 2
 	- Min Level: 1
 	- Max Level: 3
+
+
+45
+	- Name: enchantment.xpboost
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 3
+
+
+46
+	- Name: enchantment.autosmelt
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 1
 
 
 48
@@ -173,5 +285,299 @@
 	- Weight: 2
 	- Min Level: 1
 	- Max Level: 3
+
+
+64
+	- Name: enchantment.wg.gemstonePotency
+	- Weight: 4
+	- Min Level: 1
+	- Max Level: 3
+
+
+65
+	- Name: enchantment.wg.gemstoneBrittle
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 3
+
+
+74
+	- Name: enchantment.wg.invisibleGear
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 2
+
+
+75
+	- Name: enchantment.wg.unveiling
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 1
+
+
+76
+	- Name: enchantment.wg.stealth
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 5
+
+
+90
+	- Name: enchantment.paleontology
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 3
+
+
+91
+	- Name: enchantment.archeology
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 3
+
+
+98
+	- Name: enchantment.elderKnowledge
+	- Weight: 12
+	- Min Level: 1
+	- Max Level: 5
+
+
+99
+	- Name: enchantment.eldritchBane
+	- Weight: 7
+	- Min Level: 1
+	- Max Level: 5
+
+
+100
+	- Name: enchantment.magicTouch
+	- Weight: 11
+	- Min Level: 1
+	- Max Level: 3
+
+
+101
+	- Name: enchantment.tainted
+	- Weight: 9
+	- Min Level: 1
+	- Max Level: 3
+
+
+102
+	- Name: enchantment.vaporising
+	- Weight: 6
+	- Min Level: 1
+	- Max Level: 3
+
+
+103
+	- Name: enchant.cofh.holding
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 4
+
+
+104
+	- Name: enchant.cofh.multishot
+	- Weight: 5
+	- Min Level: 1
+	- Max Level: 4
+
+
+107
+	- Name: enchantment.wg.backstab
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 3
+
+
+108
+	- Name: enchantment.wg.rideProtect
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 1
+
+
+110
+	- Name: simplyjetpacks.enchantment.fuelEfficiency
+	- Weight: 3
+	- Min Level: 1
+	- Max Level: 4
+
+
+153
+	- Name: enchantment.haste
+	- Weight: 3
+	- Min Level: 1
+	- Max Level: 3
+
+
+154
+	- Name: enchantment.repair
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 2
+
+
+166
+	- Name: enchantment.ttinkerer:dispersedStrike
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 5
+
+
+167
+	- Name: enchantment.ttinkerer:shatter
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 5
+
+
+168
+	- Name: enchantment.ttinkerer:finalStrike
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 5
+
+
+169
+	- Name: enchantment.ttinkerer:focusedStrike
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 5
+
+
+170
+	- Name: enchantment.ttinkerer:pounce
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 5
+
+
+171
+	- Name: enchantment.ttinkerer:shockwave
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 5
+
+
+172
+	- Name: enchantment.ttinkerer:tunnel
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 5
+
+
+173
+	- Name: enchantment.ttinkerer:valiance
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 5
+
+
+180
+	- Name: enchantment.draconicevolution.reaperEnchant
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 5
+
+
+190
+	- Name: enchantment.railcraft.crowbar.wrecking
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 5
+
+
+191
+	- Name: enchantment.railcraft.crowbar.implosion
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 5
+
+
+192
+	- Name: enchantment.railcraft.crowbar.destruction
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 3
+
+
+196
+	- Name: Reading
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 1
+
+
+197
+	- Name: Eternal Compass
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 1
+
+
+211
+	- Name: enchantment.openblocks.explosive
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 3
+
+
+212
+	- Name: enchantment.openblocks.laststand
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 2
+
+
+213
+	- Name: enchantment.openblocks.flimflam
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 4
+
+
+220
+	- Name: enchantment.ttinkerer:ascentBoost
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 4
+
+
+221
+	- Name: enchantment.ttinkerer:slowFall
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 3
+
+
+222
+	- Name: enchantment.ttinkerer:autoSmelt
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 1
+
+
+223
+	- Name: enchantment.ttinkerer:desintegrate
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 1
+
+
+224
+	- Name: enchantment.ttinkerer:quickDraw
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 2
+
+
+225
+	- Name: enchantment.ttinkerer:vampirism
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 2
 
 

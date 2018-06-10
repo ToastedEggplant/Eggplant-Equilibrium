@@ -165,13 +165,57 @@
 	- Name: Mesa Plateau
 	- Forge Biome Types: MESA SANDY 
 
+59
+	- Name: Eerie
+	- Forge Biome Types: SPOOKY MAGICAL 
+
+60
+	- Name: Eldritch
+	- Forge Biome Types: SPOOKY END MAGICAL 
+
+61
+	- Name: Magical Forest
+	- Forge Biome Types: MAGICAL FOREST 
+
+62
+	- Name: Tainted Land
+	- Forge Biome Types: MAGICAL WASTELAND 
+
+63
+	- Name: Storage Cell
+	- Forge Biome Types: COLD PLAINS 
+
+64
+	- Name: Desert Oil Field
+	- Forge Biome Types: SANDY 
+
+65
+	- Name: Ocean Oil Field
+	- Forge Biome Types: OCEAN RIVER 
+
+82
+	- Name: BambooForest
+	- Forge Biome Types: DENSE LUSH FOREST 
+
+100
+	- Name: WitchwoodForest
+	- Forge Biome Types: MAGICAL FOREST 
+
+127
+	- Name: biome.treasure.name
+	- Forge Biome Types: DRY PLAINS 
+
+128
+	- Name: Land of Darkness
+	- Forge Biome Types: DRY PLAINS 
+
 129
 	- Name: Sunflower Plains
 	- Forge Biome Types: PLAINS 
 
 130
 	- Name: Desert M
-	- Forge Biome Types: HOT DRY PLAINS SANDY 
+	- Forge Biome Types: HOT DRY SANDY 
 
 131
 	- Name: Extreme Hills M
@@ -183,7 +227,7 @@
 
 133
 	- Name: Taiga M
-	- Forge Biome Types: HILLS 
+	- Forge Biome Types: COLD CONIFEROUS FOREST 
 
 134
 	- Name: Swampland M
@@ -193,29 +237,69 @@
 	- Name: Ice Plains Spikes
 	- Forge Biome Types: COLD HILLS SNOWY 
 
+143
+	- Name: Ender Forest
+	- Forge Biome Types: MAGICAL FOREST 
+
+145
+	- Name: Luminous Cliffs
+	- Forge Biome Types: WET LUSH MAGICAL MOUNTAIN BEACH 
+
+146
+	- Name: Luminous Cliffs Shores
+	- Forge Biome Types: WET LUSH MAGICAL MOUNTAIN BEACH 
+
+147
+	- Name: Rainbow Forest
+	- Forge Biome Types: MAGICAL FOREST HILLS 
+
+148
+	- Name: Aura Ocean
+	- Forge Biome Types: MAGICAL OCEAN 
+
 149
 	- Name: Jungle M
-	- Forge Biome Types: HOT WET HILLS 
+	- Forge Biome Types: HOT DENSE WET JUNGLE 
+
+150
+	- Name: Luminescent Sanctuary
+	- Forge Biome Types: DENSE MAGICAL FOREST 
 
 151
 	- Name: JungleEdge M
-	- Forge Biome Types: HOT HILLS 
+	- Forge Biome Types: HOT WET JUNGLE FOREST 
+
+152
+	- Name: Crystal Forest
+	- Forge Biome Types: MAGICAL FOREST 
+
+153
+	- Name: Crystal Mountains
+	- Forge Biome Types: MAGICAL MOUNTAIN 
+
+154
+	- Name: Crystal Plains
+	- Forge Biome Types: MAGICAL PLAINS 
 
 155
 	- Name: Birch Forest M
-	- Forge Biome Types: HILLS 
+	- Forge Biome Types: FOREST 
 
 156
 	- Name: Birch Forest Hills M
-	- Forge Biome Types: HILLS 
+	- Forge Biome Types: FOREST HILLS 
 
 157
 	- Name: Roofed Forest M
-	- Forge Biome Types: HILLS 
+	- Forge Biome Types: DENSE SPOOKY FOREST 
 
 158
 	- Name: Cold Taiga M
-	- Forge Biome Types: COLD HILLS SNOWY 
+	- Forge Biome Types: COLD CONIFEROUS FOREST SNOWY 
+
+159
+	- Name: Glowing Forest
+	- Forge Biome Types: MAGICAL FOREST 
 
 160
 	- Name: Mega Spruce Taiga
@@ -231,11 +315,11 @@
 
 163
 	- Name: Savanna M
-	- Forge Biome Types: HOT SPARSE DRY SAVANNA HILLS 
+	- Forge Biome Types: HOT SPARSE SAVANNA PLAINS 
 
 164
 	- Name: Savanna Plateau M
-	- Forge Biome Types: HOT SPARSE DRY SAVANNA HILLS 
+	- Forge Biome Types: HOT SPARSE SAVANNA PLAINS 
 
 165
 	- Name: Mesa (Bryce)
@@ -248,4 +332,32 @@
 167
 	- Name: Mesa Plateau M
 	- Forge Biome Types: HOT DRY PLAINS SANDY 
+
+168
+	- Name: Lumen Skylands
+	- Forge Biome Types: COLD MAGICAL 
+
+169
+	- Name: Monument Field
+	- Forge Biome Types: MAGICAL PLAINS 
+
+170
+	- Name: Radiant Fissures
+	- Forge Biome Types: HOT MAGICAL 
+
+171
+	- Name: Iridescent Archipelago
+	- Forge Biome Types: WET MAGICAL BEACH 
+
+172
+	- Name: Sparkling Sands
+	- Forge Biome Types: MAGICAL SANDY BEACH 
+
+173
+	- Name: Structure Field
+	- Forge Biome Types: MAGICAL PLAINS 
+
+174
+	- Name: Voidland
+	- Forge Biome Types: COLD END MAGICAL 
 

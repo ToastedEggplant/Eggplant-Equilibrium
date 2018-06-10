@@ -85,7 +85,6 @@ Found creative tab: CC Info Fragments
 Found creative tab: blocksAndItems
 Found creative tab: food
 Found creative tab: toolsAndWeapons
-Found creative tab: EMT.creativeTab
 Found creative tab: ElectriCraft
 Found creative tab: EnderIO
 Found creative tab: decorations
@@ -102,7 +101,6 @@ Found creative tab: creative_tab_grcbamboo
 Found creative tab: creative_tab_grcbees
 Found creative tab: creative_tab_grcgrapes
 Found creative tab: creative_tab_grcmilk
-Found creative tab: IC2
 Found creative tab: ImmersiveEngineering
 Found creative tab: jabba
 Found creative tab: magicBees
@@ -130,6 +128,12 @@ Found creative tab: sfm
 Found creative tab: SC2Blocks
 Found creative tab: SC2Modules
 Found creative tab: SC2Items
+Found creative tab: TConstructBlocks
+Found creative tab: TConstructWeaponry
+Found creative tab: TConstructParts
+Found creative tab: TConstructTools
+Found creative tab: TConstructMaterials
+Found creative tab: TConstructEquipables
 Found creative tab: TaintedMagic
 Found creative tab: thaumcraft
 Found creative tab: thaumichorizons
@@ -161,6 +165,7 @@ Found creative tab: tabChisel
 Found creative tab: tabMetalChiselBlocks
 Found creative tab: tabComputronics
 Found creative tab: cookingbook
+Found creative tab: enhancedportals
 Found creative tab: Extra_Cells
 Found creative tab: Fossil Blocks
 Found creative tab: Fossil Items
@@ -182,11 +187,6 @@ Found creative tab: tabMatterOverdrive_decorative
 Found creative tab: tabMatterOverdrive_ships
 Found creative tab: tabMatterOverdrive_modules
 Found creative tab: tabMatterOverdrive_upgrades
-Found creative tab: plants
-Found creative tab: build
-Found creative tab: crops
-Found creative tab: aquatic
-Found creative tab: flowers
 Found creative tab: tabSimplyJetpacks
 Found creative tab: Thaumic Bases Blocks
 Found creative tab: Thaumic Bases Items
@@ -201,8 +201,8 @@ Bootstrap setting found. Loading: Bootstrap.js
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 2199
-override called. Params: appliedenergistics2, item.ItemFacade, 1704
+getNumberOfTypes called. Returned: 2258
+override called. Params: appliedenergistics2, item.ItemFacade, 2191
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: AgriCraft.js
@@ -430,8 +430,8 @@ override called. Params: BiblioCraft, item.seatBack5, 0,6
 Regex match found! BiblioCraft:item.seatBack5 matches BiblioCraft:item.seatBack5.
 Found ItemStack BiblioCraft:item.seatBack5. 64xitem.seatBack@0
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 3213
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1645
+getFacadesSize called. Returned: 3301
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 2674
 Loading: cfm.js
 Loading: Decocraft.js
 Loading: ExtraUtilities.js
@@ -486,12 +486,12 @@ Found ItemStack ExtraUtilities:generator.8. 64xtile.extrautils:generator.8@0
 override called. Params: ExtraUtilities, generator.64, 0,1,2,3,4,5,7,8,9,10,11
 Regex match found! ExtraUtilities:generator.64 matches ExtraUtilities:generator.64.
 Found ItemStack ExtraUtilities:generator.64. 64xtile.extrautils:generator.64@0
-getRandomMaterial called. Returned: Botania:customBrick_8
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Botania:customBrick_8
+getRandomMaterial called. Returned: Botania:customBrick
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Botania:customBrick
 Loading: ForbiddenMagic.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: Botania:customBrick_8
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Botania:customBrick_8
+getRandomMaterial called. Returned: Botania:customBrick_7
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Botania:customBrick_7
 Loading: Gendustry.js
 override called. Params: gendustry, GeneSample, 0
 Regex match found! gendustry:GeneSample matches gendustry:GeneSample.
@@ -830,32 +830,14 @@ hide called. Params: malisisdoors, null
 hide called. Params: malisisdoors, shoji_door
 hide called. Params: malisisdoors, wood_sliding_door
 hide called. Params: plantmegapack, bambooAsperSlabDouble
-Regex match found! plantmegapack:bambooAsperSlabDouble matches plantmegapack:bambooAsperSlabDouble.
-Found ItemStack plantmegapack:bambooAsperSlabDouble. 64xtile.bambooAsperSlabDouble@0
 hide called. Params: plantmegapack, bambooFargesiaRobustaSlabDouble
-Regex match found! plantmegapack:bambooFargesiaRobustaSlabDouble matches plantmegapack:bambooFargesiaRobustaSlabDouble.
-Found ItemStack plantmegapack:bambooFargesiaRobustaSlabDouble. 64xtile.bambooFargesiaRobustaSlabDouble@0
 hide called. Params: plantmegapack, bambooGiantTimberSlabDouble
-Regex match found! plantmegapack:bambooGiantTimberSlabDouble matches plantmegapack:bambooGiantTimberSlabDouble.
-Found ItemStack plantmegapack:bambooGiantTimberSlabDouble. 64xtile.bambooGiantTimberSlabDouble@0
 hide called. Params: plantmegapack, bambooGoldenSlabDouble
-Regex match found! plantmegapack:bambooGoldenSlabDouble matches plantmegapack:bambooGoldenSlabDouble.
-Found ItemStack plantmegapack:bambooGoldenSlabDouble. 64xtile.bambooGoldenSlabDouble@0
 hide called. Params: plantmegapack, bambooMosoSlabDouble
-Regex match found! plantmegapack:bambooMosoSlabDouble matches plantmegapack:bambooMosoSlabDouble.
-Found ItemStack plantmegapack:bambooMosoSlabDouble. 64xtile.bambooMosoSlabDouble@0
 hide called. Params: plantmegapack, bambooShortTassledSlabDouble
-Regex match found! plantmegapack:bambooShortTassledSlabDouble matches plantmegapack:bambooShortTassledSlabDouble.
-Found ItemStack plantmegapack:bambooShortTassledSlabDouble. 64xtile.bambooShortTassledSlabDouble@0
 hide called. Params: plantmegapack, bambooTimorBlackSlabDouble
-Regex match found! plantmegapack:bambooTimorBlackSlabDouble matches plantmegapack:bambooTimorBlackSlabDouble.
-Found ItemStack plantmegapack:bambooTimorBlackSlabDouble. 64xtile.bambooTimorBlackSlabDouble@0
 hide called. Params: plantmegapack, bambooTropicalBlueSlabDouble
-Regex match found! plantmegapack:bambooTropicalBlueSlabDouble matches plantmegapack:bambooTropicalBlueSlabDouble.
-Found ItemStack plantmegapack:bambooTropicalBlueSlabDouble. 64xtile.bambooTropicalBlueSlabDouble@0
 hide called. Params: plantmegapack, bambooWetForestSlabDouble
-Regex match found! plantmegapack:bambooWetForestSlabDouble matches plantmegapack:bambooWetForestSlabDouble.
-Found ItemStack plantmegapack:bambooWetForestSlabDouble. 64xtile.bambooWetForestSlabDouble@0
 hide called. Params: PneumaticCraft, droneRedstoneEmitter
 hide called. Params: qmunitylib, qmunitylib.blocks.multipart
 Regex match found! qmunitylib:qmunitylib.blocks.multipart matches qmunitylib:qmunitylib.blocks.multipart.
@@ -863,7 +845,11 @@ Found ItemStack qmunitylib:qmunitylib.blocks.multipart. 64xtile.qmunitylib:multi
 hide called. Params: RArm, BlockInvisible.Light
 hide called. Params: RArm, BlockInvisible.Redstone
 hide called. Params: TConstruct, GravelOre
+Regex match found! TConstruct:GravelOre matches TConstruct:GravelOre.
+Found ItemStack TConstruct:GravelOre. 64xtile.tconstruct.gravelore@0
 hide called. Params: TConstruct, ore.berries.one
+Regex match found! TConstruct:ore.berries.one matches TConstruct:ore.berries.one.
+Found ItemStack TConstruct:ore.berries.one. 64xtile.ore.berries.one@0
 hide called. Params: Thaumcraft, blockCosmeticDoubleSlabStone
 Regex match found! Thaumcraft:blockCosmeticDoubleSlabStone matches Thaumcraft:blockCosmeticDoubleSlabStone.
 Found ItemStack Thaumcraft:blockCosmeticDoubleSlabStone. 64xtile.blockCosmeticDoubleSlabStone@0
@@ -924,6 +910,23 @@ Found ItemStack OpenBlocks:tank. 64xtile.openblocks.tank@0
 override called. Params: pressure, Canister, 0
 Loading: StorageDrawers.js
 Loading: Tcon.js
+override called. Params: TConstruct, tool*, 0
+Regex match found! TConstruct:tool* matches TConstruct:toolRod.
+Regex match found! TConstruct:tool* matches TConstruct:toolShard.
+Found ItemStack TConstruct:toolRod. 64xitem.tconstruct.ToolRod@0
+Found ItemStack TConstruct:toolShard. 64xitem.tconstruct.ToolShard@0
+override called. Params: TConstruct, binding, 0
+Regex match found! TConstruct:binding matches TConstruct:binding.
+Found ItemStack TConstruct:binding. 64xitem.tconstruct.Binding@0
+override called. Params: TConstruct, scytheBlade, 0
+Regex match found! TConstruct:scytheBlade matches TConstruct:scytheBlade.
+Found ItemStack TConstruct:scytheBlade. 64xitem.tconstruct.ScytheHead@0
+override called. Params: TConstruct, ore.berries.two, 9
+Regex match found! TConstruct:ore.berries.two matches TConstruct:ore.berries.two.
+Found ItemStack TConstruct:ore.berries.two. 64xtile.ore.berries.two@0
+override called. Params: TConstruct, oreBerries, 5
+Regex match found! TConstruct:oreBerries matches TConstruct:oreBerries.
+Found ItemStack TConstruct:oreBerries. 64xitem.oreberry@0
 Loading: ThermalExpansion.js
 override called. Params: ThermalExpansion, florb, 0,1
 Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.
