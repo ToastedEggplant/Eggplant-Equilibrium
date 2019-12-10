@@ -64,8 +64,8 @@
 
 
 8
-	- Name: enchantment.soulbound
-	- Weight: 5
+	- Name: enchantment.enderio.soulBound
+	- Weight: 1
 	- Min Level: 1
 	- Max Level: 1
 
@@ -162,38 +162,17 @@
 
 
 22
-	- Name: enchantment.chroma.rareloot
-	- Weight: 0
+	- Name: enchantment.null
+	- Weight: 10
 	- Min Level: 1
-	- Max Level: 4
+	- Max Level: 2
 
 
 23
-	- Name: enchantment.chroma.userepair
-	- Weight: 0
-	- Min Level: 1
-	- Max Level: 3
-
-
-24
-	- Name: enchantment.chroma.weaponaoe
-	- Weight: 0
+	- Name: enchantment.null
+	- Weight: 10
 	- Min Level: 1
 	- Max Level: 5
-
-
-25
-	- Name: enchantment.magicresist
-	- Weight: 5
-	- Min Level: 1
-	- Max Level: 5
-
-
-26
-	- Name: enchantment.enderio.soulBound
-	- Weight: 1
-	- Min Level: 1
-	- Max Level: 1
 
 
 28
@@ -301,6 +280,62 @@
 	- Max Level: 3
 
 
+66
+	- Name: enchantment.cluster
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 4
+
+
+67
+	- Name: enchantment.wrath
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 5
+
+
+68
+	- Name: enchantment.greedy
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 1
+
+
+69
+	- Name: enchantment.consuming
+	- Weight: 5
+	- Min Level: 1
+	- Max Level: 1
+
+
+70
+	- Name: enchantment.educational
+	- Weight: 5
+	- Min Level: 1
+	- Max Level: 5
+
+
+71
+	- Name: enchantment.corrupting
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 1
+
+
+72
+	- Name: enchantment.voidtouched
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 1
+
+
+73
+	- Name: enchantment.impact
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 1
+
+
 74
 	- Name: enchantment.wg.invisibleGear
 	- Weight: 0
@@ -320,6 +355,48 @@
 	- Weight: 0
 	- Min Level: 1
 	- Max Level: 5
+
+
+77
+	- Name: enchantment.chroma.userepair
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 3
+
+
+78
+	- Name: enchantment.chroma.weaponaoe
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 5
+
+
+81
+	- Name: enchantment.chroma.minetime
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 3
+
+
+82
+	- Name: enchantment.chroma.datakeep
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 1
+
+
+83
+	- Name: enchantment.chroma.autocollect
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 1
+
+
+84
+	- Name: enchantment.chroma.rareloot
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 4
 
 
 90

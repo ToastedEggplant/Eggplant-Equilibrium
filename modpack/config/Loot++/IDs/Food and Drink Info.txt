@@ -13,6 +13,25 @@ AWWayofTime:alchemyFlask
 	- Food Info Unknown!
 
 
+Automagy:edible
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Automagy:foodstuff
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+Automagy:phialExtra
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 Avaritia:Cosmic_Meatballs
 	- Megadata: 0
 	- Food or Drink? Food
@@ -27,49 +46,247 @@ Avaritia:Ultimate_Stew
 	- Saturation Amount: 20.0
 
 
-BinnieCore:containerBucket
+Botania:brewFlask
 	- Megadata: 0
-	- Food or Drink? Unknown
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-BinnieCore:containerCan
-	- Megadata: 0
-	- Food or Drink? Unknown
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-BinnieCore:containerCapsule
-	- Megadata: 0
-	- Food or Drink? Unknown
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-BinnieCore:containerCylinder
-	- Megadata: 0
-	- Food or Drink? Unknown
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-BinnieCore:containerGlass
-	- Megadata: 0
-	- Food or Drink? Unknown
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-BinnieCore:containerRefractory
-	- Megadata: 0
-	- Food or Drink? Unknown
-	- Food Amount: 0
-	- Saturation Amount: 0.0
+	- Food or Drink? Drink
+	- Food Info Unknown!
 
 
 Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
 	- Megadata: 0
 	- Food or Drink? Drink
 	- Food Info Unknown!
@@ -106,8 +323,302 @@ ChromatiCraft:chromaticraft_item_berry
 	- Food Info Unknown!
 
 
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 3
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 4
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 5
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 6
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 7
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 8
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 9
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 10
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 11
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 12
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 13
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 14
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_berry
+	- Megadata: 15
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
 ChromatiCraft:chromaticraft_item_potion
-	- Megadata: 0
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 65
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 33
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16385
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16449
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16417
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 97
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 3
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 67
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 35
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16387
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16451
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16419
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 99
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 6
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 70
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 38
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16390
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16454
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16422
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 102
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 10
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 74
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 42
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16394
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16458
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16426
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 106
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 11
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 75
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 43
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16395
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16459
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 16427
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ChromatiCraft:chromaticraft_item_potion
+	- Megadata: 107
 	- Food or Drink? Drink
 	- Food Info Unknown!
 
@@ -126,93 +637,85 @@ EnderIO:itemEnderFood
 	- Saturation Amount: 0.8
 
 
-ExtraTrees:drink
-	- Megadata: 0
-	- Food or Drink? Unknown
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-ExtraTrees:food
+ExtrabiomesXL:extrabiomes.crop
 	- Megadata: 0
 	- Food or Drink? Food
 	- Food Amount: 2
-	- Saturation Amount: 3.0
-
-
-Forestry:ambrosia
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Amount: 8
 	- Saturation Amount: 0.6
 
 
-Forestry:beverage
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Amount: 1
-	- Saturation Amount: 0.2
-
-
-Forestry:canHoney
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-Forestry:canJuice
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-Forestry:fruits
+ExtrabiomesXL:extrabiomes.food
 	- Megadata: 0
 	- Food or Drink? Food
-	- Food Amount: 1
-	- Saturation Amount: 0.2
+	- Food Amount: 3
+	- Saturation Amount: 0.5
 
 
-Forestry:honeyPot
+ExtrabiomesXL:extrabiomes.food
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+ForbiddenMagic:GluttonyShard
 	- Megadata: 0
-	- Food or Drink? Drink
+	- Food or Drink? Food
 	- Food Amount: 2
-	- Saturation Amount: 0.2
+	- Saturation Amount: 0.1
 
 
-Forestry:honeyedSlice
+ForbiddenMagic:TaintFruit
 	- Megadata: 0
 	- Food or Drink? Food
-	- Food Amount: 8
-	- Saturation Amount: 0.6
-
-
-Forestry:refractoryHoney
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-Forestry:refractoryJuice
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-Forestry:waxCapsuleHoney
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-Forestry:waxCapsuleJuice
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
+	- Food Amount: 4
+	- Saturation Amount: 0.8
 
 
 Growthcraft|Apples:grc.appleCider
 	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Apples:grc.appleCider
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Apples:grc.appleCider
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Apples:grc.appleCider
+	- Megadata: 3
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Apples:grc.appleCider
+	- Megadata: 4
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Apples:grc.appleCider
+	- Megadata: 5
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Apples:grc.appleCider
+	- Megadata: 6
 	- Food or Drink? Drink
 	- Food Amount: 1
 	- Saturation Amount: 0.3
@@ -246,14 +749,201 @@ Growthcraft|Bees:grc.honeyMead
 	- Saturation Amount: 0.45
 
 
+Growthcraft|Bees:grc.honeyMead
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.45
+
+
+Growthcraft|Bees:grc.honeyMead
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.45
+
+
+Growthcraft|Bees:grc.honeyMead
+	- Megadata: 3
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.45
+
+
+Growthcraft|Bees:grc.honeyMead
+	- Megadata: 4
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.45
+
+
+Growthcraft|Bees:grc.honeyMead
+	- Megadata: 5
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.45
+
+
+Growthcraft|Bees:grc.honeyMead
+	- Megadata: 6
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.45
+
+
 Growthcraft|Cellar:grc.waterBag
 	- Megadata: 0
 	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 3
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 4
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 5
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 6
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 7
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 8
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 9
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 10
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 11
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 12
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 13
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 14
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 15
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Growthcraft|Cellar:grc.waterBag
+	- Megadata: 16
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 Growthcraft|Grapes:grc.grapeWine
 	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Grapes:grc.grapeWine
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Grapes:grc.grapeWine
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Grapes:grc.grapeWine
+	- Megadata: 3
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Grapes:grc.grapeWine
+	- Megadata: 4
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Grapes:grc.grapeWine
+	- Megadata: 5
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Grapes:grc.grapeWine
+	- Megadata: 6
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Grapes:grc.grapeWine
+	- Megadata: 7
 	- Food or Drink? Drink
 	- Food Amount: 1
 	- Saturation Amount: 0.3
@@ -266,6 +956,20 @@ Growthcraft|Grapes:grc.grapes
 	- Saturation Amount: 0.3
 
 
+Growthcraft|Grapes:grc.grapes
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Grapes:grc.grapes
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
 Growthcraft|Hops:grc.hopAle
 	- Megadata: 0
 	- Food or Drink? Drink
@@ -273,8 +977,106 @@ Growthcraft|Hops:grc.hopAle
 	- Saturation Amount: 0.3
 
 
+Growthcraft|Hops:grc.hopAle
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.hopAle
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.hopAle
+	- Megadata: 3
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.hopAle
+	- Megadata: 4
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.hopAle
+	- Megadata: 5
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.hopAle
+	- Megadata: 6
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.hopAle
+	- Megadata: 7
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.hopAle
+	- Megadata: 8
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
 Growthcraft|Hops:grc.lager
 	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.lager
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.lager
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.lager
+	- Megadata: 3
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.lager
+	- Megadata: 4
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.lager
+	- Megadata: 5
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Hops:grc.lager
+	- Megadata: 6
 	- Food or Drink? Drink
 	- Food Amount: 1
 	- Saturation Amount: 0.3
@@ -315,8 +1117,64 @@ Growthcraft|Milk:grcmilk.Butter
 	- Saturation Amount: 0.3
 
 
+Growthcraft|Milk:grcmilk.Butter
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
 Growthcraft|Milk:grcmilk.Cheese
 	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Cheese
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Cheese
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Cheese
+	- Megadata: 3
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Cheese
+	- Megadata: 4
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Cheese
+	- Megadata: 5
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Cheese
+	- Megadata: 6
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Cheese
+	- Megadata: 7
 	- Food or Drink? Food
 	- Food Amount: 2
 	- Saturation Amount: 0.3
@@ -329,6 +1187,41 @@ Growthcraft|Milk:grcmilk.IceCream
 	- Saturation Amount: 0.3
 
 
+Growthcraft|Milk:grcmilk.IceCream
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.IceCream
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.IceCream
+	- Megadata: 3
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.IceCream
+	- Megadata: 4
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.IceCream
+	- Megadata: 5
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
 Growthcraft|Milk:grcmilk.KumisBottle
 	- Megadata: 0
 	- Food or Drink? Drink
@@ -336,8 +1229,78 @@ Growthcraft|Milk:grcmilk.KumisBottle
 	- Saturation Amount: 0.2
 
 
+Growthcraft|Milk:grcmilk.KumisBottle
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Growthcraft|Milk:grcmilk.KumisBottle
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Growthcraft|Milk:grcmilk.KumisBottle
+	- Megadata: 3
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Growthcraft|Milk:grcmilk.KumisBottle
+	- Megadata: 4
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Growthcraft|Milk:grcmilk.KumisBottle
+	- Megadata: 5
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
 Growthcraft|Milk:grcmilk.Yogurt
 	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Yogurt
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Yogurt
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Yogurt
+	- Megadata: 3
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Yogurt
+	- Megadata: 4
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+Growthcraft|Milk:grcmilk.Yogurt
+	- Megadata: 5
 	- Food or Drink? Food
 	- Food Amount: 2
 	- Saturation Amount: 0.3
@@ -357,11 +1320,77 @@ Growthcraft|Rice:grc.riceSake
 	- Saturation Amount: 0.2
 
 
-MagicBees:jellyBabies
+Growthcraft|Rice:grc.riceSake
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Growthcraft|Rice:grc.riceSake
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Growthcraft|Rice:grc.riceSake
+	- Megadata: 3
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Growthcraft|Rice:grc.riceSake
+	- Megadata: 4
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Growthcraft|Rice:grc.riceSake
+	- Megadata: 5
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Growthcraft|Rice:grc.riceSake
+	- Megadata: 6
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+IC2:itemMugBooze
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+IC2:itemMugCoffee
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+IC2:itemMugCoffee
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+IC2:itemMugCoffee
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+IC2:itemTerraWart
 	- Megadata: 0
 	- Food or Drink? Food
-	- Food Amount: 1
-	- Saturation Amount: 0.6
+	- Food Amount: 0
+	- Saturation Amount: 1.0
 
 
 MineFactoryReloaded:meat.ingot.cooked
@@ -418,8 +1447,50 @@ Natura:berry
 	- Saturation Amount: 0.4
 
 
+Natura:berry
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.4
+
+
+Natura:berry
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.4
+
+
+Natura:berry
+	- Megadata: 3
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.4
+
+
 Natura:berry.nether
 	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.4
+
+
+Natura:berry.nether
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.4
+
+
+Natura:berry.nether
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.4
+
+
+Natura:berry.nether
+	- Megadata: 3
 	- Food or Drink? Food
 	- Food Amount: 1
 	- Saturation Amount: 0.4
@@ -439,8 +1510,15 @@ Natura:impmeat
 	- Saturation Amount: 0.2
 
 
+Natura:impmeat
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.2
+
+
 Natura:natura.stewbowl
-	- Megadata: 0
+	- Megadata: 14
 	- Food or Drink? Food
 	- Food Amount: 6
 	- Saturation Amount: 0.6
@@ -467,14 +1545,20 @@ OpenBlocks:tastyClay
 	- Saturation Amount: 0.1
 
 
-Project_Alchemy:item.dartResource
-	- Megadata: 0
+OpenComputers:item
+	- Megadata: 18
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+OpenComputers:item
+	- Megadata: 96
 	- Food or Drink? Food
 	- Food Info Unknown!
 
 
-Project_Alchemy:item.pa_powerup
-	- Megadata: 0
+OpenComputers:item
+	- Megadata: 107
 	- Food or Drink? Food
 	- Food Info Unknown!
 
@@ -485,56 +1569,40 @@ RandomThings:imbue
 	- Food Info Unknown!
 
 
-RotaryCraft:rotarycraft_item_flamethrower
-	- Megadata: 0
+RandomThings:imbue
+	- Megadata: 1
 	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
-TConstruct:MeatBlock
-	- Megadata: 0
-	- Food or Drink? Food
+RandomThings:imbue
+	- Megadata: 2
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
-TConstruct:chisel
-	- Megadata: 0
-	- Food or Drink? Food
+RandomThings:imbue
+	- Megadata: 3
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
-TConstruct:diamondApple
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 4
-	- Saturation Amount: 2.0
-
-
-TConstruct:goldHead
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 4
-	- Saturation Amount: 1.2
-
-
-TConstruct:heartCanister
-	- Megadata: 0
-	- Food or Drink? Food
+RandomThings:imbue
+	- Megadata: 4
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
-TConstruct:jerky
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 1
-	- Saturation Amount: 1.0
+RandomThings:imbue
+	- Megadata: 5
+	- Food or Drink? Drink
+	- Food Info Unknown!
 
 
-TConstruct:strangeFood
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 2
-	- Saturation Amount: 1.0
+RotaryCraft:rotarycraft_item_flamethrower
+	- Megadata: 32000
+	- Food or Drink? Drink
+	- Food Info Unknown!
 
 
 TaintedMagic:ItemMagicFunguar
@@ -640,6 +1708,80 @@ ThaumicTinkerer:infusedPotion
 	- Food Info Unknown!
 
 
+ThaumicTinkerer:infusedPotion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ThaumicTinkerer:infusedPotion
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+ThaumicTinkerer:infusedPotion
+	- Megadata: 3
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+TwilightForest:item.experiment115
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.3
+
+
+TwilightForest:item.hydraChop
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 18
+	- Saturation Amount: 2.0
+
+
+TwilightForest:item.mazeWafer
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.6
+
+
+TwilightForest:item.meefRaw
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+TwilightForest:item.meefSteak
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+TwilightForest:item.meefStroganoff
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.6
+
+
+TwilightForest:item.venisonCooked
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+TwilightForest:item.venisonRaw
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
 WitchingGadgets:item.WG_MagicFood
 	- Megadata: 0
 	- Food or Drink? Food
@@ -647,60 +1789,11 @@ WitchingGadgets:item.WG_MagicFood
 	- Saturation Amount: 0.4
 
 
-arsmagica2:epicManaPotion
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-arsmagica2:greaterManaPotion
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-arsmagica2:legendaryManaPotion
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-arsmagica2:lesserManaPotion
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-arsmagica2:liquidEssenceBottle
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-arsmagica2:manaCake
-	- Megadata: 0
+WitchingGadgets:item.WG_MagicFood
+	- Megadata: 1
 	- Food or Drink? Food
-	- Food Amount: 3
-	- Saturation Amount: 0.6
-
-
-arsmagica2:manaMartini
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-arsmagica2:manaPotionBundle
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-arsmagica2:standardManaPotion
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
+	- Food Amount: 2
+	- Saturation Amount: 0.4
 
 
 cookingbook:toast
@@ -5911,6 +7004,13 @@ minecraft:cooked_fished
 	- Saturation Amount: 0.6
 
 
+minecraft:cooked_fished
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
 minecraft:cooked_porkchop
 	- Megadata: 0
 	- Food or Drink? Food
@@ -5932,8 +7032,36 @@ minecraft:fish
 	- Saturation Amount: 0.1
 
 
+minecraft:fish
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 3
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
 minecraft:golden_apple
 	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+minecraft:golden_apple
+	- Megadata: 1
 	- Food or Drink? Food
 	- Food Amount: 4
 	- Saturation Amount: 1.2
@@ -5987,6 +7115,342 @@ minecraft:potion
 	- Food Info Unknown!
 
 
+minecraft:potion
+	- Megadata: 8193
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8225
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8257
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16385
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16417
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16449
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8194
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8226
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8258
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16386
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16418
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16450
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8227
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8259
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16419
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16451
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8196
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8228
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8260
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16388
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16420
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16452
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8261
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8229
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16453
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16421
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8230
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8262
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16422
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16454
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8232
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8264
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16424
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16456
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8201
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8233
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8265
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16393
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16425
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16457
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8234
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8266
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16426
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16458
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8268
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8236
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16460
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16428
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8237
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8269
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16429
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16461
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8238
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8270
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16430
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16462
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 minecraft:pumpkin_pie
 	- Megadata: 0
 	- Food or Drink? Food
@@ -6010,6 +7474,20 @@ minecraft:spider_eye
 
 mo:android_pill
 	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+mo:android_pill
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+mo:android_pill
+	- Megadata: 2
 	- Food or Drink? Food
 	- Food Amount: 0
 	- Saturation Amount: 0.0
@@ -6050,6 +7528,204 @@ thaumicbases:rosehipSyrup
 
 witchery:brewbottle
 	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 23
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 40
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 41
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 42
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 43
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 44
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 45
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 50
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 51
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 63
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 69
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 71
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 74
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 77
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 79
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 83
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 91
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 93
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 95
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 98
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 105
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 121
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 122
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 123
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 126
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 136
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 137
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 138
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 139
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 158
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 159
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 163
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 164
 	- Food or Drink? Drink
 	- Food Info Unknown!
 

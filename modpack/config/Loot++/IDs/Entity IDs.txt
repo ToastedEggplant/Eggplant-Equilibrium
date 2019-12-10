@@ -44,6 +44,10 @@ AWWayofTime.windGustProjectile
 AgriCraft.leash
 AgriCraft.villagerFarmer
 Arrow
+Automagy.AvaricePearl
+Automagy.EntityItemDelayedFall
+Automagy.WispNether
+Automagy.XPOrbSuppressed
 Avaritia.EndestPearl
 Avaritia.GapingVoid
 Avaritia.HeavenArrow
@@ -79,15 +83,19 @@ CaveSpider
 Chicken
 ChromatiCraft.Ability Fireball
 ChromatiCraft.Aurora
+ChromatiCraft.Bait
 ChromatiCraft.Ball Lightning
+ChromatiCraft.Bezier Particle
 ChromatiCraft.CC Ender Crystal
 ChromatiCraft.ChainGun Shot
 ChromatiCraft.Cluster Ball
 ChromatiCraft.DataCrystal
 ChromatiCraft.Dimension Flare
+ChromatiCraft.Ender Eye T2
 ChromatiCraft.GlowCloud
 ChromatiCraft.Laser Pulse
 ChromatiCraft.Light
+ChromatiCraft.LightGun Shot
 ChromatiCraft.Luma Burst
 ChromatiCraft.Mana Pulse
 ChromatiCraft.Meteor Shot
@@ -96,6 +104,7 @@ ChromatiCraft.Pylon Overload
 ChromatiCraft.SplashGun Shot
 ChromatiCraft.TNT Pinball
 ChromatiCraft.Thrown Gem
+ChromatiCraft.Tunnel Nuker
 ChromatiCraft.Vacuum
 Cow
 Creeper
@@ -116,16 +125,25 @@ EnderDragon
 EnderIO.weather_rocket
 Enderman
 EntityHorse
+ExtrabiomesXL.scarecrow
 EyeOfEnderSignal
+FakeChairEntity
 FallingSand
 Fireball
 FireworksRocketEntity
-Forestry.butterflyGE
-Forestry.cart.apiary
-Forestry.cart.beehouse
 Ghast
 Giant
+GraviSuite.PlasmaBall
 Growthcraft|Bamboo.bambooRaft
+IC2.BoatCarbon
+IC2.BoatElectric
+IC2.BoatRubber
+IC2.Dynamite
+IC2.Itnt
+IC2.MiningLaser
+IC2.Nuke
+IC2.Particle
+IC2.StickyDynamite
 ImmersiveEngineering.chemthrowerShot
 ImmersiveEngineering.railgunShot
 ImmersiveEngineering.revolverShot
@@ -182,15 +200,13 @@ Ozelot
 Painting
 Pig
 PigZombie
+PneumaticCraft.Chopper Plant Seeds Entity
+PneumaticCraft.Drone
+PneumaticCraft.Potion Cloud
+PneumaticCraft.Ring
+PneumaticCraft.Vortex
+PneumaticCraft.logisticDrone
 PrimedTnt
-Project_Alchemy.entityBottleItem
-Project_Alchemy.entityColdChicken
-Project_Alchemy.entityColdCow
-Project_Alchemy.entityColdPig
-Project_Alchemy.entityFlyingFlask
-Project_Alchemy.entityHearthstone
-Project_Alchemy.entityInvincibleItem
-Project_Alchemy.pa_entity_zelda_bomb
 Railcraft.ItemFireproof
 Railcraft.ItemFirestone
 Railcraft.cart.anchor
@@ -201,6 +217,9 @@ Railcraft.cart.bore
 Railcraft.cart.cargo
 Railcraft.cart.chest
 Railcraft.cart.command.block
+Railcraft.cart.energy.batbox
+Railcraft.cart.energy.cesu
+Railcraft.cart.energy.mfe
 Railcraft.cart.furnace
 Railcraft.cart.gift
 Railcraft.cart.loco.creative
@@ -224,6 +243,9 @@ Railcraft.railcraft.cart.bore
 Railcraft.railcraft.cart.cargo
 Railcraft.railcraft.cart.chest
 Railcraft.railcraft.cart.command.block
+Railcraft.railcraft.cart.energy.batbox
+Railcraft.railcraft.cart.energy.cesu
+Railcraft.railcraft.cart.energy.mfe
 Railcraft.railcraft.cart.furnace
 Railcraft.railcraft.cart.gift
 Railcraft.railcraft.cart.hopper
@@ -273,24 +295,57 @@ Squid
 StevesCarts.Cake.Vswe
 StevesCarts.Egg.Vswe
 StevesCarts.Minecart.Vswe.0
-TConstruct.Arrow
-TConstruct.Bolt
-TConstruct.Crystal
-TConstruct.Dagger
-TConstruct.EdibleSlime
-TConstruct.Fancy Item
-TConstruct.Javelin
-TConstruct.KingSlime
-TConstruct.LandmineFirework
-TConstruct.Launched Potion
-TConstruct.Shuriken
-TConstruct.SlimeExplosive
-TConstruct.ThrowingKnife
 TaintedMagic.EntityDarkMatter
 TaintedMagic.EntityDiffusion
 TaintedMagic.EntityGlowpet
 TaintedMagic.EntityHomingShard
 TaintedMagic.EntityTaintBubble
+Techguns.AlienBug
+Techguns.ArmySoldier
+Techguns.AttackHelicopter
+Techguns.Bandit
+Techguns.BeamProjectile
+Techguns.BiogunProjectile
+Techguns.BlasterRifleProjectile
+Techguns.Commando
+Techguns.CyberDemon
+Techguns.CyberdemonBlasterProjectile
+Techguns.DictatorDave
+Techguns.DummyMiningProjectile
+Techguns.EnergyBlastProjectile
+Techguns.FlamethrowerProjectile
+Techguns.FlyingGibs
+Techguns.FragGrenadeProjectile
+Techguns.GenericProjectile
+Techguns.GrenadeLauncherProjectile
+Techguns.GrenadeProjectile
+Techguns.InvisibleProjectile
+Techguns.LaserBeam
+Techguns.LaserBeam2
+Techguns.LaserProjectile
+Techguns.MovingBeam
+Techguns.NeutrinoBeam
+Techguns.NukeRocketProjectile
+Techguns.Outcast
+Techguns.ParticleSystem
+Techguns.PowerHammerProjectile
+Techguns.PsychoSteve
+Techguns.RocketProjectile
+Techguns.SimpleProjectile
+Techguns.SimpleTurret
+Techguns.SkeletonSoldier
+Techguns.SonicShotgunProjectile
+Techguns.Stormtrooper
+Techguns.SuperMutantBasic
+Techguns.SuperMutantElite
+Techguns.SuperMutantHeavy
+Techguns.TGDummySpawn
+Techguns.TeslaBeam
+Techguns.TeslaProjectile
+Techguns.ZombieFarmer
+Techguns.ZombieMiner
+Techguns.ZombiePigmanSoldier
+Techguns.ZombieSoldier
 Thaumcraft.Alumentum
 Thaumcraft.AspectOrb
 Thaumcraft.BottleTaint
@@ -381,6 +436,82 @@ ThermalFoundation.blizzBolt
 ThrownEnderpearl
 ThrownExpBottle
 ThrownPotion
+TwilightForest.Adherent
+TwilightForest.Apocalypse Cube
+TwilightForest.Armored Giant
+TwilightForest.Bighorn Sheep
+TwilightForest.Block&Chain Goblin
+TwilightForest.Death Tome
+TwilightForest.Fire Beetle
+TwilightForest.Firefly
+TwilightForest.Forest Bunny
+TwilightForest.Forest Raven
+TwilightForest.Forest Squirrel
+TwilightForest.Giant Miner
+TwilightForest.Glacier Penguin
+TwilightForest.Hedge Spider
+TwilightForest.Helmet Crab
+TwilightForest.Hostile Wolf
+TwilightForest.Hydra
+TwilightForest.HydraHead
+TwilightForest.Ice Crystal
+TwilightForest.King Spider
+TwilightForest.Knight Phantom
+TwilightForest.Lich Minion
+TwilightForest.Lower Goblin Knight
+TwilightForest.Loyal Zombie
+TwilightForest.Maze Slime
+TwilightForest.Mini Ghast
+TwilightForest.Minoshroom
+TwilightForest.Minotaur
+TwilightForest.Mist Wolf
+TwilightForest.Mosquito Swarm
+TwilightForest.Naga
+TwilightForest.Pinch Beetle
+TwilightForest.Questing Ram
+TwilightForest.Redcap
+TwilightForest.Redcap Sapper
+TwilightForest.Redscale Broodling
+TwilightForest.Skeleton Druid
+TwilightForest.Slime Beetle
+TwilightForest.Snow Queen
+TwilightForest.SnowGuardian
+TwilightForest.Stable Ice Core
+TwilightForest.Swarm Spider
+TwilightForest.Tiny Bird
+TwilightForest.Tower Boss
+TwilightForest.Tower Ghast
+TwilightForest.Tower Golem
+TwilightForest.Tower Termite
+TwilightForest.Troll
+TwilightForest.Twilight Kobold
+TwilightForest.Twilight Lich
+TwilightForest.Twilight Wraith
+TwilightForest.Unstable Ice Core
+TwilightForest.Upper Goblin Knight
+TwilightForest.Wild Boar
+TwilightForest.Wild Deer
+TwilightForest.WinterWolf
+TwilightForest.Yeti
+TwilightForest.Yeti Boss
+TwilightForest.tfSeekerArrow
+TwilightForest.tfchainBlock
+TwilightForest.tfcharmeffect
+TwilightForest.tfcubeannihilation
+TwilightForest.tffallingice
+TwilightForest.tfhydramortar
+TwilightForest.tficesnowball
+TwilightForest.tflichbolt
+TwilightForest.tflichbomb
+TwilightForest.tfmoonwormshot
+TwilightForest.tfnaturebolt
+TwilightForest.tfslideblock
+TwilightForest.tfslimeblob
+TwilightForest.tfthrownaxe
+TwilightForest.tfthrownice
+TwilightForest.tfthrownpick
+TwilightForest.tftomebolt
+TwilightForest.tftwilightwandbolt
 Villager
 VillagerGolem
 Witch
@@ -394,47 +525,10 @@ appliedenergistics2.EntityChargedQuartz
 appliedenergistics2.EntityGrowingCrystal
 appliedenergistics2.EntitySingularity
 appliedenergistics2.EntityTinyTNTPrimed
-arsmagica2.AirSled
-arsmagica2.BattleChicken
-arsmagica2.BossAirGuardian
-arsmagica2.BossArcaneGuardian
-arsmagica2.BossEarthGuardian
-arsmagica2.BossEnderGuardian
-arsmagica2.BossFireGuardian
-arsmagica2.BossLifeGuardian
-arsmagica2.BossLightningGuardian
-arsmagica2.BossNatureGuardian
-arsmagica2.BossWaterGuardian
-arsmagica2.BossWinterGuardian
-arsmagica2.DaBroom
-arsmagica2.EarthElemental
-arsmagica2.Flicker
-arsmagica2.HellCow
-arsmagica2.ManaVortex
-arsmagica2.MobDarkMage
-arsmagica2.MobDarkling
-arsmagica2.MobDryad
-arsmagica2.MobFireElemental
-arsmagica2.MobHecate
-arsmagica2.MobLightMage
-arsmagica2.MobMageVillager
-arsmagica2.MobManaCreeper
-arsmagica2.MobManaElemental
-arsmagica2.MobWaterElemental
-arsmagica2.RiftStorage
-arsmagica2.ShadowHelper
-arsmagica2.Shockwave
-arsmagica2.SpellProjectile
-arsmagica2.ThrownArm
-arsmagica2.ThrownRock
-arsmagica2.ThrownSickle
-arsmagica2.Whirlwind
-arsmagica2.ZoneSpell
 chisel.BallOMoss
 chisel.CloudInABottle
 chisel.SmashingRock
 chisel.snowman
-computronics.swarm
 failed_chicken
 failed_cow
 failed_pig
@@ -499,7 +593,38 @@ lootplusplus.Label
 lootplusplus.ThrownItem
 mad_scientist
 mutant_scientist
+openmodularturrets.blazingClayProjectile
+openmodularturrets.bulletProjectile
+openmodularturrets.grenadeProjectile
+openmodularturrets.laserProjectile
+openmodularturrets.rocketProjectile
 phaser_fire
+powersuits.entityLuxCapacitor
+powersuits.entityPlasmaBolt
+powersuits.entitySpinningBlade
+primitivemobs.BabySpider
+primitivemobs.Ball
+primitivemobs.BewitchedTome
+primitivemobs.BlazingJuggernaut
+primitivemobs.BrainSlime
+primitivemobs.Chameleon
+primitivemobs.FestiveCreeper
+primitivemobs.HauntedTool
+primitivemobs.Lily
+primitivemobs.LilyLurker
+primitivemobs.LostMiner
+primitivemobs.MimicChest
+primitivemobs.Minion
+primitivemobs.MotherSpider
+primitivemobs.RocketCreeper
+primitivemobs.Sheepman
+primitivemobs.SheepmanSmith
+primitivemobs.SkeletonWarrior
+primitivemobs.SpawnEgg
+primitivemobs.Summoner
+primitivemobs.SupportCreeper
+primitivemobs.TravelingMerchant
+primitivemobs.TreasureSlime
 rangeEntity
 ranged_rogue_android
 rogue_android
@@ -561,7 +686,7 @@ witchery.wingedmonkey
 witchery.witchhunter
 witchery.wolfman
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
-5 - Blizz
+6 - Blizz
 50 - Creeper
 51 - Skeleton
 52 - Spider
@@ -583,9 +708,7 @@ witchery.wolfman
 94 - Squid
 95 - Wolf
 96 - MushroomCow
-97 - SnowMan
 98 - Ozelot
-99 - VillagerGolem
 100 - EntityHorse
 120 - Villager
 171 - failed_pig
@@ -640,6 +763,24 @@ witchery.wolfman
 342 - fossil.Smilodon
 343 - fossil.Quagga
 344 - fossil.Elasmotherium
+901 - primitivemobs.RocketCreeper
+902 - primitivemobs.FestiveCreeper
+903 - primitivemobs.SupportCreeper
+904 - primitivemobs.Chameleon
+905 - primitivemobs.TreasureSlime
+906 - primitivemobs.HauntedTool
+907 - primitivemobs.MimicChest
+908 - primitivemobs.BewitchedTome
+909 - primitivemobs.TravelingMerchant
+910 - primitivemobs.LostMiner
+911 - primitivemobs.BrainSlime
+912 - primitivemobs.SkeletonWarrior
+913 - primitivemobs.MotherSpider
+915 - primitivemobs.BlazingJuggernaut
+916 - primitivemobs.Sheepman
+918 - primitivemobs.Summoner
+920 - primitivemobs.SheepmanSmith
+921 - primitivemobs.LilyLurker
 6396 - witchery.demon
 6397 - witchery.mandrake
 6398 - witchery.treefyd

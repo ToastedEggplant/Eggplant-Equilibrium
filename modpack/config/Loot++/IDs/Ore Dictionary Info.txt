@@ -89,6 +89,10 @@ RotaryCraft:ingotBedrock
 RotaryCraft:rotarycraft_item_compacts - 3
 
 
+RotaryCraft:ingotTungstenAlloy
+RotaryCraft:rotarycraft_item_compacts - 5
+
+
 alloyAdvanced
 Mekanism:EnrichedAlloy - 0
 
@@ -105,20 +109,8 @@ alloyUltimate
 Mekanism:AtomicAlloy - 0
 
 
-alumiteRod
-TConstruct:toolRod - 15
-
-
 antiBlock
 chisel:antiBlock - 0
-
-
-arcaneAsh
-arsmagica2:itemOre - 2
-
-
-arditeRod
-TConstruct:toolRod - 11
 
 
 artifact
@@ -185,6 +177,10 @@ minecraft:iron_bars - 0
 EnderIO:blockDarkIronBars - 0
 
 
+basalt
+bluepower:basalt - 0
+
+
 battery
 Mekanism:EnergyTablet - 0
 
@@ -211,28 +207,8 @@ beachSeaLymeGrass
 
 
 beeComb
-Forestry:beeCombs - any
-MagicBees:comb - 0
-ExtraBees:honeyComb - any
 Growthcraft|Bees:grc.honeyCombEmpty - 0
 Growthcraft|Bees:grc.honeyCombFilled - 0
-ChromatiCraft:chromaticraft_item_coloredmod - 0
-ChromatiCraft:chromaticraft_item_coloredmod - 1
-ChromatiCraft:chromaticraft_item_coloredmod - 2
-ChromatiCraft:chromaticraft_item_coloredmod - 3
-ChromatiCraft:chromaticraft_item_coloredmod - 4
-ChromatiCraft:chromaticraft_item_coloredmod - 5
-ChromatiCraft:chromaticraft_item_coloredmod - 6
-ChromatiCraft:chromaticraft_item_coloredmod - 7
-ChromatiCraft:chromaticraft_item_coloredmod - 8
-ChromatiCraft:chromaticraft_item_coloredmod - 9
-ChromatiCraft:chromaticraft_item_coloredmod - 10
-ChromatiCraft:chromaticraft_item_coloredmod - 11
-ChromatiCraft:chromaticraft_item_coloredmod - 12
-ChromatiCraft:chromaticraft_item_coloredmod - 13
-ChromatiCraft:chromaticraft_item_coloredmod - 14
-ChromatiCraft:chromaticraft_item_coloredmod - 15
-gendustry:HoneyComb - any
 
 
 beeQueen
@@ -246,34 +222,18 @@ blazePowder
 blockAdamantine
 
 
-blockAdamantite
-
-
 blockAluminium
-TConstruct:MetalBlock - 6
-
-
-blockAluminiumBrass
-TConstruct:MetalBlock - 7
 
 
 blockAluminum
 ImmersiveEngineering:storage - 1
-TConstruct:MetalBlock - 6
 
 
 blockAluminumBrass
-TConstruct:MetalBlock - 7
-
-
-blockAlumite
-TConstruct:MetalBlock - 8
-
-
-blockAmber
 
 
 blockAmethyst
+bluepower:amethyst_block - 0
 
 
 blockAmordrine
@@ -286,12 +246,7 @@ chisel:andesite - 0
 blockAngmallen
 
 
-blockApatite
-Forestry:resourceStorage - 0
-
-
 blockArdite
-TConstruct:MetalBlock - 1
 
 
 blockAsh
@@ -304,69 +259,11 @@ blockAstralSilver
 blockAtlarus
 
 
-blockBambooAsper
-
-
-blockBambooAsperSlab
-
-
-blockBambooFargesiaRobusta
-
-
-blockBambooFargesiaRobustaSlab
-
-
-blockBambooGiantTimber
-
-
-blockBambooGiantTimberSlab
-
-
-blockBambooGolden
-
-
-blockBambooGoldenSlab
-
-
-blockBambooMoso
-
-
-blockBambooMosoSlab
-
-
-blockBambooShortTassled
-
-
-blockBambooShortTassledSlab
-
-
-blockBambooTimorBlack
-
-
-blockBambooTimorBlackSlab
-
-
-blockBambooTropicalBlue
-
-
-blockBambooTropicalBlueSlab
-
-
-blockBambooWetForest
-
-
-blockBambooWetForestSlab
-
-
 blockBlackSteel
 
 
 blockBlaze
 Botania:blazeBlock - 0
-
-
-blockBlueTopaz
-arsmagica2:vinteumOre - 7
 
 
 blockBlutonium
@@ -378,13 +275,8 @@ blockBrass
 
 blockBronze
 ThermalFoundation:Storage - 9
-Forestry:resourceStorage - 3
-TConstruct:MetalBlock - 4
+IC2:blockMetal - 2
 Mekanism:BasicBlock - 1
-
-
-blockCadmium
-aobd:blockCadmium - 0
 
 
 blockCarmot
@@ -417,10 +309,6 @@ Growthcraft|Milk:grcmilk.CheeseBlock - 4
 Growthcraft|Milk:grcmilk.CheeseBlock - 5
 Growthcraft|Milk:grcmilk.CheeseBlock - 6
 Growthcraft|Milk:grcmilk.CheeseBlock - 7
-
-
-blockChimerite
-arsmagica2:vinteumOre - 9
 
 
 blockCloth
@@ -516,10 +404,6 @@ ExtraUtilities:color_blockCoal - 11
 
 
 blockCobalt
-TConstruct:MetalBlock - 0
-
-
-blockCobaltum
 
 
 blockConductiveIron
@@ -532,10 +416,10 @@ ImmersiveEngineering:storage - 5
 
 blockCopper
 ThermalFoundation:Storage - 0
-Forestry:resourceStorage - 1
+IC2:blockMetal - 0
 Railcraft:cube - 9
 ImmersiveEngineering:storage - 0
-TConstruct:MetalBlock - 3
+bluepower:copper_block - 0
 Mekanism:BasicBlock - 12
 
 
@@ -548,6 +432,7 @@ thaumicbases:crystalBlock - any
 
 
 blockCrystalFlux
+RedstoneArsenal:Storage - 1
 
 
 blockCrystalMatrix
@@ -599,6 +484,7 @@ ImmersiveEngineering:storage - 6
 
 
 blockElectrumFlux
+RedstoneArsenal:Storage - 0
 
 
 blockEmerald
@@ -606,7 +492,6 @@ minecraft:emerald_block - 0
 
 
 blockEnder
-TConstruct:MetalBlock - 10
 
 
 blockEnderCore
@@ -629,30 +514,23 @@ blockEnergeticAlloy
 EnderIO:blockIngotStorage - 1
 
 
-blockFairy
-
-
 blockFuelCoke
 ImmersiveEngineering:stoneDevice - 3
 ImmersiveEngineering:stoneDecoration - 3
 Railcraft:cube - 0
 
 
-blockGelidEnderium
-
-
 blockGlass
 minecraft:glass - 0
 minecraft:stained_glass - any
+MineFactoryReloaded:stainedglass.block - any
+EnderIO:blockFusedQuartz - 1
 ExtraUtilities:decorativeBlock2 - 0
 ExtraUtilities:decorativeBlock2 - 1
 ExtraUtilities:decorativeBlock2 - 2
 ExtraUtilities:decorativeBlock2 - 3
 ExtraUtilities:decorativeBlock2 - 6
 ExtraUtilities:decorativeBlock2 - 9
-MineFactoryReloaded:stainedglass.block - any
-TConstruct:GlassBlock - 0
-EnderIO:blockFusedQuartz - 1
 fossil:strongGlass - 0
 fossil:ancientGlass - 0
 
@@ -757,9 +635,6 @@ minecraft:stained_glass - 4
 MineFactoryReloaded:stainedglass.block - 4
 
 
-blockGlue
-
-
 blockGold
 minecraft:gold_block - 0
 thaumicbases:oldGold - 0
@@ -773,16 +648,7 @@ blockGraphite
 BigReactors:BRMetalBlock - 2
 
 
-blockGravityCore
-
-
-blockGravityWall
-
-
 blockHaderoth
-
-
-blockHeeEndium
 
 
 blockHepatizon
@@ -803,18 +669,11 @@ ExtraUtilities:decorativeBlock1 - 3
 blockIgnatius
 
 
-blockIndium
-aobd:blockIndium - 0
-
-
 blockInfinity
 Avaritia:Resource_Block - 1
 
 
 blockInfuscolium
-
-
-blockInnerCore
 
 
 blockInolashite
@@ -824,16 +683,13 @@ blockInvar
 ThermalFoundation:Storage - 8
 
 
-blockIridium
-aobd:blockIridium - 0
-
-
 blockIron
 minecraft:iron_block - 0
 thaumicbases:oldIron - 0
 
 
 blockIronCompressed
+PneumaticCraft:compressedIronBlock - 0
 
 
 blockKalendrite
@@ -924,11 +780,9 @@ blockLapisYellow
 ExtraUtilities:color_blockLapis - 11
 
 
-blockLaserite
-
-
 blockLead
 ThermalFoundation:Storage - 3
+IC2:blockMetal - 4
 Railcraft:cube - 11
 ImmersiveEngineering:storage - 2
 
@@ -948,20 +802,10 @@ blockMagicWood
 ExtraUtilities:decorativeBlock1 - 7
 
 
-blockMagnesium
-
-
-blockMalachite
-
-
-blockManBazooka
-
-
 blockManganese
 
 
 blockManyullyn
-TConstruct:MetalBlock - 2
 
 
 blockMarble
@@ -976,9 +820,6 @@ blockMeatRaw
 MineFactoryReloaded:brick - 12
 
 
-blockMeteoricIron
-
-
 blockMidasium
 
 
@@ -986,17 +827,11 @@ blockMithril
 ThermalFoundation:Storage - 6
 
 
-blockMoonstone
-arsmagica2:vinteumOre - 5
-
-
 blockNaturalAluminum
 
 
-blockNavigator
-
-
 blockNetherStar
+ForbiddenMagic:StarBlock - 0
 
 
 blockNickel
@@ -1008,55 +843,7 @@ blockObsidian
 minecraft:obsidian - 0
 
 
-blockOre.nether.aluminum
-
-
-blockOre.nether.coal
-
-
-blockOre.nether.copper
-
-
-blockOre.nether.diamond
-
-
-blockOre.nether.emerald
-
-
-blockOre.nether.gold
-
-
-blockOre.nether.iron
-
-
-blockOre.nether.lapis
-
-
-blockOre.nether.lead
-
-
-blockOre.nether.mithril
-
-
-blockOre.nether.nickel
-
-
-blockOre.nether.platinum
-
-
-blockOre.nether.redstone
-
-
-blockOre.nether.silver
-
-
-blockOre.nether.tin
-
-
 blockOrichalcum
-
-
-blockOriharukon
 
 
 blockOsmium
@@ -1066,14 +853,8 @@ Mekanism:BasicBlock - 0
 blockOureclase
 
 
-blockOuterCore
-
-
 blockPackedIce
 minecraft:packed_ice - 0
-
-
-blockPeridot
 
 
 blockPhasedGold
@@ -1084,18 +865,12 @@ blockPhasedIron
 EnderIO:blockIngotStorage - 5
 
 
-blockPigIron
-
-
 blockPlastic
 MineFactoryReloaded:plastic - 0
 
 
 blockPlatinum
 ThermalFoundation:Storage - 5
-
-
-blockPokefennium
 
 
 blockPrismarine
@@ -1116,9 +891,6 @@ minecraft:quartz_block - 0
 blockQuicksilver
 thaumicbases:quicksilverBlock - 0
 thaumicbases:quicksilverBrick - 0
-
-
-blockRed_aurum
 
 
 blockRedstone
@@ -1217,18 +989,11 @@ blockRefinedObsidian
 Mekanism:BasicBlock - 2
 
 
-blockRubber
-TConstruct:GlueBlock - 0
-
-
 blockRubracium
 
 
 blockRuby
-
-
-blockRutile
-aobd:blockRutile - 0
+bluepower:ruby_block - 0
 
 
 blockSalisMundus
@@ -1244,6 +1009,7 @@ blockSanguinite
 
 
 blockSapphire
+bluepower:sapphire_block - 0
 
 
 blockShadow
@@ -1263,6 +1029,7 @@ ThermalFoundation:Storage - 10
 blockSilver
 ThermalFoundation:Storage - 2
 ImmersiveEngineering:storage - 3
+bluepower:silver_block - 0
 
 
 blockSlime
@@ -1285,24 +1052,11 @@ blockStainedHardenedClay
 minecraft:stained_hardened_clay - any
 
 
-blockStarDirt
-
-
 blockSteel
+IC2:blockMetal - 5
 Railcraft:cube - 2
 ImmersiveEngineering:storage - 7
-TConstruct:MetalBlock - 9
 Mekanism:BasicBlock - 5
-
-
-blockSulfur
-
-
-blockSunstone
-arsmagica2:vinteumOre - 8
-
-
-blockTanzanite
 
 
 blockTar
@@ -1313,6 +1067,7 @@ blockTartarite
 
 
 blockTeslatite
+bluepower:teslatite_block - 0
 
 
 blockThauminite
@@ -1321,17 +1076,9 @@ thaumicbases:thauminiteBlock - 0
 
 blockTin
 ThermalFoundation:Storage - 1
-Forestry:resourceStorage - 2
+IC2:blockMetal - 1
 Railcraft:cube - 10
-TConstruct:MetalBlock - 5
 Mekanism:BasicBlock - 13
-
-
-blockTitanium
-aobd:blockTitanium - 0
-
-
-blockTopaz
 
 
 blockTorch
@@ -1359,6 +1106,7 @@ mo:tritanium_block - 0
 
 
 blockTungsten
+bluepower:tungsten_block - 0
 
 
 blockUnstable
@@ -1366,15 +1114,11 @@ ExtraUtilities:decorativeBlock1 - 5
 
 
 blockUranium
-aobd:blockUranium - 0
+IC2:blockMetal - 3
 
 
 blockVibrantAlloy
 EnderIO:blockIngotStorage - 2
-
-
-blockVinteum
-arsmagica2:vinteumOre - 6
 
 
 blockVoid
@@ -1398,9 +1142,6 @@ blockVyroxeres
 
 blockWaterstone
 chisel:waterstone - 0
-
-
-blockWolframium
 
 
 blockWool
@@ -1471,31 +1212,54 @@ blockWoolYellow
 minecraft:wool - 4
 
 
-blockWroughtIron
-
-
 blockYellorium
 BigReactors:BRMetalBlock - 0
 
 
 blockZinc
+bluepower:zinc_block - 0
 
 
-blockmolten.bedrockiumingots
+bluestoneBundled
+bluepower:part.wire.bluestone.bundled.white - 0
+bluepower:part.wire.bluestone.bundled.orange - 0
+bluepower:part.wire.bluestone.bundled.magenta - 0
+bluepower:part.wire.bluestone.bundled.light_blue - 0
+bluepower:part.wire.bluestone.bundled.yellow - 0
+bluepower:part.wire.bluestone.bundled.lime - 0
+bluepower:part.wire.bluestone.bundled.pink - 0
+bluepower:part.wire.bluestone.bundled.gray - 0
+bluepower:part.wire.bluestone.bundled.light_gray - 0
+bluepower:part.wire.bluestone.bundled.cyan - 0
+bluepower:part.wire.bluestone.bundled.purple - 0
+bluepower:part.wire.bluestone.bundled.blue - 0
+bluepower:part.wire.bluestone.bundled.brown - 0
+bluepower:part.wire.bluestone.bundled.green - 0
+bluepower:part.wire.bluestone.bundled.red - 0
+bluepower:part.wire.bluestone.bundled.black - 0
+bluepower:part.wire.bluestone.bundled - 0
 
 
-blockmolten.unstableingots
-
-
-blueslimeRod
-TConstruct:toolRod - 17
+bluestoneInsulated
+bluepower:part.wire.bluestone.white - 0
+bluepower:part.wire.bluestone.orange - 0
+bluepower:part.wire.bluestone.magenta - 0
+bluepower:part.wire.bluestone.light_blue - 0
+bluepower:part.wire.bluestone.yellow - 0
+bluepower:part.wire.bluestone.lime - 0
+bluepower:part.wire.bluestone.pink - 0
+bluepower:part.wire.bluestone.gray - 0
+bluepower:part.wire.bluestone.light_gray - 0
+bluepower:part.wire.bluestone.cyan - 0
+bluepower:part.wire.bluestone.purple - 0
+bluepower:part.wire.bluestone.blue - 0
+bluepower:part.wire.bluestone.brown - 0
+bluepower:part.wire.bluestone.green - 0
+bluepower:part.wire.bluestone.red - 0
+bluepower:part.wire.bluestone.black - 0
 
 
 bone
-
-
-boneRod
-TConstruct:toolRod - 5
 
 
 book
@@ -1546,10 +1310,6 @@ BigReactors:BRDevice - 0
 
 brick
 thaumicbases:oldBrick - 0
-
-
-brickPeat
-Forestry:peat - 0
 
 
 bricksClay
@@ -1723,10 +1483,6 @@ bricksStoneYellow
 ExtraUtilities:colorStoneBrick - 11
 
 
-bronzeRod
-TConstruct:toolRod - 14
-
-
 bucket
 
 
@@ -1822,10 +1578,6 @@ MineFactoryReloaded:cable.redstone - 2
 MineFactoryReloaded:cable.redstone - 3
 
 
-cactusRod
-TConstruct:toolRod - 4
-
-
 carpet
 chisel:carpet - 0
 
@@ -1902,14 +1654,18 @@ BuildCraft|Silicon:redstoneChipset - 0
 
 
 circuitAdvanced
+IC2:itemPartCircuitAdv - 0
 Mekanism:ControlCircuit - 1
 
 
 circuitBasic
+IC2:itemPartCircuit - 0
+Techguns:TechgunsAmmo - 68
 Mekanism:ControlCircuit - 0
 
 
 circuitElite
+Techguns:TechgunsAmmo - 87
 Mekanism:ControlCircuit - 2
 
 
@@ -1931,20 +1687,12 @@ cloud
 chisel:cloud - 0
 
 
-clumpAluminium
-aobd:clumpAluminium - 0
-
-
-clumpArdite
-aobd:clumpArdite - 0
+clumpAluminum
+aobd:clumpAluminum - 0
 
 
 clumpCadmium
 aobd:clumpCadmium - 0
-
-
-clumpCobalt
-aobd:clumpCobalt - 0
 
 
 clumpCopper
@@ -2019,6 +1767,10 @@ clumpTritanium
 aobd:clumpTritanium - 0
 
 
+clumpTungsten
+aobd:clumpTungsten - 0
+
+
 clumpUranium
 aobd:clumpUranium - 0
 
@@ -2027,10 +1779,11 @@ clumpYellorium
 aobd:clumpYellorium - 0
 
 
+clumpZinc
+aobd:clumpZinc - 0
+
+
 clusterAdamantine
-
-
-clusterAdamantite
 
 
 clusterAdamantium
@@ -2043,19 +1796,13 @@ clusterAlduorite
 
 
 clusterAluminium
-aobd:clusterAluminium - 0
-
-
-clusterAluminiumBrass
 
 
 clusterAluminum
+aobd:clusterAluminum - 0
 
 
 clusterAluminumBrass
-
-
-clusterAlumite
 
 
 clusterAmber
@@ -2077,10 +1824,12 @@ clusterApatite
 
 
 clusterArdite
-aobd:clusterArdite - 0
 
 
 clusterAsh
+
+
+clusterAshes
 
 
 clusterAstral Silver
@@ -2099,27 +1848,6 @@ clusterBasalz
 
 
 clusterBauxite
-
-
-clusterBerryAluminium
-
-
-clusterBerryAluminum
-
-
-clusterBerryCopper
-
-
-clusterBerryEssence
-
-
-clusterBerryGold
-
-
-clusterBerryIron
-
-
-clusterBerryTin
 
 
 clusterBitumen
@@ -2147,27 +1875,6 @@ clusterBronze
 
 
 clusterBrownLimonite
-
-
-clusterBushAluminium
-
-
-clusterBushAluminum
-
-
-clusterBushCopper
-
-
-clusterBushEssence
-
-
-clusterBushGold
-
-
-clusterBushIron
-
-
-clusterBushTin
 
 
 clusterCadmium
@@ -2208,14 +1915,13 @@ clusterCinnabar
 Thaumcraft:ItemNugget - 21
 
 
+clusterClay
+
+
 clusterCoal
 
 
 clusterCobalt
-aobd:clusterCobalt - 0
-
-
-clusterCobaltum
 
 
 clusterCoke
@@ -2258,22 +1964,10 @@ clusterDiamond
 clusterDilithium
 
 
-clusterDirtyAdamantite
-
-
-clusterDirtyAluminium
-
-
-clusterDirtyArdite
+clusterDirtyAluminum
 
 
 clusterDirtyCadmium
-
-
-clusterDirtyCobalt
-
-
-clusterDirtyCobaltum
 
 
 clusterDirtyCopper
@@ -2283,9 +1977,6 @@ clusterDirtyDraconium
 
 
 clusterDirtyGold
-
-
-clusterDirtyHeeEndium
 
 
 clusterDirtyIndium
@@ -2300,19 +1991,10 @@ clusterDirtyIron
 clusterDirtyLead
 
 
-clusterDirtyMagnesium
-
-
-clusterDirtyMeteoricIron
-
-
 clusterDirtyMithril
 
 
 clusterDirtyNickel
-
-
-clusterDirtyOriharukon
 
 
 clusterDirtyOsmium
@@ -2346,9 +2028,6 @@ clusterDirtyTungsten
 
 
 clusterDirtyUranium
-
-
-clusterDirtyWolframium
 
 
 clusterDirtyYellorium
@@ -2421,9 +2100,6 @@ clusterGalena
 clusterGlowstone
 
 
-clusterGlue
-
-
 clusterGold
 Thaumcraft:ItemNugget - 31
 
@@ -2443,28 +2119,19 @@ clusterHOPGraphite
 clusterHaderoth
 
 
-clusterHeeEndPowder
-
-
 clusterHeeEndium
-
-
-clusterHeeIgneousRock
-
-
-clusterHeeInstabilityOrb
-
-
-clusterHeeStardust
 
 
 clusterHepatizon
 
 
+clusterHydratedCoal
+
+
 clusterIgnatius
 
 
-clusterIlmenite
+clusterIllmenite
 
 
 clusterIndium
@@ -2515,9 +2182,6 @@ clusterKalendrite
 clusterLapis
 
 
-clusterLaserite
-
-
 clusterLead
 Thaumcraft:ItemNugget - 20
 
@@ -2555,9 +2219,6 @@ clusterManganese
 clusterManyullyn
 
 
-clusterMeteoricIron
-
-
 clusterMeutoite
 
 
@@ -2569,12 +2230,6 @@ clusterMimichite
 
 clusterMithril
 aobd:clusterMithril - 0
-
-
-clusterMolten.bedrockiumingots
-
-
-clusterMolten.unstableingots
 
 
 clusterMoonstone
@@ -2595,12 +2250,6 @@ clusterNetherAluminium
 clusterNetherAluminum
 
 
-clusterNetherAluminumBrass
-
-
-clusterNetherAlumite
-
-
 clusterNetherAmber
 
 
@@ -2608,12 +2257,6 @@ clusterNetherAmethyst
 
 
 clusterNetherApatite
-
-
-clusterNetherArdite
-
-
-clusterNetherBronze
 
 
 clusterNetherCertusQuartz
@@ -2625,22 +2268,13 @@ clusterNetherCinnabar
 clusterNetherCoal
 
 
-clusterNetherCobalt
-
-
 clusterNetherCopper
 
 
 clusterNetherDiamond
 
 
-clusterNetherElectrum
-
-
 clusterNetherEmerald
-
-
-clusterNetherEnderium
 
 
 clusterNetherEssence
@@ -2655,16 +2289,10 @@ clusterNetherFzDarkIron
 clusterNetherGalena
 
 
-clusterNetherGlue
-
-
 clusterNetherGold
 
 
 clusterNetherGreenSapphire
-
-
-clusterNetherInvar
 
 
 clusterNetherIridium
@@ -2679,16 +2307,10 @@ clusterNetherLapis
 clusterNetherLead
 
 
-clusterNetherLumium
-
-
 clusterNetherMagnesium
 
 
 clusterNetherMalachite
-
-
-clusterNetherManyullyn
 
 
 clusterNetherMithril
@@ -2703,16 +2325,10 @@ clusterNetherNickel
 clusterNetherNikolite
 
 
-clusterNetherObsidian
-
-
 clusterNetherOsmium
 
 
 clusterNetherPeridot
-
-
-clusterNetherPigIron
 
 
 clusterNetherPlatinum
@@ -2737,9 +2353,6 @@ clusterNetherSaltpeter
 
 
 clusterNetherSapphire
-
-
-clusterNetherSignalum
 
 
 clusterNetherSilicon
@@ -2778,12 +2391,6 @@ clusterNetherUranium
 clusterNetherYellorite
 
 
-clusterNethermolten.bedrockiumingots
-
-
-clusterNethermolten.unstableingots
-
-
 clusterNetheroreDark
 
 
@@ -2806,9 +2413,6 @@ clusterOreDark
 clusterOrichalcum
 
 
-clusterOriharukon
-
-
 clusterOsmium
 aobd:clusterOsmium - 0
 
@@ -2828,9 +2432,6 @@ clusterPetrotheum
 clusterPhosphorite
 
 
-clusterPigIron
-
-
 clusterPitchblende
 
 
@@ -2839,90 +2440,6 @@ clusterPlastic
 
 clusterPlatinum
 aobd:clusterPlatinum - 0
-
-
-clusterPoorAluminum
-
-
-clusterPoorAluminumBrass
-
-
-clusterPoorAlumite
-
-
-clusterPoorArdite
-
-
-clusterPoorBronze
-
-
-clusterPoorCobalt
-
-
-clusterPoorCopper
-
-
-clusterPoorElectrum
-
-
-clusterPoorEnderium
-
-
-clusterPoorGlue
-
-
-clusterPoorGold
-
-
-clusterPoorInvar
-
-
-clusterPoorIron
-
-
-clusterPoorLead
-
-
-clusterPoorLumium
-
-
-clusterPoorManyullyn
-
-
-clusterPoorMithril
-
-
-clusterPoorNaturalAluminum
-
-
-clusterPoorNickel
-
-
-clusterPoorObsidian
-
-
-clusterPoorPigIron
-
-
-clusterPoorPlatinum
-
-
-clusterPoorSignalum
-
-
-clusterPoorSilver
-
-
-clusterPoorSteel
-
-
-clusterPoorTin
-
-
-clusterPoormolten.bedrockiumingots
-
-
-clusterPoormolten.unstableingots
 
 
 clusterPotash
@@ -2977,9 +2494,6 @@ clusterSanguinite
 clusterSapphire
 
 
-clusterSawdust
-
-
 clusterScarab
 
 
@@ -3002,6 +2516,9 @@ clusterSignalum
 clusterSilicon
 
 
+clusterSiliconDioxide
+
+
 clusterSilver
 Thaumcraft:ItemNugget - 19
 
@@ -3019,10 +2536,10 @@ clusterSteel
 aobd:clusterSteel - 0
 
 
+clusterStone
+
+
 clusterSulfur
-
-
-clusterSulphur
 
 
 clusterSunstone
@@ -3056,13 +2573,28 @@ clusterTin
 Thaumcraft:ItemNugget - 18
 
 
+clusterTinyAluminum
+
+
 clusterTinyBronze
+
+
+clusterTinyCadmium
 
 
 clusterTinyCopper
 
 
+clusterTinyDraconium
+
+
 clusterTinyGold
+
+
+clusterTinyIndium
+
+
+clusterTinyIridium
 
 
 clusterTinyIron
@@ -3077,16 +2609,31 @@ clusterTinyLead
 clusterTinyLithium
 
 
+clusterTinyMithril
+
+
 clusterTinyNickel
 
 
 clusterTinyObsidian
 
 
+clusterTinyOsmium
+
+
 clusterTinyPlatinum
 
 
+clusterTinyRutile
+
+
+clusterTinyShadow
+
+
 clusterTinySilver
+
+
+clusterTinySteel
 
 
 clusterTinySulfur
@@ -3095,8 +2642,29 @@ clusterTinySulfur
 clusterTinyTin
 
 
+clusterTinyTitanium
+
+
+clusterTinyTritanium
+
+
+clusterTinyTungsten
+
+
+clusterTinyUranium
+
+
+clusterTinyYellorium
+
+
+clusterTinyZinc
+
+
 clusterTitanium
 aobd:clusterTitanium - 0
+
+
+clusterTitaniumIron
 
 
 clusterTopaz
@@ -3110,6 +2678,7 @@ clusterTungstate
 
 
 clusterTungsten
+aobd:clusterTungsten - 0
 
 
 clusterUraninite
@@ -3131,9 +2700,6 @@ clusterVyroxeres
 clusterWheat
 
 
-clusterWolframium
-
-
 clusterWood
 
 
@@ -3148,6 +2714,7 @@ clusterYellowLimonite
 
 
 clusterZinc
+aobd:clusterZinc - 0
 
 
 coal
@@ -3158,12 +2725,10 @@ coalCoke
 RotaryCraft:rotarycraft_item_compacts - 8
 
 
-cobaltRod
-TConstruct:toolRod - 10
-
-
 cobblestone
 minecraft:cobblestone - 0
+MineFactoryReloaded:stone - 2
+MineFactoryReloaded:stone - 3
 ExtraUtilities:color_stonebrick - 0
 ExtraUtilities:color_stonebrick - 1
 ExtraUtilities:color_stonebrick - 2
@@ -3180,8 +2745,6 @@ ExtraUtilities:color_stonebrick - 12
 ExtraUtilities:color_stonebrick - 13
 ExtraUtilities:color_stonebrick - 14
 ExtraUtilities:color_stonebrick - 15
-MineFactoryReloaded:stone - 2
-MineFactoryReloaded:stone - 3
 thaumicbases:oldCobble - 0
 thaumicbases:oldCobbleMossy - 0
 
@@ -3255,6 +2818,94 @@ RotaryCraft:rotarycraft_item_compacts - 8
 
 
 compass
+
+
+componentArtificialMuscle
+powersuits:powerArmorComponent - 16
+
+
+componentCarbonMyofiber
+powersuits:powerArmorComponent - 13
+
+
+componentComputerChip
+powersuits:powerArmorComponent - 19
+
+
+componentControlCircuit
+powersuits:powerArmorComponent - 14
+
+
+componentFieldEmitter
+powersuits:powerArmorComponent - 11
+
+
+componentGliderWing
+powersuits:powerArmorComponent - 3
+
+
+componentHVCapacitor
+powersuits:powerArmorComponent - 7
+
+
+componentIonThruster
+powersuits:powerArmorComponent - 4
+
+
+componentLVCapacitor
+powersuits:powerArmorComponent - 5
+
+
+componentLaserEmitter
+powersuits:powerArmorComponent - 12
+
+
+componentLiquidNitrogen
+powersuits:powerArmorComponent - 21
+
+
+componentMVCapacitor
+powersuits:powerArmorComponent - 6
+
+
+componentMagnet
+powersuits:powerArmorComponent - 18
+
+
+componentMyofiberGel
+powersuits:powerArmorComponent - 15
+
+
+componentParachute
+powersuits:powerArmorComponent - 8
+
+
+componentPlatingAdvanced
+powersuits:powerArmorComponent - 10
+
+
+componentPlatingBasic
+powersuits:powerArmorComponent - 9
+
+
+componentRubberHose
+powersuits:powerArmorComponent - 20
+
+
+componentServo
+powersuits:powerArmorComponent - 2
+
+
+componentSolarPanel
+powersuits:powerArmorComponent - 17
+
+
+componentSolenoid
+powersuits:powerArmorComponent - 1
+
+
+componentWiring
+powersuits:powerArmorComponent - 0
 
 
 compressedCobblestone1x
@@ -3332,26 +2983,16 @@ Growthcraft|Hops:grc.hops - 0
 
 
 container_oil
-MagicBees:capsule.void - 5
-MagicBees:capsule.magic - 5
 BuildCraft|Energy:bucketOil - 0
 
 
 container_water
-minecraft:water_bucket - 0
-MagicBees:capsule.void - 1
-Forestry:waxCapsuleWater - 0
-MagicBees:capsule.magic - 1
-Forestry:refractoryWater - 0
+IC2:itemCellEmpty - 1
 minecraft:potion - 0
-Forestry:canWater - 0
+minecraft:water_bucket - 0
 
 
 cookingClam
-
-
-copperRod
-TConstruct:toolRod - 13
 
 
 crafterWood
@@ -3368,7 +3009,6 @@ Natura:Natura.workbench - 9
 Natura:Natura.workbench - 10
 Natura:Natura.workbench - 11
 Natura:Natura.workbench - 12
-minecraft:crafting_table - 0
 
 
 craftingBook
@@ -3397,11 +3037,18 @@ Natura:Natura.workbench - 11
 Natura:Natura.workbench - 12
 
 
+craftingToolForgeHammer
+IC2:itemToolForgeHammer - any
+
+
+craftingToolWireCutter
+IC2:itemToolCutter - any
+
+
 cropASparagus
 
 
 cropAcorn
-ExtraTrees:food - 33
 
 
 cropAllium
@@ -3410,23 +3057,14 @@ minecraft:dye - 13
 
 cropAlmond
 harvestcraft:almondItem - 0
-ExtraTrees:food - 9
-
-
-cropAmbegonia
-
-
-cropApatacia
 
 
 cropApple
 minecraft:apple - 0
-ExtraTrees:food - 0
 
 
 cropApricot
 harvestcraft:apricotItem - 0
-ExtraTrees:food - 10
 
 
 cropArtichoke
@@ -3435,10 +3073,6 @@ harvestcraft:artichokeItem - 0
 
 cropAsparagus
 harvestcraft:asparagusItem - 0
-
-
-cropAum
-arsmagica2:Aum - 0
 
 
 cropAurigold
@@ -3461,8 +3095,6 @@ harvestcraft:bambooshootItem - 0
 
 cropBanana
 harvestcraft:bananaItem - 0
-ExtraTrees:food - 28
-ExtraTrees:food - 29
 
 
 cropBarley
@@ -3475,7 +3107,6 @@ harvestcraft:beanItem - 0
 
 
 cropBeechnut
-ExtraTrees:food - 26
 
 
 cropBeet
@@ -3486,15 +3117,6 @@ cropBeetroot
 harvestcraft:beetItem - 0
 
 
-cropBellPepperOrange
-
-
-cropBellPepperRed
-
-
-cropBellPepperYellow
-
-
 cropBelladonna
 witchery:ingredient - 21
 
@@ -3503,20 +3125,12 @@ cropBellpepper
 harvestcraft:bellpepperItem - 0
 
 
-cropBiomilotus
-
-
-cropBlackCherry
-ExtraTrees:food - 6
-
-
 cropBlackberry
 Natura:berry - 2
 harvestcraft:blackberryItem - 0
 
 
 cropBlackthorn
-ExtraTrees:food - 7
 
 
 cropBlightberry
@@ -3593,7 +3207,6 @@ Botania:petal - 4
 
 
 cropBrazilNut
-ExtraTrees:food - 31
 
 
 cropBroccoli
@@ -3602,14 +3215,6 @@ harvestcraft:broccoliItem - 0
 
 cropBrusselsprout
 harvestcraft:brusselsproutItem - 0
-
-
-cropBuddhaHand
-ExtraTrees:food - 14
-
-
-cropButternut
-ExtraTrees:food - 25
 
 
 cropCabbage
@@ -3648,9 +3253,6 @@ cropCashew
 harvestcraft:cashewItem - 0
 
 
-cropCassava
-
-
 cropCassis
 
 
@@ -3665,27 +3267,11 @@ harvestcraft:celeryItem - 0
 cropCentella
 
 
-cropCertophus
-
-
-cropCerublossom
-arsmagica2:blueOrchid - 0
-
-
 cropCherry
-Forestry:fruits - 0
 harvestcraft:cherryItem - 0
-ExtraTrees:food - 4
-ExtraTrees:food - 5
-ExtraTrees:food - 6
-
-
-cropCherryPlum
-ExtraTrees:food - 8
 
 
 cropChestnut
-Forestry:fruits - 2
 harvestcraft:chestnutItem - 0
 
 
@@ -3701,19 +3287,10 @@ cropCinnamon
 harvestcraft:cinnamonItem - 0
 
 
-cropCinnamum
-
-
 cropCitron
-ExtraTrees:food - 14
-ExtraTrees:food - 15
 
 
 cropClove
-ExtraTrees:food - 39
-
-
-cropCockscoal
 
 
 cropCoconut
@@ -3722,7 +3299,6 @@ harvestcraft:coconutItem - 0
 
 cropCoffee
 harvestcraft:coffeebeanItem - 0
-ExtraTrees:food - 37
 
 
 cropCorn
@@ -3731,10 +3307,6 @@ harvestcraft:cornItem - 0
 
 cropCotton
 harvestcraft:cottonItem - 0
-
-
-cropCrabapple
-ExtraTrees:food - 0
 
 
 cropCranberry
@@ -3762,16 +3334,11 @@ minecraft:dye - 11
 
 
 cropDate
-Forestry:fruits - 5
 harvestcraft:dateItem - 0
 
 
-cropDesertNova
-arsmagica2:desertNova - 0
-
-
 cropDiamahlia
-enhancedportals:nuggetDiamond - 0
+AgriCraft:nuggetDiamond - 0
 
 
 cropDragonfruit
@@ -3795,14 +3362,10 @@ harvestcraft:eggplantItem - 0
 
 
 cropElderberry
-ExtraTrees:food - 34
 
 
 cropEmeryllis
-AgriCraft:nuggetEmerald - 0
-
-
-cropEnder-Amaranthyst
+ForbiddenMagic:FMResource - 0
 
 
 cropFerranium
@@ -3811,14 +3374,10 @@ Thaumcraft:ItemNugget - 0
 
 cropFig
 harvestcraft:figItem - 0
-ExtraTrees:food - 32
-
-
-cropFingerLime
-ExtraTrees:food - 16
 
 
 cropFlax
+minecraft:string - 0
 
 
 cropGarlic
@@ -3828,10 +3387,6 @@ witchery:garlic - any
 
 cropGinger
 harvestcraft:gingerItem - 0
-
-
-cropGingkoNut
-ExtraTrees:food - 36
 
 
 cropGinkgoNut
@@ -3848,23 +3403,17 @@ harvestcraft:grapeItem - 0
 
 cropGrapefruit
 harvestcraft:grapefruitItem - 0
-ExtraTrees:food - 11
 
 
 cropGrapes
 Growthcraft|Grapes:grc.grapes - 0
 
 
-cropGreenBeans
-
-
 cropHazelnut
-ExtraTrees:food - 24
 
 
 cropHops
 Growthcraft|Hops:grc.hops - 0
-ExtraTrees:misc - 5
 
 
 cropIndustrialHemp
@@ -3874,16 +3423,11 @@ cropJaslumine
 ImmersiveEngineering:metal - 23
 
 
-cropKeyLime
-ExtraTrees:food - 17
-
-
 cropKiwi
 harvestcraft:kiwiItem - 0
 
 
 cropKumquat
-ExtraTrees:food - 2
 
 
 cropLaksaLeaf
@@ -3898,7 +3442,6 @@ harvestcraft:leekItem - 0
 
 
 cropLemon
-Forestry:fruits - 3
 harvestcraft:lemonItem - 0
 
 
@@ -3908,20 +3451,10 @@ harvestcraft:lettuceItem - 0
 
 cropLime
 harvestcraft:limeItem - 0
-ExtraTrees:food - 3
-ExtraTrees:food - 16
-ExtraTrees:food - 17
-
-
-cropMalachalidonium
 
 
 cropMaloberry
 Natura:berry - 3
-
-
-cropManderin
-ExtraTrees:food - 18
 
 
 cropMandrake
@@ -3940,9 +3473,6 @@ cropMelon
 minecraft:melon - 0
 
 
-cropMithrium
-
-
 cropMushroomBrown
 minecraft:brown_mushroom - 0
 
@@ -3953,10 +3483,6 @@ minecraft:red_mushroom - 0
 
 cropMustard
 harvestcraft:mustardseedsItem - 0
-
-
-cropNectarine
-ExtraTrees:food - 19
 
 
 cropNiccissus
@@ -3981,7 +3507,6 @@ harvestcraft:okraItem - 0
 
 cropOlive
 harvestcraft:oliveItem - 0
-ExtraTrees:food - 35
 
 
 cropOnion
@@ -3990,10 +3515,6 @@ harvestcraft:onionItem - 0
 
 cropOrange
 harvestcraft:orangeItem - 0
-ExtraTrees:food - 1
-ExtraTrees:food - 13
-ExtraTrees:food - 18
-ExtraTrees:food - 21
 
 
 cropOrchid
@@ -4001,7 +3522,6 @@ minecraft:dye - 12
 
 
 cropOsangeOrange
-ExtraTrees:food - 38
 
 
 cropOsmonium
@@ -4009,7 +3529,6 @@ aobd:nuggetOsmium - 0
 
 
 cropPapaya
-Forestry:fruits - 6
 harvestcraft:papayaItem - 0
 
 
@@ -4019,8 +3538,6 @@ harvestcraft:parsnipItem - 0
 
 cropPeach
 harvestcraft:peachItem - 0
-ExtraTrees:food - 12
-ExtraTrees:food - 19
 
 
 cropPeanut
@@ -4029,7 +3546,6 @@ harvestcraft:peanutItem - 0
 
 cropPear
 harvestcraft:pearItem - 0
-ExtraTrees:food - 22
 
 
 cropPeas
@@ -4038,14 +3554,10 @@ harvestcraft:peasItem - 0
 
 cropPecan
 harvestcraft:pecanItem - 0
-ExtraTrees:food - 27
 
 
 cropPeppercorn
 harvestcraft:peppercornItem - 0
-
-
-cropPeridactyl
 
 
 cropPersimmon
@@ -4065,7 +3577,6 @@ harvestcraft:pistachioItem - 0
 
 
 cropPlantain
-ExtraTrees:food - 30
 
 
 cropPlatiolus
@@ -4077,9 +3588,7 @@ Thaumcraft:ItemNugget - 4
 
 
 cropPlum
-Forestry:fruits - 4
 harvestcraft:plumItem - 0
-ExtraTrees:food - 8
 
 
 cropPomegranate
@@ -4087,7 +3596,6 @@ harvestcraft:pomegranateItem - 0
 
 
 cropPomelo
-ExtraTrees:food - 20
 
 
 cropPoppy
@@ -4115,13 +3623,6 @@ Natura:berry - 0
 harvestcraft:raspberryItem - 0
 
 
-cropRedBanana
-ExtraTrees:food - 29
-
-
-cropRedGrape
-
-
 cropRedstodendron
 minecraft:redstone - 0
 
@@ -4133,12 +3634,6 @@ harvestcraft:rhubarbItem - 0
 cropRice
 Growthcraft|Rice:grc.rice - 0
 harvestcraft:riceItem - 0
-
-
-cropRoasted
-
-
-cropRuboner
 
 
 cropRutabaga
@@ -4153,14 +3648,6 @@ cropSacredLotus
 
 
 cropSandPear
-ExtraTrees:food - 23
-
-
-cropSapphuopsis
-
-
-cropSatsuma
-ExtraTrees:food - 13
 
 
 cropScallion
@@ -4203,13 +3690,6 @@ witchery:ingredient - 78
 minecraft:snowball - 0
 
 
-cropSorrel
-
-
-cropSourCherry
-ExtraTrees:food - 5
-
-
 cropSoybean
 harvestcraft:soybeanItem - 0
 
@@ -4231,6 +3711,7 @@ Natura:berry.nether - 3
 
 
 cropStrawberry
+ExtrabiomesXL:extrabiomes.crop - 0
 harvestcraft:strawberryItem - 0
 
 
@@ -4250,17 +3731,6 @@ cropTaintedRoot
 Thaumcraft:ItemResource - 12
 
 
-cropTangerine
-ExtraTrees:food - 21
-
-
-cropTanzanigella
-
-
-cropTarmaRoot
-arsmagica2:TarmaRoot - 0
-
-
 cropTaro
 
 
@@ -4270,9 +3740,6 @@ harvestcraft:tealeafItem - 0
 
 cropTomato
 harvestcraft:tomatoItem - 0
-
-
-cropTopazanthoxylum
 
 
 cropTulipOrange
@@ -4307,14 +3774,8 @@ cropVishroom
 Thaumcraft:blockCustomPlant - 5
 
 
-cropWakebloom
-arsmagica2:wakebloom - 0
-
-
 cropWalnut
-Forestry:fruits - 1
 harvestcraft:walnutItem - 0
-ExtraTrees:food - 25
 
 
 cropWasabi
@@ -4338,15 +3799,8 @@ cropWheat
 minecraft:wheat - 0
 
 
-cropWhiteGrape
-
-
 cropWhitemushroom
 harvestcraft:whitemushroomItem - 0
-
-
-cropWildCherry
-ExtraTrees:food - 4
 
 
 cropWildRice
@@ -4371,43 +3825,23 @@ cropWormwood
 witchery:ingredient - 111
 
 
-cropYelloria
-
-
 cropYuzu
-
-
-cropZincova
 
 
 cropZucchini
 harvestcraft:zucchiniItem - 0
 
 
-crushedAdamantite
-
-
-crushedAluminium
-aobd:crushedAluminium - 0
-
-
-crushedArdite
-aobd:crushedArdite - 0
+crushedAluminum
+aobd:crushedAluminum - 0
 
 
 crushedCadmium
 aobd:crushedCadmium - 0
 
 
-crushedCobalt
-aobd:crushedCobalt - 0
-
-
-crushedCobaltum
-
-
 crushedCopper
-aobd:crushedCopper - 0
+IC2:itemCrushedOre - 1
 
 
 crushedDraconium
@@ -4415,10 +3849,7 @@ aobd:crushedDraconium - 0
 
 
 crushedGold
-aobd:crushedGold - 0
-
-
-crushedHeeEndium
+IC2:itemCrushedOre - 2
 
 
 crushedIndium
@@ -4430,17 +3861,14 @@ aobd:crushedIridium - 0
 
 
 crushedIron
-aobd:crushedIron - 0
+IC2:itemCrushedOre - 0
 
 
 crushedLead
-aobd:crushedLead - 0
+IC2:itemCrushedOre - 6
 
 
 crushedMagnesium
-
-
-crushedMeteoricIron
 
 
 crushedMithril
@@ -4451,9 +3879,6 @@ crushedNickel
 aobd:crushedNickel - 0
 
 
-crushedOriharukon
-
-
 crushedOsmium
 aobd:crushedOsmium - 0
 
@@ -4462,28 +3887,100 @@ crushedPlatinum
 aobd:crushedPlatinum - 0
 
 
+crushedPurifiedAluminum
+aobd:crushedPurifiedAluminum - 0
+
+
+crushedPurifiedCadmium
+aobd:crushedPurifiedCadmium - 0
+
+
 crushedPurifiedCopper
+IC2:itemPurifiedCrushedOre - 1
+
+
+crushedPurifiedDraconium
+aobd:crushedPurifiedDraconium - 0
 
 
 crushedPurifiedGold
+IC2:itemPurifiedCrushedOre - 2
+
+
+crushedPurifiedIndium
+aobd:crushedPurifiedIndium - 0
+
+
+crushedPurifiedIridium
+aobd:crushedPurifiedIridium - 0
 
 
 crushedPurifiedIron
+IC2:itemPurifiedCrushedOre - 0
 
 
 crushedPurifiedLead
+IC2:itemPurifiedCrushedOre - 6
+
+
+crushedPurifiedMithril
+aobd:crushedPurifiedMithril - 0
 
 
 crushedPurifiedNickel
+aobd:crushedPurifiedNickel - 0
+
+
+crushedPurifiedOsmium
+aobd:crushedPurifiedOsmium - 0
 
 
 crushedPurifiedPlatinum
+aobd:crushedPurifiedPlatinum - 0
+
+
+crushedPurifiedRutile
+aobd:crushedPurifiedRutile - 0
+
+
+crushedPurifiedShadow
+aobd:crushedPurifiedShadow - 0
 
 
 crushedPurifiedSilver
+IC2:itemPurifiedCrushedOre - 5
+
+
+crushedPurifiedSteel
+aobd:crushedPurifiedSteel - 0
 
 
 crushedPurifiedTin
+IC2:itemPurifiedCrushedOre - 3
+
+
+crushedPurifiedTitanium
+aobd:crushedPurifiedTitanium - 0
+
+
+crushedPurifiedTritanium
+aobd:crushedPurifiedTritanium - 0
+
+
+crushedPurifiedTungsten
+aobd:crushedPurifiedTungsten - 0
+
+
+crushedPurifiedUranium
+IC2:itemPurifiedCrushedOre - 4
+
+
+crushedPurifiedYellorium
+aobd:crushedPurifiedYellorium - 0
+
+
+crushedPurifiedZinc
+aobd:crushedPurifiedZinc - 0
 
 
 crushedRutile
@@ -4495,7 +3992,7 @@ aobd:crushedShadow - 0
 
 
 crushedSilver
-aobd:crushedSilver - 0
+IC2:itemCrushedOre - 5
 
 
 crushedSteel
@@ -4503,7 +4000,7 @@ aobd:crushedSteel - 0
 
 
 crushedTin
-aobd:crushedTin - 0
+IC2:itemCrushedOre - 3
 
 
 crushedTitanium
@@ -4515,13 +4012,11 @@ aobd:crushedTritanium - 0
 
 
 crushedTungsten
+aobd:crushedTungsten - 0
 
 
 crushedUranium
-aobd:crushedUranium - 0
-
-
-crushedWolframium
+IC2:itemCrushedOre - 4
 
 
 crushedYellorium
@@ -4529,14 +4024,11 @@ aobd:crushedYellorium - 0
 
 
 crushedZinc
+aobd:crushedZinc - 0
 
 
-crystalAluminium
-aobd:crystalAluminium - 0
-
-
-crystalArdite
-aobd:crystalArdite - 0
+crystalAluminum
+aobd:crystalAluminum - 0
 
 
 crystalCadmium
@@ -4548,16 +4040,8 @@ appliedenergistics2:item.ItemMultiMaterial - 0
 RotaryCraft:rotarycraft_item_modingots - 9
 
 
-crystalChargedCertusQuartz
-appliedenergistics2:item.ItemMultiMaterial - 1
-
-
 crystalCinnabar
 ThermalFoundation:material - 20
-
-
-crystalCobalt
-aobd:crystalCobalt - 0
 
 
 crystalCopper
@@ -4654,6 +4138,10 @@ crystalTritanium
 aobd:crystalTritanium - 0
 
 
+crystalTungsten
+aobd:crystalTungsten - 0
+
+
 crystalUranium
 aobd:crystalUranium - 0
 
@@ -4662,46 +4150,20 @@ crystalYellorium
 aobd:crystalYellorium - 0
 
 
+crystalZinc
+aobd:crystalZinc - 0
+
+
 crystallineAdamantium
-
-
-crystallineAluminum
-
-
-crystallineAluminumBrass
-
-
-crystallineAlumite
-
-
-crystallineArdite
-
-
-crystallineBronze
 
 
 crystallineCoal
 
 
-crystallineCobalt
-
-
 crystallineCopper
 
 
-crystallineElectrum
-
-
-crystallineEnderium
-
-
-crystallineGlue
-
-
 crystallineGold
-
-
-crystallineInvar
 
 
 crystallineIron
@@ -4710,37 +4172,19 @@ crystallineIron
 crystallineLead
 
 
-crystallineLumium
-
-
-crystallineManyullyn
-
-
 crystallineMithril
-
-
-crystallineNaturalAluminum
 
 
 crystallineNickel
 
 
-crystallineObsidian
-
-
 crystallineOsmium
-
-
-crystallinePigIron
 
 
 crystallinePlatinum
 
 
 crystallineRutile
-
-
-crystallineSignalum
 
 
 crystallineSilver
@@ -4761,12 +4205,6 @@ crystallineTitanium
 crystallineTungsten
 
 
-crystallinemolten.bedrockiumingots
-
-
-crystallinemolten.unstableingots
-
-
 daylightDetector
 
 
@@ -4774,19 +4212,7 @@ denseSand
 fossil:denseSand - 0
 
 
-denseoreAluminum
-
-
-denseoreAluminumBrass
-
-
-denseoreAlumite
-
-
 denseoreArdite
-
-
-denseoreBronze
 
 
 denseoreCoal
@@ -4801,22 +4227,10 @@ denseoreCopper
 denseoreDiamond
 
 
-denseoreElectrum
-
-
 denseoreEmerald
 
 
-denseoreEnderium
-
-
-denseoreGlue
-
-
 denseoreGold
-
-
-denseoreInvar
 
 
 denseoreIron
@@ -4828,22 +4242,10 @@ denseoreLapis
 denseoreLead
 
 
-denseoreLumium
-
-
-denseoreManyullyn
-
-
 denseoreMithril
 
 
-denseoreNaturalAluminum
-
-
 denseoreNickel
-
-
-denseorePigIron
 
 
 denseorePlatinum
@@ -4855,22 +4257,10 @@ denseoreQuartz
 denseoreRedstone
 
 
-denseoreSignalum
-
-
 denseoreSilver
 
 
-denseoreSteel
-
-
 denseoreTin
-
-
-denseoremolten.bedrockiumingots
-
-
-denseoremolten.unstableingots
 
 
 dinosaurArmBone
@@ -4909,6 +4299,14 @@ chisel:dirt - 0
 dispenser
 
 
+drawerBasic
+StorageDrawers:fullDrawers1 - any
+StorageDrawers:fullDrawers2 - any
+StorageDrawers:fullDrawers4 - any
+StorageDrawers:halfDrawers2 - any
+StorageDrawers:halfDrawers4 - any
+
+
 dreamwood
 Botania:dreamwood - 0
 
@@ -4918,15 +4316,9 @@ Botania:manaResource - 13
 
 
 dropHoney
-Forestry:honeyDrop - 0
 harvestcraft:honeyItem - 0
 Growthcraft|Bees:grc.honeyJar - 0
 Growthcraft|Bees:grc.BucketFluidHoney - 0
-gendustry:HoneyDrop - any
-
-
-dropHoneydew
-Forestry:honeydew - 0
 
 
 dropIridium
@@ -4936,17 +4328,10 @@ dropMagma
 RotaryCraft:rotarycraft_item_modingots - 64
 
 
-dropRoyalJelly
-Forestry:royalJelly - 0
-
-
 dropper
 
 
 dustAdamantine
-
-
-dustAdamantite
 
 
 dustAdamantium
@@ -4960,24 +4345,14 @@ dustAlduorite
 
 
 dustAluminium
-TConstruct:materials - 40
-
-
-dustAluminiumBrass
-TConstruct:materials - 42
 
 
 dustAluminum
 ImmersiveEngineering:metal - 11
-TConstruct:materials - 40
 RotaryCraft:rotarycraft_item_powders - 8
 
 
 dustAluminumBrass
-TConstruct:materials - 42
-
-
-dustAlumite
 
 
 dustAmber
@@ -5001,12 +4376,14 @@ dustApatite
 
 
 dustArdite
-TConstruct:materials - 38
 
 
 dustAsh
-Forestry:ash - 0
 fossil:volcanicAsh - 0
+
+
+dustAshes
+IC2:itemDust2 - 3
 
 
 dustAstral Silver
@@ -5027,27 +4404,6 @@ ThermalFoundation:material - 1029
 
 dustBauxite
 RotaryCraft:rotarycraft_item_modingots - 53
-
-
-dustBerryAluminium
-
-
-dustBerryAluminum
-
-
-dustBerryCopper
-
-
-dustBerryEssence
-
-
-dustBerryGold
-
-
-dustBerryIron
-
-
-dustBerryTin
 
 
 dustBitumen
@@ -5076,30 +4432,10 @@ dustBrass
 
 dustBronze
 ThermalFoundation:material - 41
+IC2:itemDust - 0
 
 
 dustBrownLimonite
-
-
-dustBushAluminium
-
-
-dustBushAluminum
-
-
-dustBushCopper
-
-
-dustBushEssence
-
-
-dustBushGold
-
-
-dustBushIron
-
-
-dustBushTin
 
 
 dustCadmium
@@ -5142,17 +4478,18 @@ dustChromite
 dustCinnabar
 
 
+dustClay
+IC2:itemDust - 1
+
+
 dustCoal
 ThermalFoundation:material - 2
+IC2:itemDust - 2
 EnderIO:itemPowderIngot - 0
 RotaryCraft:rotarycraft_item_powders - 10
 
 
 dustCobalt
-TConstruct:materials - 39
-
-
-dustCobaltum
 
 
 dustCoke
@@ -5168,10 +4505,10 @@ dustCooperite
 
 dustCopper
 ThermalFoundation:material - 32
-ImmersiveEngineering:metal - 10
+IC2:itemDust - 3
 EnderIO:itemPowderIngot - 3
+ImmersiveEngineering:metal - 10
 Mekanism:Dust - 3
-Project_Alchemy:item.dartResource - 34
 
 
 dustCryotheum
@@ -5199,6 +4536,7 @@ dustDesh
 
 
 dustDiamond
+IC2:itemDust2 - 1
 Mekanism:OtherDust - 0
 ElectriCraft:electricraft_item_crafting - 1
 
@@ -5207,26 +4545,12 @@ dustDilithium
 RotaryCraft:rotarycraft_item_modingots - 87
 
 
-dustDirtyAdamantite
-
-
-dustDirtyAluminium
-aobd:dustDirtyAluminium - 0
-
-
-dustDirtyArdite
-aobd:dustDirtyArdite - 0
+dustDirtyAluminum
+aobd:dustDirtyAluminum - 0
 
 
 dustDirtyCadmium
 aobd:dustDirtyCadmium - 0
-
-
-dustDirtyCobalt
-aobd:dustDirtyCobalt - 0
-
-
-dustDirtyCobaltum
 
 
 dustDirtyCopper
@@ -5239,9 +4563,6 @@ aobd:dustDirtyDraconium - 0
 
 dustDirtyGold
 Mekanism:DirtyDust - 1
-
-
-dustDirtyHeeEndium
 
 
 dustDirtyIndium
@@ -5260,21 +4581,12 @@ dustDirtyLead
 Mekanism:DirtyDust - 6
 
 
-dustDirtyMagnesium
-
-
-dustDirtyMeteoricIron
-
-
 dustDirtyMithril
 aobd:dustDirtyMithril - 0
 
 
 dustDirtyNickel
 aobd:dustDirtyNickel - 0
-
-
-dustDirtyOriharukon
 
 
 dustDirtyOsmium
@@ -5314,13 +4626,11 @@ aobd:dustDirtyTritanium - 0
 
 
 dustDirtyTungsten
+aobd:dustDirtyTungsten - 0
 
 
 dustDirtyUranium
 aobd:dustDirtyUranium - 0
-
-
-dustDirtyWolframium
 
 
 dustDirtyYellorium
@@ -5328,6 +4638,7 @@ aobd:dustDirtyYellorium - 0
 
 
 dustDirtyZinc
+aobd:dustDirtyZinc - 0
 
 
 dustDominicanAmber
@@ -5348,7 +4659,7 @@ ImmersiveEngineering:metal - 16
 
 
 dustElectrumFlux
-simplyjetpacks:components - 64
+RedstoneArsenal:material - 0
 
 
 dustEmerald
@@ -5404,15 +4715,12 @@ dustGlowstone
 minecraft:glowstone_dust - 0
 
 
-dustGlue
-
-
 dustGold
 ThermalFoundation:material - 1
+IC2:itemDust - 4
 ImmersiveEngineering:metal - 9
 EnderIO:itemPowderIngot - 2
 Mekanism:Dust - 1
-Project_Alchemy:item.dartResource - 33
 
 
 dustGraphite
@@ -5433,28 +4741,20 @@ ImmersiveEngineering:metal - 19
 dustHaderoth
 
 
-dustHeeEndPowder
-
-
 dustHeeEndium
-
-
-dustHeeIgneousRock
-
-
-dustHeeInstabilityOrb
-
-
-dustHeeStardust
 
 
 dustHepatizon
 
 
+dustHydratedCoal
+IC2:itemDust - 8
+
+
 dustIgnatius
 
 
-dustIlmenite
+dustIllmenite
 
 
 dustIndium
@@ -5480,6 +4780,7 @@ dustInfusedOrder
 
 
 dustInfusedTeslatite
+bluepower:infused_teslatite_dust - 0
 
 
 dustInfusedWater
@@ -5498,33 +4799,32 @@ aobd:dustIridium - 0
 
 dustIron
 ThermalFoundation:material - 0
+IC2:itemDust - 5
 ImmersiveEngineering:metal - 8
 EnderIO:itemPowderIngot - 1
 Mekanism:Dust - 0
-Project_Alchemy:item.dartResource - 32
 
 
 dustKalendrite
 
 
 dustLapis
+IC2:itemDust - 12
 ElectriCraft:electricraft_item_crafting - 0
-
-
-dustLaserite
 
 
 dustLead
 ThermalFoundation:material - 35
+IC2:itemDust - 10
 ImmersiveEngineering:metal - 12
 Mekanism:Dust - 6
-Project_Alchemy:item.dartResource - 37
 
 
 dustLemurite
 
 
 dustLithium
+IC2:itemDust - 14
 Mekanism:OtherDust - 4
 
 
@@ -5555,10 +4855,6 @@ dustManganese
 
 
 dustManyullyn
-TConstruct:materials - 41
-
-
-dustMeteoricIron
 
 
 dustMeutoite
@@ -5572,12 +4868,6 @@ dustMimichite
 
 dustMithril
 ThermalFoundation:material - 38
-
-
-dustMolten.bedrockiumingots
-
-
-dustMolten.unstableingots
 
 
 dustMoonstone
@@ -5598,12 +4888,6 @@ dustNetherAluminium
 dustNetherAluminum
 
 
-dustNetherAluminumBrass
-
-
-dustNetherAlumite
-
-
 dustNetherAmber
 
 
@@ -5611,12 +4895,6 @@ dustNetherAmethyst
 
 
 dustNetherApatite
-
-
-dustNetherArdite
-
-
-dustNetherBronze
 
 
 dustNetherCertusQuartz
@@ -5628,22 +4906,13 @@ dustNetherCinnabar
 dustNetherCoal
 
 
-dustNetherCobalt
-
-
 dustNetherCopper
 
 
 dustNetherDiamond
 
 
-dustNetherElectrum
-
-
 dustNetherEmerald
-
-
-dustNetherEnderium
 
 
 dustNetherEssence
@@ -5658,16 +4927,10 @@ dustNetherFzDarkIron
 dustNetherGalena
 
 
-dustNetherGlue
-
-
 dustNetherGold
 
 
 dustNetherGreenSapphire
-
-
-dustNetherInvar
 
 
 dustNetherIridium
@@ -5682,16 +4945,10 @@ dustNetherLapis
 dustNetherLead
 
 
-dustNetherLumium
-
-
 dustNetherMagnesium
 
 
 dustNetherMalachite
-
-
-dustNetherManyullyn
 
 
 dustNetherMithril
@@ -5706,16 +4963,10 @@ dustNetherNickel
 dustNetherNikolite
 
 
-dustNetherObsidian
-
-
 dustNetherOsmium
 
 
 dustNetherPeridot
-
-
-dustNetherPigIron
 
 
 dustNetherPlatinum
@@ -5742,9 +4993,6 @@ dustNetherSaltpeter
 
 
 dustNetherSapphire
-
-
-dustNetherSignalum
 
 
 dustNetherSilicon
@@ -5783,12 +5031,6 @@ dustNetherUranium
 dustNetherYellorite
 
 
-dustNethermolten.bedrockiumingots
-
-
-dustNethermolten.unstableingots
-
-
 dustNetheroreDark
 
 
@@ -5799,7 +5041,6 @@ RotaryCraft:rotarycraft_item_powders - 0
 dustNickel
 ThermalFoundation:material - 36
 ImmersiveEngineering:metal - 14
-Project_Alchemy:item.dartResource - 38
 
 
 dustNikolite
@@ -5808,6 +5049,7 @@ RotaryCraft:rotarycraft_item_modingots - 40
 
 dustObsidian
 ThermalFoundation:material - 4
+IC2:itemDust - 11
 Railcraft:dust - 0
 EnderIO:itemPowderIngot - 7
 Mekanism:OtherDust - 6
@@ -5817,9 +5059,6 @@ dustOreDark
 
 
 dustOrichalcum
-
-
-dustOriharukon
 
 
 dustOsmium
@@ -5842,9 +5081,6 @@ ThermalFoundation:material - 515
 dustPhosphorite
 
 
-dustPigIron
-
-
 dustPitchblende
 
 
@@ -5854,91 +5090,6 @@ MineFactoryReloaded:plastic.raw - 0
 
 dustPlatinum
 ThermalFoundation:material - 37
-Project_Alchemy:item.dartResource - 39
-
-
-dustPoorAluminum
-
-
-dustPoorAluminumBrass
-
-
-dustPoorAlumite
-
-
-dustPoorArdite
-
-
-dustPoorBronze
-
-
-dustPoorCobalt
-
-
-dustPoorCopper
-
-
-dustPoorElectrum
-
-
-dustPoorEnderium
-
-
-dustPoorGlue
-
-
-dustPoorGold
-
-
-dustPoorInvar
-
-
-dustPoorIron
-
-
-dustPoorLead
-
-
-dustPoorLumium
-
-
-dustPoorManyullyn
-
-
-dustPoorMithril
-
-
-dustPoorNaturalAluminum
-
-
-dustPoorNickel
-
-
-dustPoorObsidian
-
-
-dustPoorPigIron
-
-
-dustPoorPlatinum
-
-
-dustPoorSignalum
-
-
-dustPoorSilver
-
-
-dustPoorSteel
-
-
-dustPoorTin
-
-
-dustPoormolten.bedrockiumingots
-
-
-dustPoormolten.unstableingots
 
 
 dustPotash
@@ -6009,9 +5160,6 @@ dustSanguinite
 dustSapphire
 
 
-dustSawdust
-
-
 dustScarab
 
 
@@ -6035,11 +5183,15 @@ ThermalFoundation:material - 42
 dustSilicon
 
 
+dustSiliconDioxide
+IC2:itemDust2 - 0
+
+
 dustSilver
 ThermalFoundation:material - 34
+IC2:itemDust - 6
 ImmersiveEngineering:metal - 13
 Mekanism:Dust - 5
-Project_Alchemy:item.dartResource - 36
 
 
 dustSodalite
@@ -6056,15 +5208,17 @@ dustSteel
 Mekanism:OtherDust - 1
 
 
+dustStone
+IC2:itemDust - 9
+
+
 dustSulfur
 ThermalFoundation:material - 16
+IC2:itemDust - 13
 Railcraft:dust - 1
 Mekanism:OtherDust - 3
 RotaryCraft:rotarycraft_item_modingots - 48
 RotaryCraft:rotarycraft_item_modingots - 76
-
-
-dustSulphur
 
 
 dustSunstone
@@ -6080,6 +5234,7 @@ dustTennantite
 
 
 dustTeslatite
+bluepower:teslatite_dust - 0
 RotaryCraft:rotarycraft_item_modingots - 81
 
 
@@ -6099,52 +5254,132 @@ RotaryCraft:rotarycraft_item_modingots - 84
 
 dustTin
 ThermalFoundation:material - 33
+IC2:itemDust - 7
 EnderIO:itemPowderIngot - 4
 Mekanism:Dust - 4
-Project_Alchemy:item.dartResource - 35
+
+
+dustTinyAluminum
+aobd:dustTinyAluminum - 0
 
 
 dustTinyBronze
+IC2:itemDustSmall - 8
+
+
+dustTinyCadmium
+aobd:dustTinyCadmium - 0
 
 
 dustTinyCopper
+IC2:itemDustSmall - 1
+
+
+dustTinyDraconium
+aobd:dustTinyDraconium - 0
 
 
 dustTinyGold
+IC2:itemDustSmall - 2
+
+
+dustTinyIndium
+aobd:dustTinyIndium - 0
+
+
+dustTinyIridium
+aobd:dustTinyIridium - 0
 
 
 dustTinyIron
+IC2:itemDustSmall - 0
 
 
 dustTinyLapis
+IC2:itemDustSmall - 9
 
 
 dustTinyLead
+IC2:itemDustSmall - 5
 
 
 dustTinyLithium
+IC2:itemDustSmall - 7
+
+
+dustTinyMithril
+aobd:dustTinyMithril - 0
 
 
 dustTinyNickel
+aobd:dustTinyNickel - 0
 
 
 dustTinyObsidian
+IC2:itemDustSmall - 10
+
+
+dustTinyOsmium
+aobd:dustTinyOsmium - 0
 
 
 dustTinyPlatinum
+aobd:dustTinyPlatinum - 0
+
+
+dustTinyRutile
+aobd:dustTinyRutile - 0
+
+
+dustTinyShadow
+aobd:dustTinyShadow - 0
 
 
 dustTinySilver
+IC2:itemDustSmall - 4
+
+
+dustTinySteel
+aobd:dustTinySteel - 0
 
 
 dustTinySulfur
+IC2:itemDustSmall - 6
 
 
 dustTinyTin
+IC2:itemDustSmall - 3
+
+
+dustTinyTitanium
+aobd:dustTinyTitanium - 0
+
+
+dustTinyTritanium
+aobd:dustTinyTritanium - 0
+
+
+dustTinyTungsten
+aobd:dustTinyTungsten - 0
+
+
+dustTinyUranium
+aobd:dustTinyUranium - 0
+
+
+dustTinyYellorium
+aobd:dustTinyYellorium - 0
+
+
+dustTinyZinc
+aobd:dustTinyZinc - 0
 
 
 dustTitanium
 aobd:dustTitanium - 0
+
+
+dustTitaniumIron
 
 
 dustTopaz
@@ -6165,11 +5400,10 @@ dustUraninite
 
 
 dustUranium
-aobd:dustUranium - 0
+Techguns:TechgunsAmmo - 101
 
 
 dustVinteum
-arsmagica2:itemOre - 0
 RotaryCraft:rotarycraft_item_modingots - 59
 
 
@@ -6182,9 +5416,6 @@ dustVyroxeres
 dustWheat
 appliedenergistics2:item.ItemMultiMaterial - 4
 EnderIO:itemPowderIngot - 8
-
-
-dustWolframium
 
 
 dustWood
@@ -6204,54 +5435,7 @@ dustYellowLimonite
 
 
 dustZinc
-
-
-dustberryAluminium
-
-
-dustberryAluminum
-
-
-dustberryCopper
-
-
-dustberryEssence
-
-
-dustberryGold
-
-
-dustberryIron
-
-
-dustberryTin
-
-
-dustbushAluminium
-
-
-dustbushAluminum
-
-
-dustbushCopper
-
-
-dustbushEssence
-
-
-dustbushGold
-
-
-dustbushIron
-
-
-dustbushTin
-
-
-dustmolten.bedrockiumingots
-
-
-dustmolten.unstableingots
+bluepower:zinc_dust - 0
 
 
 dye
@@ -6263,10 +5447,10 @@ minecraft:dye - 0
 Botania:dye - 15
 ThermalFoundation:material - 2
 ThermalFoundation:material - 3
+ExtrabiomesXL:extrabiomes.dye - 0
+ForbiddenMagic:FMResource - 1
 ThaumicHorizons:inkEgg - 0
-ExtraBees:misc - 24
 ChromatiCraft:chromaticraft_item_dye - 0
-gendustry:HoneyDrop - 10
 
 
 dyeBlackCrystal
@@ -6281,11 +5465,10 @@ dyeBlue
 minecraft:dye - 4
 Botania:dye - 11
 Natura:barleyFood - 8
-ExtraBees:misc - 21
+ExtrabiomesXL:extrabiomes.dye - 1
 ChromatiCraft:chromaticraft_item_dye - 4
 RotaryCraft:rotarycraft_item_modingots - 32
 RotaryCraft:rotarycraft_item_modingots - 54
-gendustry:HoneyDrop - 14
 
 
 dyeBlueCrystal
@@ -6298,11 +5481,10 @@ ChromatiCraft:chromaticraft_item_shard - 4
 
 dyeBrown
 minecraft:dye - 3
-Botania:dye - 12
 MineFactoryReloaded:fertilizer - 0
-ExtraBees:misc - 25
+Botania:dye - 12
+ExtrabiomesXL:extrabiomes.dye - 2
 ChromatiCraft:chromaticraft_item_dye - 3
-gendustry:HoneyDrop - 13
 
 
 dyeBrownCrystal
@@ -6400,7 +5582,6 @@ dyeCyan
 minecraft:dye - 6
 Botania:dye - 9
 ChromatiCraft:chromaticraft_item_dye - 6
-gendustry:HoneyDrop - 16
 
 
 dyeCyanCrystal
@@ -6415,7 +5596,6 @@ dyeGray
 minecraft:dye - 8
 Botania:dye - 7
 ChromatiCraft:chromaticraft_item_dye - 8
-gendustry:HoneyDrop - 18
 
 
 dyeGrayCrystal
@@ -6429,9 +5609,7 @@ ChromatiCraft:chromaticraft_item_shard - 8
 dyeGreen
 minecraft:dye - 2
 Botania:dye - 13
-ExtraBees:misc - 22
 ChromatiCraft:chromaticraft_item_dye - 2
-gendustry:HoneyDrop - 12
 
 
 dyeGreenCrystal
@@ -6446,7 +5624,6 @@ dyeLightBlue
 minecraft:dye - 12
 Botania:dye - 3
 ChromatiCraft:chromaticraft_item_dye - 12
-gendustry:HoneyDrop - 22
 
 
 dyeLightBlueCrystal
@@ -6461,7 +5638,6 @@ dyeLightGray
 minecraft:dye - 7
 Botania:dye - 8
 ChromatiCraft:chromaticraft_item_dye - 7
-gendustry:HoneyDrop - 17
 
 
 dyeLightGrayCrystal
@@ -6476,7 +5652,6 @@ dyeLime
 minecraft:dye - 10
 Botania:dye - 5
 ChromatiCraft:chromaticraft_item_dye - 10
-gendustry:HoneyDrop - 20
 
 
 dyeLimeCrystal
@@ -6491,7 +5666,6 @@ dyeMagenta
 minecraft:dye - 13
 Botania:dye - 2
 ChromatiCraft:chromaticraft_item_dye - 13
-gendustry:HoneyDrop - 23
 
 
 dyeMagentaCrystal
@@ -6506,7 +5680,6 @@ dyeOrange
 minecraft:dye - 14
 Botania:dye - 1
 ChromatiCraft:chromaticraft_item_dye - 14
-gendustry:HoneyDrop - 24
 
 
 dyeOrangeCrystal
@@ -6521,7 +5694,6 @@ dyePink
 minecraft:dye - 9
 Botania:dye - 6
 ChromatiCraft:chromaticraft_item_dye - 9
-gendustry:HoneyDrop - 19
 
 
 dyePinkCrystal
@@ -6535,8 +5707,8 @@ ChromatiCraft:chromaticraft_item_shard - 9
 dyePurple
 minecraft:dye - 5
 Botania:dye - 10
+bluepower:indigo_dye - 0
 ChromatiCraft:chromaticraft_item_dye - 5
-gendustry:HoneyDrop - 15
 
 
 dyePurpleCrystal
@@ -6550,9 +5722,7 @@ ChromatiCraft:chromaticraft_item_shard - 5
 dyeRed
 minecraft:dye - 1
 Botania:dye - 14
-ExtraBees:misc - 19
 ChromatiCraft:chromaticraft_item_dye - 1
-gendustry:HoneyDrop - 11
 
 
 dyeRedCrystal
@@ -6563,12 +5733,14 @@ dyeRedCrystalShard
 ChromatiCraft:chromaticraft_item_shard - 1
 
 
+dyeSilver
+
+
 dyeWhite
 minecraft:dye - 15
 Botania:dye - 0
-ExtraBees:misc - 23
+ExtrabiomesXL:extrabiomes.dye - 3
 ChromatiCraft:chromaticraft_item_dye - 15
-gendustry:HoneyDrop - 25
 
 
 dyeWhiteCrystal
@@ -6583,9 +5755,7 @@ dyeYellow
 minecraft:dye - 11
 Botania:dye - 4
 ThermalFoundation:material - 16
-ExtraBees:misc - 20
 ChromatiCraft:chromaticraft_item_dye - 11
-gendustry:HoneyDrop - 21
 
 
 dyeYellowCrystal
@@ -6632,11 +5802,6 @@ fenceSteel
 ImmersiveEngineering:metalDecoration - 0
 
 
-fenceWood
-Forestry:fences - any
-Forestry:fencesFireproof - any
-
-
 fermentedSpiderEye
 
 
@@ -6655,12 +5820,16 @@ fertilizerRich
 ThermalExpansion:material - 517
 
 
+fiberCarbon
+Techguns:TechgunsAmmo - 61
+
+
+fieryIngot
+TwilightForest:item.fieryIngot - 0
+
+
 fishtrapBait
 harvestcraft:fishtrapbaitItem - 0
-
-
-flintRod
-TConstruct:toolRod - 3
 
 
 floatingDuckweed
@@ -9302,12 +8471,10 @@ Botania:manaResource - 14
 
 gearBronze
 ThermalFoundation:material - 137
-Forestry:gearBronze - 0
 
 
 gearCopper
 ThermalFoundation:material - 128
-Forestry:gearCopper - 0
 
 
 gearDiamond
@@ -9372,7 +8539,6 @@ BuildCraft|Core:stoneGearItem - 0
 
 gearTin
 ThermalFoundation:material - 129
-Forestry:gearTin - 0
 
 
 gearWood
@@ -9386,6 +8552,7 @@ RotaryCraft:rotarycraft_item_modingots - 12
 
 
 gemAmethyst
+bluepower:amethyst_gem - 0
 RotaryCraft:rotarycraft_item_modingots - 80
 
 
@@ -9393,15 +8560,10 @@ gemAmmonium
 
 
 gemApatite
-Forestry:apatite - 0
 RotaryCraft:rotarycraft_item_modingots - 19
 
 
-gemArdite
-
-
 gemBlueTopaz
-arsmagica2:itemOre - 5
 RotaryCraft:rotarycraft_item_modingots - 60
 
 
@@ -9417,22 +8579,19 @@ gemCertusQuartz
 
 
 gemChimerite
-arsmagica2:itemOre - 4
 RotaryCraft:rotarycraft_item_modingots - 58
 
 
 gemCinnabar
 
 
-gemCobalt
-
-
 gemCrystalFlux
-simplyjetpacks:components - 67
+RedstoneArsenal:material - 96
 
 
 gemDiamond
 minecraft:diamond - 0
+IC2:itemPartIndustrialDiamond - 0
 RotaryCraft:rotarycraft_item_modingots - 33
 
 
@@ -9471,7 +8630,7 @@ RotaryCraft:rotarycraft_item_modingots - 27
 gemFossil
 
 
-gemGelid
+gemIllmenite
 
 
 gemIndium
@@ -9502,9 +8661,6 @@ gemLapis
 minecraft:dye - 4
 
 
-gemLaserite
-
-
 gemMagnetite
 ReactorCraft:reactorcraft_item_raw - 6
 RotaryCraft:rotarycraft_item_modingots - 65
@@ -9521,7 +8677,6 @@ gemMithril
 
 
 gemMoonstone
-arsmagica2:itemOre - 7
 RotaryCraft:rotarycraft_item_modingots - 61
 
 
@@ -9640,6 +8795,7 @@ minecraft:quartz - 0
 
 
 gemRuby
+bluepower:ruby_gem - 0
 RotaryCraft:rotarycraft_item_modingots - 24
 
 
@@ -9650,6 +8806,7 @@ gemSaltpeter
 
 
 gemSapphire
+bluepower:sapphire_gem - 0
 RotaryCraft:rotarycraft_item_modingots - 25
 RotaryCraft:rotarycraft_item_modingots - 73
 
@@ -9669,9 +8826,6 @@ gemSilicon
 RotaryCraft:rotarycraft_item_compacts - 10
 
 
-gemStardust
-
-
 gemSteel
 
 
@@ -9679,11 +8833,13 @@ gemSulfur
 
 
 gemSunstone
-arsmagica2:itemOre - 6
 RotaryCraft:rotarycraft_item_modingots - 62
 
 
 gemTanzanite
+
+
+gemTeslatite
 
 
 gemThorium
@@ -9695,16 +8851,19 @@ gemTin
 gemTitanium
 
 
+gemTitaniumIron
+
+
 gemTopaz
 
 
 gemTritanium
 
 
+gemTungsten
+
+
 gemUranium
-
-
-gemVinteum
 
 
 gemYellorite
@@ -9713,122 +8872,27 @@ gemYellorite
 gemYellorium
 
 
-gemberryAluminium
-
-
-gemberryAluminum
-
-
-gemberryCopper
-
-
-gemberryEssence
-
-
-gemberryGold
-
-
-gemberryIron
-
-
-gemberryTin
-
-
-gembushAluminium
-
-
-gembushAluminum
-
-
-gembushCopper
-
-
-gembushEssence
-
-
-gembushGold
-
-
-gembushIron
-
-
-gembushTin
+gemZinc
 
 
 glass
 minecraft:glass - 0
+EnderIO:blockFusedQuartz - 1
 Natura:NetherGlass - 0
 Natura:NetherGlass - 1
-EnderIO:blockFusedQuartz - 1
 fossil:strongGlass - 0
 fossil:ancientGlass - 0
 
 
-glassBlack
-TConstruct:GlassBlock.StainedClear - 15
-
-
-glassBlue
-TConstruct:GlassBlock.StainedClear - 11
-
-
 glassBottle
-
-
-glassBrown
-TConstruct:GlassBlock.StainedClear - 12
-
-
-glassCyan
-TConstruct:GlassBlock.StainedClear - 9
-
-
-glassGray
-TConstruct:GlassBlock.StainedClear - 7
-
-
-glassGreen
-TConstruct:GlassBlock.StainedClear - 13
 
 
 glassHardened
 RotaryCraft:rotarycraft_block_blastglass - 0
 
 
-glassLightBlue
-TConstruct:GlassBlock.StainedClear - 3
-
-
-glassLightGray
-TConstruct:GlassBlock.StainedClear - 8
-
-
-glassLime
-TConstruct:GlassBlock.StainedClear - 5
-
-
-glassMagenta
-TConstruct:GlassBlock.StainedClear - 2
-
-
-glassOrange
-TConstruct:GlassBlock.StainedClear - 1
-
-
-glassPink
-TConstruct:GlassBlock.StainedClear - 6
-
-
-glassPurple
-TConstruct:GlassBlock.StainedClear - 10
-
-
 glassReactor
 BigReactors:BRMultiblockGlass - 0
-
-
-glassRed
-TConstruct:GlassBlock.StainedClear - 14
 
 
 glassSoul
@@ -9837,14 +8901,6 @@ Natura:NetherGlass - 0
 
 glassTurbine
 BigReactors:BRMultiblockGlass - 1
-
-
-glassWhite
-TConstruct:GlassBlock.StainedClear - 0
-
-
-glassYellow
-TConstruct:GlassBlock.StainedClear - 4
 
 
 glowstone
@@ -9974,6 +9030,10 @@ minecraft:gravel - 0
 thaumicbases:oldGravel - 0
 
 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+minecraft:leather_boots - 0
+
+
 groundcoverClover
 
 
@@ -9991,10 +9051,6 @@ groundcoverIvy
 
 grubBee
 harvestcraft:grubItem - 0
-
-
-hambone
-TConstruct:MeatBlock - 0
 
 
 hardenedClay
@@ -10047,13 +9103,49 @@ immersedWaterMannagrass
 immersedYellowFlag
 
 
+infusedteslatiteBundled
+bluepower:part.wire.infusedteslatite.bundled.white - 0
+bluepower:part.wire.infusedteslatite.bundled.orange - 0
+bluepower:part.wire.infusedteslatite.bundled.magenta - 0
+bluepower:part.wire.infusedteslatite.bundled.light_blue - 0
+bluepower:part.wire.infusedteslatite.bundled.yellow - 0
+bluepower:part.wire.infusedteslatite.bundled.lime - 0
+bluepower:part.wire.infusedteslatite.bundled.pink - 0
+bluepower:part.wire.infusedteslatite.bundled.gray - 0
+bluepower:part.wire.infusedteslatite.bundled.light_gray - 0
+bluepower:part.wire.infusedteslatite.bundled.cyan - 0
+bluepower:part.wire.infusedteslatite.bundled.purple - 0
+bluepower:part.wire.infusedteslatite.bundled.blue - 0
+bluepower:part.wire.infusedteslatite.bundled.brown - 0
+bluepower:part.wire.infusedteslatite.bundled.green - 0
+bluepower:part.wire.infusedteslatite.bundled.red - 0
+bluepower:part.wire.infusedteslatite.bundled.black - 0
+bluepower:part.wire.infusedteslatite.bundled - 0
+
+
+infusedteslatiteInsulated
+bluepower:part.wire.infusedteslatite.white - 0
+bluepower:part.wire.infusedteslatite.orange - 0
+bluepower:part.wire.infusedteslatite.magenta - 0
+bluepower:part.wire.infusedteslatite.light_blue - 0
+bluepower:part.wire.infusedteslatite.yellow - 0
+bluepower:part.wire.infusedteslatite.lime - 0
+bluepower:part.wire.infusedteslatite.pink - 0
+bluepower:part.wire.infusedteslatite.gray - 0
+bluepower:part.wire.infusedteslatite.light_gray - 0
+bluepower:part.wire.infusedteslatite.cyan - 0
+bluepower:part.wire.infusedteslatite.purple - 0
+bluepower:part.wire.infusedteslatite.blue - 0
+bluepower:part.wire.infusedteslatite.brown - 0
+bluepower:part.wire.infusedteslatite.green - 0
+bluepower:part.wire.infusedteslatite.red - 0
+bluepower:part.wire.infusedteslatite.black - 0
+
+
 ingorLead
 
 
 ingotAdamantine
-
-
-ingotAdamantite
 
 
 ingotAdamantium
@@ -10066,31 +9158,20 @@ ingotAlduorite
 
 
 ingotAluminium
-TConstruct:materials - 11
 ImmersiveEngineering:metal - 1
 RotaryCraft:rotarycraft_item_compacts - 4
 RotaryCraft:rotarycraft_item_modingots - 6
 ElectriCraft:electricraft_item_ingots - 4
 
 
-ingotAluminiumBrass
-TConstruct:materials - 14
-
-
 ingotAluminum
 ImmersiveEngineering:metal - 1
-TConstruct:materials - 11
 RotaryCraft:rotarycraft_item_compacts - 4
 RotaryCraft:rotarycraft_item_modingots - 6
 ElectriCraft:electricraft_item_ingots - 4
 
 
 ingotAluminumBrass
-TConstruct:materials - 14
-
-
-ingotAlumite
-TConstruct:materials - 15
 
 
 ingotAmber
@@ -10112,11 +9193,13 @@ ingotApatite
 
 
 ingotArdite
-TConstruct:materials - 4
 RotaryCraft:rotarycraft_item_modingots - 42
 
 
 ingotAsh
+
+
+ingotAshes
 
 
 ingotAstral Silver
@@ -10137,27 +9220,6 @@ ingotBasalz
 ingotBauxite
 
 
-ingotBerryAluminium
-
-
-ingotBerryAluminum
-
-
-ingotBerryCopper
-
-
-ingotBerryEssence
-
-
-ingotBerryGold
-
-
-ingotBerryIron
-
-
-ingotBerryTin
-
-
 ingotBitumen
 
 
@@ -10171,6 +9233,7 @@ ingotBlizz
 
 
 ingotBlueAlloy
+bluepower:blue_alloy_ingot - 0
 
 
 ingotBlueTopaz
@@ -10181,6 +9244,7 @@ BigReactors:BRIngot - 3
 
 
 ingotBrass
+bluepower:brass_ingot - 0
 
 
 ingotBrick
@@ -10193,33 +9257,11 @@ minecraft:netherbrick - 0
 
 ingotBronze
 ThermalFoundation:material - 73
-Forestry:ingotBronze - 0
-TConstruct:materials - 13
+IC2:itemIngot - 2
 Mekanism:Ingot - 2
 
 
 ingotBrownLimonite
-
-
-ingotBushAluminium
-
-
-ingotBushAluminum
-
-
-ingotBushCopper
-
-
-ingotBushEssence
-
-
-ingotBushGold
-
-
-ingotBushIron
-
-
-ingotBushTin
 
 
 ingotCadmium
@@ -10264,15 +9306,14 @@ ingotChromite
 ingotCinnabar
 
 
+ingotClay
+
+
 ingotCoal
 
 
 ingotCobalt
-TConstruct:materials - 3
 RotaryCraft:rotarycraft_item_modingots - 41
-
-
-ingotCobaltum
 
 
 ingotCoke
@@ -10291,10 +9332,10 @@ ingotCooperite
 
 ingotCopper
 ThermalFoundation:material - 64
-Forestry:ingotCopper - 0
+IC2:itemIngot - 0
 Railcraft:ingot - 1
 ImmersiveEngineering:metal - 0
-TConstruct:materials - 9
+bluepower:copper_ingot - 0
 Mekanism:Ingot - 5
 RotaryCraft:rotarycraft_item_modingots - 1
 RotaryCraft:rotarycraft_item_modingots - 36
@@ -10326,9 +9367,6 @@ BigReactors:BRIngot - 1
 ingotDamascusSteel
 
 
-ingotDarkSoularium
-
-
 ingotDarkSteel
 EnderIO:itemAlloy - 6
 
@@ -10345,22 +9383,10 @@ ingotDiamond
 ingotDilithium
 
 
-ingotDirtyAdamantite
-
-
-ingotDirtyAluminium
-
-
-ingotDirtyArdite
+ingotDirtyAluminum
 
 
 ingotDirtyCadmium
-
-
-ingotDirtyCobalt
-
-
-ingotDirtyCobaltum
 
 
 ingotDirtyCopper
@@ -10370,9 +9396,6 @@ ingotDirtyDraconium
 
 
 ingotDirtyGold
-
-
-ingotDirtyHeeEndium
 
 
 ingotDirtyIndium
@@ -10387,19 +9410,10 @@ ingotDirtyIron
 ingotDirtyLead
 
 
-ingotDirtyMagnesium
-
-
-ingotDirtyMeteoricIron
-
-
 ingotDirtyMithril
 
 
 ingotDirtyNickel
-
-
-ingotDirtyOriharukon
 
 
 ingotDirtyOsmium
@@ -10435,9 +9449,6 @@ ingotDirtyTungsten
 ingotDirtyUranium
 
 
-ingotDirtyWolframium
-
-
 ingotDirtyYellorium
 
 
@@ -10455,12 +9466,6 @@ ingotDraconiumAwakened
 DraconicEvolution:draconicIngot - 0
 
 
-ingotDrulloy
-
-
-ingotDuralumin
-
-
 ingotElectricalSteel
 EnderIO:itemAlloy - 0
 
@@ -10474,7 +9479,7 @@ ImmersiveEngineering:metal - 6
 
 
 ingotElectrumFlux
-simplyjetpacks:components - 65
+RedstoneArsenal:material - 32
 
 
 ingotElvenElementium
@@ -10513,9 +9518,7 @@ ingotEssence
 
 
 ingotEximite
-
-
-ingotFairy
+RotaryCraft:rotarycraft_item_modingots - 88
 
 
 ingotFirestone
@@ -10540,13 +9543,7 @@ RotaryCraft:rotarycraft_item_modingots - 71
 ingotGalena
 
 
-ingotGelidEnderium
-
-
 ingotGlowstone
-
-
-ingotGlue
 
 
 ingotGold
@@ -10575,29 +9572,20 @@ RotaryCraft:rotarycraft_item_shaftcraft - 1
 ingotHaderoth
 
 
-ingotHeeEndPowder
-
-
 ingotHeeEndium
 RotaryCraft:rotarycraft_item_modingots - 86
-
-
-ingotHeeIgneousRock
-
-
-ingotHeeInstabilityOrb
-
-
-ingotHeeStardust
 
 
 ingotHepatizon
 
 
+ingotHydratedCoal
+
+
 ingotIgnatius
 
 
-ingotIlmenite
+ingotIllmenite
 
 
 ingotIndium
@@ -10651,6 +9639,7 @@ RotaryCraft:rotarycraft_item_modingots - 29
 
 
 ingotIronCompressed
+PneumaticCraft:ingotIronCompressed - 0
 
 
 ingotKalendrite
@@ -10659,11 +9648,9 @@ ingotKalendrite
 ingotLapis
 
 
-ingotLaserite
-
-
 ingotLead
 ThermalFoundation:material - 67
+IC2:itemIngot - 5
 Railcraft:ingot - 3
 ImmersiveEngineering:metal - 2
 RotaryCraft:rotarycraft_item_modingots - 2
@@ -10708,7 +9695,6 @@ ingotManganese
 
 
 ingotManyullyn
-TConstruct:materials - 5
 
 
 ingotMeat
@@ -10719,10 +9705,8 @@ ingotMeatRaw
 MineFactoryReloaded:meat.ingot.raw - 0
 
 
-ingotMeteoricIron
-
-
 ingotMeutoite
+RotaryCraft:rotarycraft_item_modingots - 89
 
 
 ingotMidasium
@@ -10735,18 +9719,11 @@ ingotMithril
 ThermalFoundation:material - 70
 
 
-ingotMolten.bedrockiumingots
-
-
-ingotMolten.unstableingots
-
-
 ingotMoonstone
 
 
 ingotNaturalAluminum
 ImmersiveEngineering:metal - 1
-TConstruct:materials - 11
 RotaryCraft:rotarycraft_item_compacts - 4
 RotaryCraft:rotarycraft_item_modingots - 6
 ElectriCraft:electricraft_item_ingots - 4
@@ -10764,12 +9741,6 @@ ingotNetherAluminium
 ingotNetherAluminum
 
 
-ingotNetherAluminumBrass
-
-
-ingotNetherAlumite
-
-
 ingotNetherAmber
 
 
@@ -10777,12 +9748,6 @@ ingotNetherAmethyst
 
 
 ingotNetherApatite
-
-
-ingotNetherArdite
-
-
-ingotNetherBronze
 
 
 ingotNetherCertusQuartz
@@ -10794,22 +9759,13 @@ ingotNetherCinnabar
 ingotNetherCoal
 
 
-ingotNetherCobalt
-
-
 ingotNetherCopper
 
 
 ingotNetherDiamond
 
 
-ingotNetherElectrum
-
-
 ingotNetherEmerald
-
-
-ingotNetherEnderium
 
 
 ingotNetherEssence
@@ -10824,16 +9780,10 @@ ingotNetherFzDarkIron
 ingotNetherGalena
 
 
-ingotNetherGlue
-
-
 ingotNetherGold
 
 
 ingotNetherGreenSapphire
-
-
-ingotNetherInvar
 
 
 ingotNetherIridium
@@ -10848,16 +9798,10 @@ ingotNetherLapis
 ingotNetherLead
 
 
-ingotNetherLumium
-
-
 ingotNetherMagnesium
 
 
 ingotNetherMalachite
-
-
-ingotNetherManyullyn
 
 
 ingotNetherMithril
@@ -10872,16 +9816,10 @@ ingotNetherNickel
 ingotNetherNikolite
 
 
-ingotNetherObsidian
-
-
 ingotNetherOsmium
 
 
 ingotNetherPeridot
-
-
-ingotNetherPigIron
 
 
 ingotNetherPlatinum
@@ -10906,9 +9844,6 @@ ingotNetherSaltpeter
 
 
 ingotNetherSapphire
-
-
-ingotNetherSignalum
 
 
 ingotNetherSilicon
@@ -10947,12 +9882,6 @@ ingotNetherUranium
 ingotNetherYellorite
 
 
-ingotNethermolten.bedrockiumingots
-
-
-ingotNethermolten.unstableingots
-
-
 ingotNetheroreDark
 
 
@@ -10974,16 +9903,16 @@ ingotNikolite
 
 
 ingotObsidian
-TConstruct:materials - 18
+
+
+ingotObsidianSteel
+Techguns:TechgunsAmmo - 40
 
 
 ingotOreDark
 
 
 ingotOrichalcum
-
-
-ingotOriharukon
 
 
 ingotOsmium
@@ -11015,10 +9944,6 @@ EnderIO:itemAlloy - 5
 ingotPhosphorite
 
 
-ingotPigIron
-TConstruct:materials - 34
-
-
 ingotPitchblende
 
 
@@ -11032,93 +9957,6 @@ RotaryCraft:rotarycraft_item_modingots - 44
 ElectriCraft:electricraft_item_ingots - 5
 
 
-ingotPokefennium
-
-
-ingotPoorAluminum
-
-
-ingotPoorAluminumBrass
-
-
-ingotPoorAlumite
-
-
-ingotPoorArdite
-
-
-ingotPoorBronze
-
-
-ingotPoorCobalt
-
-
-ingotPoorCopper
-
-
-ingotPoorElectrum
-
-
-ingotPoorEnderium
-
-
-ingotPoorGlue
-
-
-ingotPoorGold
-
-
-ingotPoorInvar
-
-
-ingotPoorIron
-
-
-ingotPoorLead
-
-
-ingotPoorLumium
-
-
-ingotPoorManyullyn
-
-
-ingotPoorMithril
-
-
-ingotPoorNaturalAluminum
-
-
-ingotPoorNickel
-
-
-ingotPoorObsidian
-
-
-ingotPoorPigIron
-
-
-ingotPoorPlatinum
-
-
-ingotPoorSignalum
-
-
-ingotPoorSilver
-
-
-ingotPoorSteel
-
-
-ingotPoorTin
-
-
-ingotPoormolten.bedrockiumingots
-
-
-ingotPoormolten.unstableingots
-
-
 ingotPotash
 
 
@@ -11130,6 +9968,7 @@ EnderIO:itemAlloy - 5
 
 
 ingotPurpleAlloy
+bluepower:purple_alloy_ingot - 0
 
 
 ingotPyrite
@@ -11151,9 +9990,7 @@ ingotQuicksilver
 
 
 ingotRedAlloy
-
-
-ingotRed_aurum
+bluepower:red_alloy_ingot - 0
 
 
 ingotRedstone
@@ -11196,9 +10033,6 @@ ingotSanguinite
 ingotSapphire
 
 
-ingotSawdust
-
-
 ingotScarab
 
 
@@ -11222,10 +10056,15 @@ ThermalFoundation:material - 74
 ingotSilicon
 
 
+ingotSiliconDioxide
+
+
 ingotSilver
 ThermalFoundation:material - 66
+IC2:itemIngot - 6
 ImmersiveEngineering:metal - 3
 ReactorCraft:reactorcraft_item_ingots - 3
+bluepower:silver_ingot - 0
 RotaryCraft:rotarycraft_item_compacts - 7
 RotaryCraft:rotarycraft_item_modingots - 4
 RotaryCraft:rotarycraft_item_modingots - 39
@@ -11246,20 +10085,23 @@ ingotSphalerite
 
 
 ingotSteel
+IC2:itemIngot - 3
 Railcraft:ingot - 0
 ImmersiveEngineering:metal - 7
-TConstruct:materials - 16
 Mekanism:Ingot - 4
 RotaryCraft:rotarycraft_item_modingots - 47
+
+
+ingotStone
 
 
 ingotSulfur
 
 
-ingotSulphur
-
-
 ingotSunstone
+
+
+ingotSuperconducting
 
 
 ingotTanzanite
@@ -11300,22 +10142,36 @@ ingotThorium
 
 ingotTin
 ThermalFoundation:material - 65
-Forestry:ingotTin - 0
+IC2:itemIngot - 1
 Railcraft:ingot - 2
-TConstruct:materials - 10
 Mekanism:Ingot - 6
 RotaryCraft:rotarycraft_item_modingots - 0
 RotaryCraft:rotarycraft_item_modingots - 35
 ElectriCraft:electricraft_item_ingots - 1
 
 
+ingotTinyAluminum
+
+
 ingotTinyBronze
+
+
+ingotTinyCadmium
 
 
 ingotTinyCopper
 
 
+ingotTinyDraconium
+
+
 ingotTinyGold
+
+
+ingotTinyIndium
+
+
+ingotTinyIridium
 
 
 ingotTinyIron
@@ -11330,16 +10186,31 @@ ingotTinyLead
 ingotTinyLithium
 
 
+ingotTinyMithril
+
+
 ingotTinyNickel
 
 
 ingotTinyObsidian
 
 
+ingotTinyOsmium
+
+
 ingotTinyPlatinum
 
 
+ingotTinyRutile
+
+
+ingotTinyShadow
+
+
 ingotTinySilver
+
+
+ingotTinySteel
 
 
 ingotTinySulfur
@@ -11348,9 +10219,31 @@ ingotTinySulfur
 ingotTinyTin
 
 
+ingotTinyTitanium
+
+
+ingotTinyTritanium
+
+
+ingotTinyTungsten
+
+
+ingotTinyUranium
+
+
+ingotTinyYellorium
+
+
+ingotTinyZinc
+
+
 ingotTitanium
+Techguns:TechgunsAmmo - 95
 RotaryCraft:rotarycraft_item_modingots - 63
 RotaryCraft:rotarycraft_item_modingots - 75
+
+
+ingotTitaniumIron
 
 
 ingotTopaz
@@ -11364,6 +10257,7 @@ ingotTungstate
 
 
 ingotTungsten
+bluepower:tungsten_ingot - 0
 
 
 ingotUnstable
@@ -11379,6 +10273,10 @@ ReactorCraft:reactorcraft_item_ingots - 0
 RotaryCraft:rotarycraft_item_modingots - 10
 RotaryCraft:rotarycraft_item_modingots - 49
 RotaryCraft:rotarycraft_item_modingots - 68
+
+
+ingotUraniumEnriched
+Techguns:TechgunsAmmo - 102
 
 
 ingotVibrantAlloy
@@ -11401,13 +10299,7 @@ ingotVyroxeres
 ingotWheat
 
 
-ingotWolframium
-
-
 ingotWood
-
-
-ingotWroughtIron
 
 
 ingotYellorite
@@ -11421,77 +10313,29 @@ ingotYellowLimonite
 
 
 ingotZinc
+bluepower:zinc_ingot - 0
 RotaryCraft:rotarycraft_item_modingots - 45
-
-
-ingotberryAluminium
-
-
-ingotberryAluminum
-
-
-ingotberryCopper
-
-
-ingotberryEssence
-
-
-ingotberryGold
-
-
-ingotberryIron
-
-
-ingotberryTin
 
 
 ingotbrass
 
 
-ingotbushAluminium
-
-
-ingotbushAluminum
-
-
-ingotbushCopper
-
-
-ingotbushEssence
-
-
-ingotbushGold
-
-
-ingotbushIron
-
-
-ingotbushTin
-
-
 ingotgold
 
 
-ingotmolten.bedrockiumingots
-
-
-ingotmolten.unstableingots
-
-
-ironRod
-TConstruct:toolRod - 2
+ironwood
+TwilightForest:item.ironwoodIngot - 0
 
 
 itemAttractorCrystal
 EnderIO:itemMaterial - 9
 
 
+itemBacon
+
+
 itemBasicGear
 EnderIO:itemMachinePart - 1
-
-
-itemBeeswax
-Forestry:beeswax - 0
 
 
 itemBinderComposite
@@ -11563,6 +10407,10 @@ itemGhastTear
 minecraft:ghast_tear - 0
 
 
+itemGunpowder
+minecraft:gunpowder - 0
+
+
 itemIlluminatedPanel
 appliedenergistics2:item.ItemMultiPart - 180
 appliedenergistics2:item.ItemMultiPart - 160
@@ -11590,10 +10438,6 @@ MineFactoryReloaded:plastic.sheet - 0
 MineFactoryReloaded:plastic.raw - 0
 
 
-itemPollen
-Forestry:pollen - 0
-
-
 itemPulsatingCrystal
 EnderIO:itemMaterial - 5
 
@@ -11608,11 +10452,13 @@ Thaumcraft:ItemResource - 3
 
 itemRawRubber
 MineFactoryReloaded:rubber.raw - 0
-TConstruct:materials - 36
+Techguns:TechgunsAmmo - 70
 
 
 itemRubber
 MineFactoryReloaded:rubber.bar - 0
+IC2:itemRubber - 0
+Techguns:TechgunsAmmo - 73
 
 
 itemSalt
@@ -11635,6 +10481,10 @@ itemSlag
 ImmersiveEngineering:material - 13
 
 
+itemSuperconductor
+GraviSuite:itemSimpleItem - 1
+
+
 itemVibrantCrystal
 EnderIO:itemMaterial - 6
 
@@ -11645,6 +10495,48 @@ EnderIO:itemMaterial - 4
 
 itemWeatherCrystal
 EnderIO:itemMaterial - 10
+
+
+knightmetal
+TwilightForest:item.knightMetal - 0
+
+
+lampBP
+bluepower:lampwhite - 0
+bluepower:lamporange - 0
+bluepower:lampmagenta - 0
+bluepower:lamplight_blue - 0
+bluepower:lampyellow - 0
+bluepower:lamplime - 0
+bluepower:lamppink - 0
+bluepower:lampgray - 0
+bluepower:lamplight_gray - 0
+bluepower:lampcyan - 0
+bluepower:lamppurple - 0
+bluepower:lampblue - 0
+bluepower:lampbrown - 0
+bluepower:lampgreen - 0
+bluepower:lampred - 0
+bluepower:lampblack - 0
+
+
+lampInvertedBP
+bluepower:lampinvertedwhite - 0
+bluepower:lampinvertedorange - 0
+bluepower:lampinvertedmagenta - 0
+bluepower:lampinvertedlight_blue - 0
+bluepower:lampinvertedyellow - 0
+bluepower:lampinvertedlime - 0
+bluepower:lampinvertedpink - 0
+bluepower:lampinvertedgray - 0
+bluepower:lampinvertedlight_gray - 0
+bluepower:lampinvertedcyan - 0
+bluepower:lampinvertedpurple - 0
+bluepower:lampinvertedblue - 0
+bluepower:lampinvertedbrown - 0
+bluepower:lampinvertedgreen - 0
+bluepower:lampinvertedred - 0
+bluepower:lampinvertedblack - 0
 
 
 lavastone
@@ -12162,11 +11054,7 @@ AgriCraft:seedCinderpearl - 0
 AgriCraft:seedShimmerleaf - 0
 AgriCraft:seedVishroom - 0
 AgriCraft:seedTaintedRoot - 0
-AgriCraft:seedAum - 0
-AgriCraft:seedTarmaRoot - 0
-AgriCraft:seedCerublossom - 0
-AgriCraft:seedDesertNova - 0
-AgriCraft:seedWakebloom - 0
+bluepower:flax_seeds - 0
 AgriCraft:seedBotaniaWhite - 0
 AgriCraft:seedBotaniaOrange - 0
 AgriCraft:seedBotaniaMagenta - 0
@@ -12318,48 +11206,16 @@ Natura:Rare Tree - 3
 Natura:willow - 0
 Natura:Dark Tree - 0
 Natura:Dark Tree - 1
-Forestry:logs - any
-Forestry:logsFireproof - any
-ExtraTrees:log - 0
-ExtraTrees:log - 1
-ExtraTrees:log - 2
-ExtraTrees:log - 3
-ExtraTrees:log - 4
-ExtraTrees:log - 5
-ExtraTrees:log - 6
-ExtraTrees:log - 7
-ExtraTrees:log - 8
-ExtraTrees:log - 9
-ExtraTrees:log - 10
-ExtraTrees:log - 11
-ExtraTrees:log - 12
-ExtraTrees:log - 13
-ExtraTrees:log - 14
-ExtraTrees:log - 15
-ExtraTrees:log - 16
-ExtraTrees:log - 17
-ExtraTrees:log - 18
-ExtraTrees:log - 19
-ExtraTrees:log - 20
-ExtraTrees:log - 21
-ExtraTrees:log - 22
-ExtraTrees:log - 23
-ExtraTrees:log - 24
-ExtraTrees:log - 25
-ExtraTrees:log - 26
-ExtraTrees:log - 27
-ExtraTrees:log - 28
-ExtraTrees:log - 29
-ExtraTrees:log - 30
-ExtraTrees:log - 31
-ExtraTrees:log - 32
-ExtraTrees:log - 33
-ExtraTrees:log - 34
-ExtraTrees:log - 35
-ExtraTrees:log - 36
-ExtraTrees:log - 37
-ExtraTrees:log - 38
-ExtraTrees:log - 39
+ExtrabiomesXL:log1 - any
+ExtrabiomesXL:log2 - any
+ExtrabiomesXL:mini_log_1 - any
+ExtrabiomesXL:cornerlog_baldcypress - any
+ExtrabiomesXL:cornerlog_rainboweucalyptus - any
+ExtrabiomesXL:cornerlog_oak - any
+ExtrabiomesXL:cornerlog_fir - any
+ExtrabiomesXL:cornerlog_redwood - any
+ExtrabiomesXL:log_elbow_baldcypress - any
+ExtrabiomesXL:log_elbow_rainbow_eucalyptus - any
 fossil:palaeorapheLog - 0
 harvestcraft:pamMaple - 0
 harvestcraft:pamPaperbark - 0
@@ -12367,7 +11223,9 @@ harvestcraft:pamCinnamon - 0
 TaintedMagic:BlockWarpwoodLog - 0
 thaumicbases:genLogs - any
 witchery:witchlog - any
-arsmagica2:WitchwoodLog - 0
+TwilightForest:tile.TFLog - any
+TwilightForest:tile.TFMagicLog - any
+Thaumcraft:blockMagicalLog - any
 
 
 lumpSalt
@@ -12386,12 +11244,9 @@ manaString
 Botania:manaResource - 16
 
 
-manyullynRod
-TConstruct:toolRod - 12
-
-
 marble
 chisel:marble - 0
+bluepower:marble - 0
 
 
 materialAspectShard
@@ -12484,51 +11339,6 @@ mo:matter_dust - 0
 
 matterDustRefined
 mo:matter_dust_refined - 0
-
-
-mb.magnet.level0
-MagicBees:magnet - 0
-MagicBees:magnet - 1
-
-
-mb.magnet.level1
-MagicBees:magnet - 2
-MagicBees:magnet - 3
-
-
-mb.magnet.level2
-MagicBees:magnet - 4
-MagicBees:magnet - 5
-
-
-mb.magnet.level3
-MagicBees:magnet - 6
-MagicBees:magnet - 7
-
-
-mb.magnet.level4
-MagicBees:magnet - 8
-MagicBees:magnet - 9
-
-
-mb.magnet.level5
-MagicBees:magnet - 10
-MagicBees:magnet - 11
-
-
-mb.magnet.level6
-MagicBees:magnet - 12
-MagicBees:magnet - 13
-
-
-mb.magnet.level7
-MagicBees:magnet - 14
-MagicBees:magnet - 15
-
-
-mb.magnet.level8
-MagicBees:magnet - 16
-MagicBees:magnet - 17
 
 
 minecraft:carrot
@@ -12683,57 +11493,19 @@ netherrack
 minecraft:netherrack - 0
 
 
-netherrackRod
-TConstruct:toolRod - 7
-
-
 none
-
-
-nuggetAdamantite
-
-
-nuggetAluminium
-TConstruct:oreBerries - 4
-TConstruct:materials - 22
-
-
-nuggetAluminiumBrass
-TConstruct:materials - 24
 
 
 nuggetAluminum
 ImmersiveEngineering:metal - 23
-TConstruct:oreBerries - 4
-TConstruct:materials - 22
-
-
-nuggetAluminumBrass
-TConstruct:materials - 24
-
-
-nuggetAlumite
-TConstruct:materials - 32
-
-
-nuggetArdite
-TConstruct:materials - 29
 
 
 nuggetBronze
 ThermalFoundation:material - 105
-TConstruct:materials - 31
 
 
 nuggetCadmium
 aobd:nuggetCadmium - 0
-
-
-nuggetCobalt
-TConstruct:materials - 28
-
-
-nuggetCobaltum
 
 
 nuggetConstantan
@@ -12745,20 +11517,14 @@ Thaumcraft:ItemNugget - 1
 ThermalFoundation:material - 96
 Railcraft:nugget - 2
 ImmersiveEngineering:metal - 22
-TConstruct:oreBerries - 2
-TConstruct:materials - 20
-MagicBees:beeNugget - 1
 
 
 nuggetCupronickel
 ImmersiveEngineering:metal - 27
 
 
-nuggetDarkSoularium
-
-
 nuggetDiamond
-enhancedportals:nuggetDiamond - 0
+AgriCraft:nuggetDiamond - 0
 
 
 nuggetDraconium
@@ -12775,34 +11541,25 @@ ImmersiveEngineering:metal - 28
 
 
 nuggetElectrumFlux
-simplyjetpacks:components - 66
+RedstoneArsenal:material - 64
 
 
 nuggetElvenElementium
 Botania:manaResource - 19
+ForbiddenMagic:FMResource - 4
 
 
 nuggetEmerald
-AgriCraft:nuggetEmerald - 0
+ForbiddenMagic:FMResource - 0
 
 
 nuggetEnderium
 ThermalFoundation:material - 108
 
 
-nuggetGelidEnderium
-
-
-nuggetGlue
-
-
 nuggetGold
 minecraft:gold_nugget - 0
 Thaumcraft:ItemResource - 18
-TConstruct:oreBerries - 1
-
-
-nuggetHeeEndium
 
 
 nuggetIndium
@@ -12822,9 +11579,6 @@ Thaumcraft:ItemNugget - 0
 ThermalFoundation:material - 8
 Railcraft:nugget - 0
 ImmersiveEngineering:metal - 21
-TConstruct:oreBerries - 0
-TConstruct:materials - 19
-MagicBees:beeNugget - 0
 
 
 nuggetLead
@@ -12832,25 +11586,15 @@ Thaumcraft:ItemNugget - 4
 ThermalFoundation:material - 99
 Railcraft:nugget - 4
 ImmersiveEngineering:metal - 24
-MagicBees:beeNugget - 4
-
-
-nuggetLithium
 
 
 nuggetLumium
 ThermalFoundation:material - 107
 
 
-nuggetMagnesium
-
-
 nuggetManasteel
 Botania:manaResource - 17
-
-
-nuggetManyullyn
-TConstruct:materials - 30
+ForbiddenMagic:FMResource - 2
 
 
 nuggetMeat
@@ -12861,17 +11605,8 @@ nuggetMeatRaw
 MineFactoryReloaded:meat.nugget.raw - 0
 
 
-nuggetMeteoricIron
-
-
 nuggetMithril
 ThermalFoundation:material - 102
-
-
-nuggetNaturalAluminum
-
-
-nuggetNaturalCobalt
 
 
 nuggetNickel
@@ -12879,19 +11614,8 @@ ThermalFoundation:material - 100
 ImmersiveEngineering:metal - 26
 
 
-nuggetObsidian
-TConstruct:materials - 27
-
-
-nuggetOriharukon
-
-
 nuggetOsmium
 aobd:nuggetOsmium - 0
-
-
-nuggetPigIron
-TConstruct:materials - 35
 
 
 nuggetPlatinum
@@ -12926,16 +11650,11 @@ nuggetSilver
 Thaumcraft:ItemNugget - 3
 ThermalFoundation:material - 98
 ImmersiveEngineering:metal - 25
-MagicBees:beeNugget - 3
-
-
-nuggetSoularium
 
 
 nuggetSteel
 Railcraft:nugget - 1
 ImmersiveEngineering:metal - 29
-TConstruct:materials - 33
 
 
 nuggetTerrasteel
@@ -12950,9 +11669,6 @@ nuggetTin
 Thaumcraft:ItemNugget - 2
 ThermalFoundation:material - 97
 Railcraft:nugget - 3
-TConstruct:oreBerries - 3
-TConstruct:materials - 21
-MagicBees:beeNugget - 2
 
 
 nuggetTitanium
@@ -12964,6 +11680,7 @@ mo:tritanium_nugget - 0
 
 
 nuggetTungsten
+bluepower:tungsten_nugget - 0
 
 
 nuggetUnstable
@@ -12982,23 +11699,12 @@ nuggetVoid
 Thaumcraft:ItemNugget - 7
 
 
-nuggetWolframium
-
-
-nuggetWroughtIron
-
-
 nuggetYellorium
 aobd:nuggetYellorium - 0
 
 
 nuggetZinc
-
-
-nuggetmolten.bedrockiumingots
-
-
-nuggetmolten.unstableingots
+aobd:nuggetZinc - 0
 
 
 objectEgg
@@ -13033,6 +11739,7 @@ fossil:eggParasaurolophus - 0
 
 
 obsidian
+minecraft:obsidian - 0
 ExtraUtilities:color_obsidian - 0
 ExtraUtilities:color_obsidian - 1
 ExtraUtilities:color_obsidian - 2
@@ -13049,7 +11756,6 @@ ExtraUtilities:color_obsidian - 12
 ExtraUtilities:color_obsidian - 13
 ExtraUtilities:color_obsidian - 14
 ExtraUtilities:color_obsidian - 15
-minecraft:obsidian - 0
 
 
 obsidianBlack
@@ -13109,7 +11815,6 @@ ExtraUtilities:color_obsidian - 1
 
 
 obsidianRod
-TConstruct:toolRod - 6
 RandomThings:ingredient - 1
 
 
@@ -13653,9 +12358,6 @@ OpenComputers:wrench - 0
 oreAdamantine
 
 
-oreAdamantite
-
-
 oreAdamantium
 
 
@@ -13666,24 +12368,14 @@ oreAlduorite
 
 
 oreAluminium
-TConstruct:SearedBrick - 5
-TConstruct:GravelOre - 4
-
-
-oreAluminiumBrass
 
 
 oreAluminum
 ImmersiveEngineering:ore - 1
-TConstruct:SearedBrick - 5
-TConstruct:GravelOre - 4
 ElectriCraft:electricraft_block_ore - 4
 
 
 oreAluminumBrass
-
-
-oreAlumite
 
 
 oreAmber
@@ -13692,6 +12384,7 @@ fossil:amberOre - 0
 
 
 oreAmethyst
+bluepower:amethyst_ore - 0
 
 
 oreAmmonium
@@ -13705,14 +12398,15 @@ oreAngmallen
 
 
 oreApatite
-Forestry:resources - 0
 
 
 oreArdite
-TConstruct:SearedBrick - 2
 
 
 oreAsh
+
+
+oreAshes
 
 
 oreAstral Silver
@@ -13733,27 +12427,6 @@ oreBasalz
 oreBauxite
 
 
-oreBerryAluminium
-
-
-oreBerryAluminum
-
-
-oreBerryCopper
-
-
-oreBerryEssence
-
-
-oreBerryGold
-
-
-oreBerryIron
-
-
-oreBerryTin
-
-
 oreBitumen
 
 
@@ -13767,7 +12440,6 @@ oreBlizz
 
 
 oreBlueTopaz
-arsmagica2:vinteumOre - 2
 
 
 oreBlutonium
@@ -13780,27 +12452,6 @@ oreBronze
 
 
 oreBrownLimonite
-
-
-oreBushAluminium
-
-
-oreBushAluminum
-
-
-oreBushCopper
-
-
-oreBushEssence
-
-
-oreBushGold
-
-
-oreBushIron
-
-
-oreBushTin
 
 
 oreCadmium
@@ -13831,15 +12482,10 @@ oreCeruclase
 oreCharcoal
 
 
-oreChargedCertusQuartz
-appliedenergistics2:tile.OreQuartzCharged - 0
-
-
 oreCheese
 
 
 oreChimerite
-arsmagica2:vinteumOre - 1
 
 
 oreChromite
@@ -13849,16 +12495,14 @@ oreCinnabar
 Thaumcraft:blockCustomOre - 0
 
 
+oreClay
+
+
 oreCoal
 minecraft:coal_ore - 0
 
 
 oreCobalt
-TConstruct:SearedBrick - 1
-TConstruct:GravelOre - 5
-
-
-oreCobaltum
 
 
 oreCoke
@@ -13872,10 +12516,9 @@ oreCooperite
 
 oreCopper
 ThermalFoundation:Ore - 0
-Forestry:resources - 1
+IC2:blockOreCopper - 0
 ImmersiveEngineering:ore - 0
-TConstruct:SearedBrick - 3
-TConstruct:GravelOre - 2
+bluepower:copper_ore - 0
 Mekanism:OreBlock - 1
 ElectriCraft:electricraft_block_ore - 0
 
@@ -13910,22 +12553,10 @@ oreDilithium
 mo:dilithium_ore - 0
 
 
-oreDirtyAdamantite
-
-
-oreDirtyAluminium
-
-
-oreDirtyArdite
+oreDirtyAluminum
 
 
 oreDirtyCadmium
-
-
-oreDirtyCobalt
-
-
-oreDirtyCobaltum
 
 
 oreDirtyCopper
@@ -13935,9 +12566,6 @@ oreDirtyDraconium
 
 
 oreDirtyGold
-
-
-oreDirtyHeeEndium
 
 
 oreDirtyIndium
@@ -13952,19 +12580,10 @@ oreDirtyIron
 oreDirtyLead
 
 
-oreDirtyMagnesium
-
-
-oreDirtyMeteoricIron
-
-
 oreDirtyMithril
 
 
 oreDirtyNickel
-
-
-oreDirtyOriharukon
 
 
 oreDirtyOsmium
@@ -13998,9 +12617,6 @@ oreDirtyTungsten
 
 
 oreDirtyUranium
-
-
-oreDirtyWolframium
 
 
 oreDirtyYellorium
@@ -14085,12 +12701,8 @@ oreGalena
 oreGlowstone
 
 
-oreGlue
-
-
 oreGold
 minecraft:gold_ore - 0
-TConstruct:GravelOre - 1
 
 
 oreGraphite
@@ -14108,28 +12720,20 @@ oreHOPGraphite
 oreHaderoth
 
 
-oreHeeEndPowder
-
-
 oreHeeEndium
-
-
-oreHeeIgneousRock
-
-
-oreHeeInstabilityOrb
-
-
-oreHeeStardust
 
 
 oreHepatizon
 
 
+oreHydratedCoal
+
+
 oreIgnatius
 
 
-oreIlmenite
+oreIllmenite
+Techguns:oreTitanIron - 0
 
 
 oreIndium
@@ -14178,7 +12782,6 @@ aobd:oreIridium - 0
 
 oreIron
 minecraft:iron_ore - 0
-TConstruct:GravelOre - 0
 
 
 oreKalendrite
@@ -14189,11 +12792,9 @@ minecraft:lapis_ore - 0
 Railcraft:ore - 4
 
 
-oreLaserite
-
-
 oreLead
 ThermalFoundation:Ore - 3
+IC2:blockOreLead - 0
 ImmersiveEngineering:ore - 2
 
 
@@ -14231,9 +12832,6 @@ oreManganese
 oreManyullyn
 
 
-oreMeteoricIron
-
-
 oreMeutoite
 
 
@@ -14247,14 +12845,7 @@ oreMithril
 ThermalFoundation:Ore - 6
 
 
-oreMolten.bedrockiumingots
-
-
-oreMolten.unstableingots
-
-
 oreMoonstone
-arsmagica2:vinteumOre - 3
 
 
 oreNaturalAluminum
@@ -14273,12 +12864,6 @@ oreNetherAluminium
 oreNetherAluminum
 
 
-oreNetherAluminumBrass
-
-
-oreNetherAlumite
-
-
 oreNetherAmber
 NetherOres:tile.netherores.ore.1 - 11
 
@@ -14287,12 +12872,6 @@ oreNetherAmethyst
 
 
 oreNetherApatite
-
-
-oreNetherArdite
-
-
-oreNetherBronze
 
 
 oreNetherCertusQuartz
@@ -14305,9 +12884,6 @@ oreNetherCoal
 NetherOres:tile.netherores.ore.0 - 0
 
 
-oreNetherCobalt
-
-
 oreNetherCopper
 NetherOres:tile.netherores.ore.0 - 6
 
@@ -14316,14 +12892,8 @@ oreNetherDiamond
 NetherOres:tile.netherores.ore.0 - 1
 
 
-oreNetherElectrum
-
-
 oreNetherEmerald
 NetherOres:tile.netherores.ore.0 - 8
-
-
-oreNetherEnderium
 
 
 oreNetherEssence
@@ -14338,17 +12908,11 @@ oreNetherFzDarkIron
 oreNetherGalena
 
 
-oreNetherGlue
-
-
 oreNetherGold
 NetherOres:tile.netherores.ore.0 - 2
 
 
 oreNetherGreenSapphire
-
-
-oreNetherInvar
 
 
 oreNetherIridium
@@ -14367,17 +12931,11 @@ oreNetherLead
 NetherOres:tile.netherores.ore.0 - 10
 
 
-oreNetherLumium
-
-
 oreNetherMagnesium
 NetherOres:tile.netherores.ore.1 - 15
 
 
 oreNetherMalachite
-
-
-oreNetherManyullyn
 
 
 oreNetherMithril
@@ -14395,18 +12953,12 @@ oreNetherNikolite
 NetherOres:tile.netherores.ore.0 - 12
 
 
-oreNetherObsidian
-
-
 oreNetherOsmium
 NetherOres:tile.netherores.ore.1 - 4
 
 
 oreNetherPeridot
 NetherOres:tile.netherores.ore.0 - 14
-
-
-oreNetherPigIron
 
 
 oreNetherPlatinum
@@ -14438,9 +12990,6 @@ NetherOres:tile.netherores.ore.1 - 14
 
 oreNetherSapphire
 NetherOres:tile.netherores.ore.0 - 15
-
-
-oreNetherSignalum
 
 
 oreNetherSilicon
@@ -14487,12 +13036,6 @@ NetherOres:tile.netherores.ore.0 - 11
 oreNetherYellorite
 
 
-oreNethermolten.bedrockiumingots
-
-
-oreNethermolten.unstableingots
-
-
 oreNetheroreDark
 
 
@@ -14517,9 +13060,6 @@ oreOreDark
 oreOrichalcum
 
 
-oreOriharukon
-
-
 oreOsmium
 Mekanism:OreBlock - 0
 
@@ -14539,9 +13079,6 @@ orePetrotheum
 orePhosphorite
 
 
-orePigIron
-
-
 orePitchblende
 ReactorCraft:reactorcraft_block_ore - 1
 ReactorCraft:reactorcraft_block_ore - 5
@@ -14553,90 +13090,6 @@ orePlastic
 orePlatinum
 ThermalFoundation:Ore - 5
 ElectriCraft:electricraft_block_ore - 5
-
-
-orePoorAluminum
-
-
-orePoorAluminumBrass
-
-
-orePoorAlumite
-
-
-orePoorArdite
-
-
-orePoorBronze
-
-
-orePoorCobalt
-
-
-orePoorCopper
-
-
-orePoorElectrum
-
-
-orePoorEnderium
-
-
-orePoorGlue
-
-
-orePoorGold
-
-
-orePoorInvar
-
-
-orePoorIron
-
-
-orePoorLead
-
-
-orePoorLumium
-
-
-orePoorManyullyn
-
-
-orePoorMithril
-
-
-orePoorNaturalAluminum
-
-
-orePoorNickel
-
-
-orePoorObsidian
-
-
-orePoorPigIron
-
-
-orePoorPlatinum
-
-
-orePoorSignalum
-
-
-orePoorSilver
-
-
-orePoorSteel
-
-
-orePoorTin
-
-
-orePoormolten.bedrockiumingots
-
-
-orePoormolten.unstableingots
 
 
 orePotash
@@ -14675,6 +13128,7 @@ oreRubracium
 
 
 oreRuby
+bluepower:ruby_ore - 0
 
 
 oreRutile
@@ -14692,9 +13146,7 @@ oreSanguinite
 
 
 oreSapphire
-
-
-oreSawdust
+bluepower:sapphire_ore - 0
 
 
 oreScarab
@@ -14719,10 +13171,14 @@ oreSignalum
 oreSilicon
 
 
+oreSiliconDioxide
+
+
 oreSilver
 ThermalFoundation:Ore - 2
 ImmersiveEngineering:ore - 3
 ReactorCraft:reactorcraft_block_ore - 4
+bluepower:silver_ore - 0
 ElectriCraft:electricraft_block_ore - 2
 
 
@@ -14739,15 +13195,14 @@ oreSteel
 aobd:oreSteel - 0
 
 
+oreStone
+
+
 oreSulfur
 Railcraft:ore - 0
 
 
-oreSulphur
-
-
 oreSunstone
-arsmagica2:vinteumOre - 4
 
 
 oreTanzanite
@@ -14760,6 +13215,7 @@ oreTennantite
 
 
 oreTeslatite
+bluepower:teslatite_ore - 0
 
 
 oreTetrahedrite
@@ -14777,20 +13233,33 @@ ReactorCraft:reactorcraft_block_ore - 9
 
 oreTin
 ThermalFoundation:Ore - 1
-Forestry:resources - 2
-TConstruct:SearedBrick - 4
-TConstruct:GravelOre - 3
+IC2:blockOreTin - 0
 Mekanism:OreBlock - 2
 ElectriCraft:electricraft_block_ore - 1
+
+
+oreTinyAluminum
 
 
 oreTinyBronze
 
 
+oreTinyCadmium
+
+
 oreTinyCopper
 
 
+oreTinyDraconium
+
+
 oreTinyGold
+
+
+oreTinyIndium
+
+
+oreTinyIridium
 
 
 oreTinyIron
@@ -14805,16 +13274,31 @@ oreTinyLead
 oreTinyLithium
 
 
+oreTinyMithril
+
+
 oreTinyNickel
 
 
 oreTinyObsidian
 
 
+oreTinyOsmium
+
+
 oreTinyPlatinum
 
 
+oreTinyRutile
+
+
+oreTinyShadow
+
+
 oreTinySilver
+
+
+oreTinySteel
 
 
 oreTinySulfur
@@ -14823,8 +13307,30 @@ oreTinySulfur
 oreTinyTin
 
 
+oreTinyTitanium
+
+
+oreTinyTritanium
+
+
+oreTinyTungsten
+
+
+oreTinyUranium
+
+
+oreTinyYellorium
+
+
+oreTinyZinc
+
+
 oreTitanium
-aobd:oreTitanium - 0
+Techguns:TechgunsAmmo - 94
+
+
+oreTitaniumIron
+Techguns:oreTitanIron - 0
 
 
 oreTopaz
@@ -14838,17 +13344,18 @@ oreTungstate
 
 
 oreTungsten
+bluepower:tungsten_ore - 0
 
 
 oreUraninite
 
 
 oreUranium
-aobd:oreUranium - 0
+IC2:blockOreUran - 0
+Techguns:oreTitanIron - 1
 
 
 oreVinteum
-arsmagica2:vinteumOre - 0
 
 
 oreVulcanite
@@ -14858,9 +13365,6 @@ oreVyroxeres
 
 
 oreWheat
-
-
-oreWolframium
 
 
 oreWood
@@ -14878,68 +13382,7 @@ oreYellowLimonite
 
 
 oreZinc
-
-
-oreberryAluminium
-TConstruct:oreBerries - 4
-
-
-oreberryAluminum
-TConstruct:oreBerries - 4
-
-
-oreberryCopper
-TConstruct:oreBerries - 2
-
-
-oreberryEssence
-TConstruct:oreBerries - 1
-
-
-oreberryGold
-TConstruct:oreBerries - 1
-
-
-oreberryIron
-TConstruct:oreBerries - 0
-
-
-oreberryTin
-TConstruct:oreBerries - 3
-
-
-orebushAluminium
-TConstruct:ore.berries.two - 0
-
-
-orebushAluminum
-TConstruct:ore.berries.two - 0
-
-
-orebushCopper
-TConstruct:ore.berries.one - 2
-
-
-orebushEssence
-TConstruct:ore.berries.two - 1
-
-
-orebushGold
-TConstruct:ore.berries.one - 1
-
-
-orebushIron
-TConstruct:ore.berries.one - 0
-
-
-orebushTin
-TConstruct:ore.berries.one - 3
-
-
-oremolten.bedrockiumingots
-
-
-oremolten.unstableingots
+bluepower:zinc_ore - 0
 
 
 oreoreDark
@@ -15038,10 +13481,6 @@ MineFactoryReloaded:stainedglass.pane - 4
 paper
 
 
-paperRod
-TConstruct:toolRod - 9
-
-
 pearlEnder
 minecraft:ender_pearl - 0
 
@@ -15127,10 +13566,6 @@ petalYellow
 Botania:petal - 4
 
 
-pigment
-Botany:pigment - 0
-
-
 pistonStickyBase
 
 
@@ -15161,43 +13596,7 @@ Natura:planks - 8
 Natura:planks - 9
 Natura:planks - 10
 Natura:planks - 11
-Forestry:planks - any
-Forestry:planksFireproof - any
-ExtraTrees:planks - 0
-ExtraTrees:planks - 1
-ExtraTrees:planks - 2
-ExtraTrees:planks - 3
-ExtraTrees:planks - 4
-ExtraTrees:planks - 5
-ExtraTrees:planks - 6
-ExtraTrees:planks - 7
-ExtraTrees:planks - 8
-ExtraTrees:planks - 9
-ExtraTrees:planks - 10
-ExtraTrees:planks - 11
-ExtraTrees:planks - 12
-ExtraTrees:planks - 13
-ExtraTrees:planks - 14
-ExtraTrees:planks - 15
-ExtraTrees:planks - 16
-ExtraTrees:planks - 17
-ExtraTrees:planks - 18
-ExtraTrees:planks - 19
-ExtraTrees:planks - 20
-ExtraTrees:planks - 21
-ExtraTrees:planks - 22
-ExtraTrees:planks - 23
-ExtraTrees:planks - 24
-ExtraTrees:planks - 25
-ExtraTrees:planks - 26
-ExtraTrees:planks - 27
-ExtraTrees:planks - 28
-ExtraTrees:planks - 29
-ExtraTrees:planks - 30
-ExtraTrees:planks - 31
-ExtraTrees:planks - 32
-ExtraTrees:planks - 33
-ExtraTrees:planks - 34
+ExtrabiomesXL:planks - any
 ExtraUtilities:colorWoodPlanks - 0
 ExtraUtilities:colorWoodPlanks - 1
 ExtraUtilities:colorWoodPlanks - 2
@@ -15220,7 +13619,7 @@ Growthcraft|Bamboo:grc.bambooBlock - 0
 TaintedMagic:BlockWarpwoodPlanks - 0
 thaumicbases:enderPlanks - 0
 witchery:witchwood - any
-arsmagica2:planksWitchwood - 0
+TwilightForest:tile.TFTowerStone - any
 
 
 plankWoodBlack
@@ -15355,31 +13754,98 @@ plateAluminum
 ImmersiveEngineering:metal - 32
 
 
+plateBronze
+IC2:itemPlates - 2
+Techguns:TechgunsAmmo - 44
+
+
+plateCarbon
+Techguns:TechgunsAmmo - 62
+
+
 plateConstantan
 ImmersiveEngineering:metal - 36
 
 
 plateCopper
+IC2:itemPlates - 0
 ImmersiveEngineering:metal - 31
+Techguns:TechgunsAmmo - 42
+
+
+plateDenseBronze
+IC2:itemDensePlates - 2
+
+
+plateDenseCopper
+IC2:itemDensePlates - 0
+
+
+plateDenseGold
+IC2:itemDensePlates - 3
+
+
+plateDenseIron
+IC2:itemDensePlates - 4
+
+
+plateDenseLapis
+IC2:itemDensePlates - 8
+
+
+plateDenseLead
+IC2:itemDensePlates - 6
+
+
+plateDenseObsidian
+IC2:itemDensePlates - 7
+
+
+plateDenseSteel
+IC2:itemDensePlates - 5
+
+
+plateDenseTin
+IC2:itemDensePlates - 1
 
 
 plateElectrum
 ImmersiveEngineering:metal - 37
 
 
+plateGold
+IC2:itemPlates - 3
+
+
 plateIridium
 
 
 plateIron
+IC2:itemPlates - 4
 ImmersiveEngineering:metal - 30
+Techguns:TechgunsAmmo - 43
+
+
+plateLapis
+IC2:itemPlates - 8
 
 
 plateLead
+IC2:itemPlates - 6
 ImmersiveEngineering:metal - 33
+Techguns:TechgunsAmmo - 104
 
 
 plateNickel
 ImmersiveEngineering:metal - 35
+
+
+plateObsidian
+IC2:itemPlates - 7
+
+
+plateObsidianSteel
+Techguns:TechgunsAmmo - 65
 
 
 plateSilver
@@ -15387,7 +13853,18 @@ ImmersiveEngineering:metal - 34
 
 
 plateSteel
+IC2:itemPlates - 5
 ImmersiveEngineering:metal - 38
+Techguns:TechgunsAmmo - 45
+
+
+plateTin
+IC2:itemPlates - 1
+Techguns:TechgunsAmmo - 41
+
+
+plateTitanium
+Techguns:TechgunsAmmo - 96
 
 
 plateTungstenSteel
@@ -15409,8 +13886,6 @@ Botania:manaResource - 23
 
 
 pulpWood
-Forestry:woodPulp - 0
-ExtraTrees:misc - 1
 Mekanism:Sawdust - 0
 RotaryCraft:rotarycraft_item_powders - 3
 
@@ -15453,6 +13928,10 @@ harvestcraft:calamarirawItem - 0
 
 rawMutton
 harvestcraft:muttonrawItem - 0
+
+
+rawPlastic
+Techguns:TechgunsAmmo - 71
 
 
 reactorCasing
@@ -15506,6 +13985,45 @@ fossil:record_scarab - 0
 fossil:record_discovery - 0
 
 
+redalloyBundled
+bluepower:part.wire.redalloy.bundled.white - 0
+bluepower:part.wire.redalloy.bundled.orange - 0
+bluepower:part.wire.redalloy.bundled.magenta - 0
+bluepower:part.wire.redalloy.bundled.light_blue - 0
+bluepower:part.wire.redalloy.bundled.yellow - 0
+bluepower:part.wire.redalloy.bundled.lime - 0
+bluepower:part.wire.redalloy.bundled.pink - 0
+bluepower:part.wire.redalloy.bundled.gray - 0
+bluepower:part.wire.redalloy.bundled.light_gray - 0
+bluepower:part.wire.redalloy.bundled.cyan - 0
+bluepower:part.wire.redalloy.bundled.purple - 0
+bluepower:part.wire.redalloy.bundled.blue - 0
+bluepower:part.wire.redalloy.bundled.brown - 0
+bluepower:part.wire.redalloy.bundled.green - 0
+bluepower:part.wire.redalloy.bundled.red - 0
+bluepower:part.wire.redalloy.bundled.black - 0
+bluepower:part.wire.redalloy.bundled - 0
+
+
+redalloyInsulated
+bluepower:part.wire.redalloy.white - 0
+bluepower:part.wire.redalloy.orange - 0
+bluepower:part.wire.redalloy.magenta - 0
+bluepower:part.wire.redalloy.light_blue - 0
+bluepower:part.wire.redalloy.yellow - 0
+bluepower:part.wire.redalloy.lime - 0
+bluepower:part.wire.redalloy.pink - 0
+bluepower:part.wire.redalloy.gray - 0
+bluepower:part.wire.redalloy.light_gray - 0
+bluepower:part.wire.redalloy.cyan - 0
+bluepower:part.wire.redalloy.purple - 0
+bluepower:part.wire.redalloy.blue - 0
+bluepower:part.wire.redalloy.brown - 0
+bluepower:part.wire.redalloy.green - 0
+bluepower:part.wire.redalloy.red - 0
+bluepower:part.wire.redalloy.black - 0
+
+
 redstone
 
 
@@ -15518,6 +14036,7 @@ Botania:manaResource - 6
 
 
 reedTypha
+ExtrabiomesXL:plants4 - 0
 
 
 rennetSource
@@ -15525,12 +14044,9 @@ Growthcraft|Milk:grcmilk.Thistle - 0
 Growthcraft|Milk:grcmilk.Stomach - 0
 
 
-rodAlumite
-TConstruct:toolRod - 15
-
-
-rodArdite
-TConstruct:toolRod - 11
+resourceTaint
+Thaumcraft:ItemResource - 11
+ForbiddenMagic:NetherShard - 2
 
 
 rodBasalz
@@ -15549,69 +14065,8 @@ rodBlizz
 ThermalFoundation:material - 1024
 
 
-rodBlueslime
-TConstruct:toolRod - 17
-
-
-rodBone
-TConstruct:toolRod - 5
-
-
-rodBronze
-TConstruct:toolRod - 14
-
-
-rodCactus
-TConstruct:toolRod - 4
-
-
-rodCobalt
-TConstruct:toolRod - 10
-
-
-rodCopper
-TConstruct:toolRod - 13
-
-
-rodFlint
-TConstruct:toolRod - 3
-
-
-rodIron
-TConstruct:toolRod - 2
-
-
-rodManyullyn
-TConstruct:toolRod - 12
-
-
-rodNetherrack
-TConstruct:toolRod - 7
-
-
-rodObsidian
-TConstruct:toolRod - 6
-
-
-rodPaper
-TConstruct:toolRod - 9
-
-
-rodSlime
-TConstruct:toolRod - 8
-
-
-rodSteel
-TConstruct:toolRod - 16
-
-
 rodStone
-TConstruct:toolRod - 1
 ForgeMicroblock:stoneRod - 0
-
-
-rodWood
-TConstruct:toolRod - 0
 
 
 rubber
@@ -15690,6 +14145,10 @@ minecraft:sand - any
 minecraft:sand - 0
 
 
+sandCracked
+ExtrabiomesXL:terrain_blocks2 - 0
+
+
 sandstone
 minecraft:sandstone - any
 
@@ -15706,9 +14165,6 @@ Natura:Rare Sapling - any
 Growthcraft|Apples:grc.appleSapling - 0
 
 
-sawdust
-
-
 scribingTools
 Thaumcraft:ItemInkwell - any
 
@@ -15720,6 +14176,7 @@ minecraft:pumpkin_seeds - 0
 minecraft:melon_seeds - 0
 minecraft:nether_wart - 0
 Natura:barley.seed - 0
+bluepower:flax_seeds - 0
 Thaumcraft:ItemManaBean - 0
 ExtraUtilities:plant/ender_lilly - 0
 AgriCraft:seedPotato - 0
@@ -15728,12 +14185,6 @@ AgriCraft:seedCarrot - 0
 
 seedAllium
 AgriCraft:seedAllium - 0
-
-
-seedAmbegonia
-
-
-seedApatacia
 
 
 seedApple
@@ -15748,10 +14199,6 @@ seedAsparagus
 harvestcraft:asparagusseedItem - 0
 
 
-seedAum
-AgriCraft:seedAum - 0
-
-
 seedAurigold
 AgriCraft:seedAurigold - 0
 
@@ -15762,7 +14209,6 @@ harvestcraft:bambooshootseedItem - 0
 
 seedBarley
 harvestcraft:barleyseedItem - 0
-ExtraTrees:misc - 9
 
 
 seedBean
@@ -15773,24 +14219,12 @@ seedBeet
 harvestcraft:beetseedItem - 0
 
 
-seedBellPepperOrange
-
-
-seedBellPepperRed
-
-
-seedBellPepperYellow
-
-
 seedBelladonna
 witchery:seedsbelladonna - 0
 
 
 seedBellpepper
 harvestcraft:bellpepperseedItem - 0
-
-
-seedBiomilotus
 
 
 seedBlackberry
@@ -15897,22 +14331,12 @@ seedCarrot
 AgriCraft:seedCarrot - 0
 
 
-seedCassava
-
-
 seedCauliflower
 harvestcraft:cauliflowerseedItem - 0
 
 
 seedCelery
 harvestcraft:celeryseedItem - 0
-
-
-seedCertophus
-
-
-seedCerublossom
-AgriCraft:seedCerublossom - 0
 
 
 seedChilipepper
@@ -15923,19 +14347,12 @@ seedCinderpearl
 AgriCraft:seedCinderpearl - 0
 
 
-seedCinnamum
-
-
-seedCockscoal
-
-
 seedCoffee
 harvestcraft:coffeeseedItem - 0
 
 
 seedCorn
 harvestcraft:cornseedItem - 0
-ExtraTrees:misc - 11
 
 
 seedCotton
@@ -15966,10 +14383,6 @@ seedDandelion
 AgriCraft:seedDandelion - 0
 
 
-seedDesertNova
-AgriCraft:seedDesertNova - 0
-
-
 seedDiamahlia
 AgriCraft:seedDiamahlia - 0
 
@@ -15982,14 +14395,12 @@ seedEmeryllis
 AgriCraft:seedEmeryllis - 0
 
 
-seedEnder-Amaranthyst
-
-
 seedFerranium
 AgriCraft:seedFerranium - 0
 
 
 seedFlax
+bluepower:flax_seeds - 0
 
 
 seedGarlic
@@ -16007,9 +14418,6 @@ harvestcraft:grapeseedItem - 0
 
 seedGrapes
 Growthcraft|Grapes:grc.grapeSeeds - 0
-
-
-seedGreenBeans
 
 
 seedHops
@@ -16040,18 +14448,12 @@ seedLettuce
 harvestcraft:lettuceseedItem - 0
 
 
-seedMalachalidonium
-
-
 seedMandrake
 witchery:seedsmandrake - 0
 
 
 seedMelon
 minecraft:melon_seeds - 0
-
-
-seedMithrium
 
 
 seedMustard
@@ -16096,9 +14498,6 @@ harvestcraft:peanutseedItem - 0
 
 seedPeas
 harvestcraft:peasseedItem - 0
-
-
-seedPeridactyl
 
 
 seedPetinia
@@ -16154,23 +14553,12 @@ Growthcraft|Rice:grc.rice - 0
 harvestcraft:riceseedItem - 0
 
 
-seedRoasted
-ExtraTrees:misc - 12
-
-
-seedRuboner
-
-
 seedRutabaga
 harvestcraft:rutabagaseedItem - 0
 
 
 seedRye
 harvestcraft:ryeseedItem - 0
-ExtraTrees:misc - 10
-
-
-seedSapphuopsis
 
 
 seedScallion
@@ -16205,9 +14593,6 @@ seedSnowbell
 witchery:seedssnowbell - 0
 
 
-seedSorrel
-
-
 seedSoybean
 harvestcraft:soybeanseedItem - 0
 
@@ -16236,22 +14621,12 @@ seedTaintedRoot
 AgriCraft:seedTaintedRoot - 0
 
 
-seedTanzanigella
-
-
-seedTarmaRoot
-AgriCraft:seedTarmaRoot - 0
-
-
 seedTea
 harvestcraft:teaseedItem - 0
 
 
 seedTomato
 harvestcraft:tomatoseedItem - 0
-
-
-seedTopazanthoxylum
 
 
 seedTulipOrange
@@ -16278,21 +14653,12 @@ seedVishroom
 AgriCraft:seedVishroom - 0
 
 
-seedWakebloom
-AgriCraft:seedWakebloom - 0
-
-
 seedWaterArtichoke
 witchery:seedsartichoke - 0
 
 
 seedWaterchestnut
 harvestcraft:waterchestnutseedItem - 0
-
-
-seedWheat
-minecraft:wheat - 0
-ExtraTrees:misc - 8
 
 
 seedWhitemushroom
@@ -16315,12 +14681,6 @@ seedWormwood
 witchery:seedswormwood - 0
 
 
-seedYelloria
-
-
-seedZincova
-
-
 seedZucchini
 harvestcraft:zucchiniseedItem - 0
 
@@ -16330,24 +14690,12 @@ Thaumcraft:ItemShard - 0
 RotaryCraft:rotarycraft_item_modingots - 13
 
 
-shardAluminium
-aobd:shardAluminium - 0
-
-
-shardApatite
-MagicBees:beeNugget - 7
-
-
-shardArdite
-aobd:shardArdite - 0
+shardAluminum
+aobd:shardAluminum - 0
 
 
 shardCadmium
 aobd:shardCadmium - 0
-
-
-shardCobalt
-aobd:shardCobalt - 0
 
 
 shardCopper
@@ -16373,10 +14721,6 @@ ChromatiCraft:chromaticraft_item_shard - 14
 ChromatiCraft:chromaticraft_item_shard - 15
 
 
-shardDiamond
-MagicBees:beeNugget - 5
-
-
 shardDraconium
 aobd:shardDraconium - 0
 
@@ -16384,10 +14728,6 @@ aobd:shardDraconium - 0
 shardEarth
 Thaumcraft:ItemShard - 3
 RotaryCraft:rotarycraft_item_modingots - 16
-
-
-shardEmerald
-MagicBees:beeNugget - 6
 
 
 shardEntropy
@@ -16477,6 +14817,10 @@ shardTritanium
 aobd:shardTritanium - 0
 
 
+shardTungsten
+aobd:shardTungsten - 0
+
+
 shardUranium
 aobd:shardUranium - 0
 
@@ -16490,8 +14834,13 @@ shardYellorium
 aobd:shardYellorium - 0
 
 
+shardZinc
+aobd:shardZinc - 0
+
+
 sheetPlastic
 MineFactoryReloaded:plastic.sheet - 0
+Techguns:TechgunsAmmo - 72
 
 
 shrubLavender
@@ -16519,11 +14868,6 @@ Growthcraft|Bamboo:grc.bambooSingleSlab - 0
 
 slabBricks
 minecraft:stone_slab - 4
-
-
-slabCloth
-TConstruct:WoolSlab1 - any
-TConstruct:WoolSlab2 - any
 
 
 slabCobblestone
@@ -16588,47 +14932,11 @@ Thaumcraft:blockCosmeticSlabWood - 0
 Thaumcraft:blockCosmeticSlabWood - 1
 Natura:plankSlab1 - any
 Natura:plankSlab2 - any
-Forestry:slabs - any
-Forestry:slabsFireproof - any
+ExtrabiomesXL:woodslab2 - any
+ExtrabiomesXL:woodslab - any
 fossil:palaeorapheSlab - 0
 fossil:ancientWoodSlab - 0
 Growthcraft|Bamboo:grc.bambooSingleSlab - 0
-ExtraTrees:slab - 0
-ExtraTrees:slab - 1
-ExtraTrees:slab - 2
-ExtraTrees:slab - 3
-ExtraTrees:slab - 4
-ExtraTrees:slab - 5
-ExtraTrees:slab - 6
-ExtraTrees:slab - 7
-ExtraTrees:slab - 8
-ExtraTrees:slab - 9
-ExtraTrees:slab - 10
-ExtraTrees:slab - 11
-ExtraTrees:slab - 12
-ExtraTrees:slab - 13
-ExtraTrees:slab - 14
-ExtraTrees:slab - 15
-ExtraTrees:slab - 16
-ExtraTrees:slab - 17
-ExtraTrees:slab - 18
-ExtraTrees:slab - 19
-ExtraTrees:slab - 20
-ExtraTrees:slab - 21
-ExtraTrees:slab - 22
-ExtraTrees:slab - 23
-ExtraTrees:slab - 24
-ExtraTrees:slab - 25
-ExtraTrees:slab - 26
-ExtraTrees:slab - 27
-ExtraTrees:slab - 28
-ExtraTrees:slab - 29
-ExtraTrees:slab - 30
-ExtraTrees:slab - 31
-ExtraTrees:slab - 32
-ExtraTrees:slab - 33
-ExtraTrees:slab - 34
-arsmagica2:witchwoodSingleSlab - 0
 
 
 slabWoodAcacia
@@ -16655,16 +14963,9 @@ slabWoodSpruce
 minecraft:wooden_slab - 1
 
 
-slimeRod
-TConstruct:toolRod - 8
-
-
 slimeball
 minecraft:slime_ball - 0
 MineFactoryReloaded:pinkslime - 0
-TConstruct:strangeFood - 0
-TConstruct:strangeFood - 1
-TConstruct:materials - 36
 fossil:failuresaurusFlesh - 0
 fossil:tardrop - 0
 
@@ -16682,6 +14983,7 @@ minecraft:soul_sand - 0
 
 
 soulsand
+minecraft:soul_sand - 0
 ExtraUtilities:color_hellsand - 0
 ExtraUtilities:color_hellsand - 1
 ExtraUtilities:color_hellsand - 2
@@ -16698,7 +15000,6 @@ ExtraUtilities:color_hellsand - 12
 ExtraUtilities:color_hellsand - 13
 ExtraUtilities:color_hellsand - 14
 ExtraUtilities:color_hellsand - 15
-minecraft:soul_sand - 0
 
 
 soulsandBlack
@@ -16976,15 +15277,21 @@ minecraft:birch_stairs - 0
 minecraft:jungle_stairs - 0
 minecraft:acacia_stairs - 0
 minecraft:dark_oak_stairs - 0
-Forestry:stairs - any
-Forestry:stairsFireproof - any
+ExtrabiomesXL:stairs.redwood - 0
+ExtrabiomesXL:stairs.fir - 0
+ExtrabiomesXL:stairs.acacia - 0
+ExtrabiomesXL:stairs.rainboweucalyptus - 0
+ExtrabiomesXL:stairs.cypress - 0
+ExtrabiomesXL:stairs.baldcypress - 0
+ExtrabiomesXL:stairs.japanesemaple - 0
+ExtrabiomesXL:stairs.autumn - 0
+ExtrabiomesXL:stairs.sakurablossom - 0
 fossil:palaeorapheStairs - 0
 fossil:ancientWoodStairs - 0
 Growthcraft|Bamboo:grc.bambooStairs - 0
 witchery:stairswoodalder - any
 witchery:stairswoodhawthorn - any
 witchery:stairswoodrowan - any
-arsmagica2:stairsWitchwood - 0
 
 
 stairsWood
@@ -16993,8 +15300,8 @@ stairsWood
 steelIngot
 
 
-steelRod
-TConstruct:toolRod - 16
+steeleaf
+TwilightForest:item.steeleafIngot - 0
 
 
 stickAluminum
@@ -17007,7 +15314,6 @@ ImmersiveEngineering:material - 14
 
 stickObsidian
 RandomThings:ingredient - 1
-TConstruct:toolRod - 6
 
 
 stickSteel
@@ -17033,6 +15339,8 @@ Growthcraft|Bamboo:grc.bamboo - 0
 
 stone
 minecraft:stone - 0
+MineFactoryReloaded:stone - 0
+MineFactoryReloaded:stone - 1
 ExtraUtilities:color_stone - 0
 ExtraUtilities:color_stone - 1
 ExtraUtilities:color_stone - 2
@@ -17049,8 +15357,6 @@ ExtraUtilities:color_stone - 12
 ExtraUtilities:color_stone - 13
 ExtraUtilities:color_stone - 14
 ExtraUtilities:color_stone - 15
-MineFactoryReloaded:stone - 0
-MineFactoryReloaded:stone - 1
 fossil:ancientStone - 0
 
 
@@ -17103,9 +15409,6 @@ ExtraUtilities:color_stone - 0
 
 stoneBlue
 ExtraUtilities:color_stone - 4
-
-
-stoneBowl
 
 
 stoneBrick
@@ -17178,11 +15481,6 @@ stoneMagenta
 ExtraUtilities:color_stone - 13
 
 
-stoneMossy
-minecraft:stonebrick - 1
-minecraft:mossy_cobblestone - 0
-
-
 stoneOrange
 ExtraUtilities:color_stone - 14
 
@@ -17197,10 +15495,6 @@ ExtraUtilities:color_stone - 5
 
 stoneRed
 ExtraUtilities:color_stone - 1
-
-
-stoneRod
-TConstruct:toolRod - 1
 
 
 stoneWhite
@@ -17229,18 +15523,12 @@ tarBucket
 fossil:tar_bucket - 0
 
 
-thaumiumRod
-TConstruct:toolRod - 31
-
-
 thermalexpansion:machineBronze
 ThermalFoundation:material - 137
-Forestry:gearBronze - 0
 
 
 thermalexpansion:machineCopper
 ThermalFoundation:material - 128
-Forestry:gearCopper - 0
 
 
 thermalexpansion:machineElectrum
@@ -17304,7 +15592,6 @@ ThermalFoundation:material - 130
 
 thermalexpansion:machineTin
 ThermalFoundation:material - 129
-Forestry:gearTin - 0
 
 
 toolBakeware
@@ -17347,7 +15634,6 @@ minecraft:redstone_torch - 0
 
 
 torchStone
-TConstruct:decoration.stonetorch - 0
 
 
 transdimBlock
@@ -21473,15 +19759,21 @@ Growthcraft|Bamboo:grc.bambooLeaves - 0
 treeLeaves
 minecraft:leaves - any
 minecraft:leaves2 - any
+IC2:blockRubLeaves - any
 Natura:floraleaves - any
 Natura:floraleavesnocolor - any
 Natura:Rare Leaves - any
 Natura:Dark Leaves - any
-Forestry:leaves - any
+ExtrabiomesXL:leaves_1 - any
+ExtrabiomesXL:leaves_4 - any
+ExtrabiomesXL:leaves_2 - any
+ExtrabiomesXL:leaves_3 - any
 fossil:palaeorapheLeaves - 0
 Growthcraft|Apples:grc.appleLeaves - any
 Growthcraft|Bamboo:grc.bambooLeaves - 0
 witchery:witchleaves - any
+TwilightForest:tile.TFLeaves - any
+TwilightForest:tile.TFMagicLeaves - any
 ChromatiCraft:chromaticraft_block_dyeleaf - 0
 ChromatiCraft:chromaticraft_block_dyeleaf - 1
 ChromatiCraft:chromaticraft_block_dyeleaf - 2
@@ -21502,18 +19794,20 @@ ChromatiCraft:chromaticraft_block_dyeleaf - 15
 
 treeSapling
 minecraft:sapling - any
+MineFactoryReloaded:rubberwood.sapling - 0
 Thaumcraft:blockCustomPlant - 0
 Thaumcraft:blockCustomPlant - 1
+IC2:blockRubSapling - any
 Natura:florasapling - any
 Natura:Rare Sapling - any
-Forestry:sapling - any
-Forestry:saplingGE - any
-MineFactoryReloaded:rubberwood.sapling - 0
+ExtrabiomesXL:saplings_1 - any
+ExtrabiomesXL:saplings_2 - any
 fossil:palaeorapheSapling - 0
 Growthcraft|Apples:grc.appleSapling - 0
 TaintedMagic:BlockWarpwoodSapling - 0
 thaumicbases:goldenOakSapling - 0
 witchery:witchsapling - any
+TwilightForest:tile.TFSapling - any
 ChromatiCraft:chromaticraft_block_dyesapling - 0
 ChromatiCraft:chromaticraft_block_dyesapling - 1
 ChromatiCraft:chromaticraft_block_dyesapling - 2
@@ -21579,32 +19873,189 @@ voidBlock
 thaumicbases:voidBlock - 0
 
 
+waferBlue
+bluepower:bluestone_wire_tile - 0
+
+
+waferBlueAnode
+bluepower:bluestone_anode_tile - 0
+
+
+waferBlueCathode
+bluepower:bluestone_cathode_tile - 0
+
+
+waferBluePointer
+bluepower:bluestone_pointer_tile - 0
+
+
+waferBundled
+bluepower:stone_bundle - 0
+
+
+waferRedAnode
+bluepower:redstone_anode_tile - 0
+
+
+waferRedCathode
+bluepower:redstone_cathode_tile - 0
+
+
+waferRedPointer
+bluepower:redstone_pointer_tile - 0
+
+
+waferRede
+bluepower:redstone_wire_tile - 0
+
+
+waferResonator
+bluepower:quartz_resonator_tile - 0
+
+
+waferSilicon
+bluepower:silicon_chip_tile - 0
+
+
+waferSiliconTainted
+bluepower:tainted_silicon_chip_tile - 0
+
+
+waferStone
+bluepower:stone_tile - 0
+
+
 water_bucket
-
-
-waxMagical
-MagicBees:wax - 0
-MagicBees:wax - 2
 
 
 whiteStone
 minecraft:end_stone - 0
 
 
+wireBundled
+bluepower:part.wire.bluestone.bundled.white - 0
+bluepower:part.wire.bluestone.bundled.orange - 0
+bluepower:part.wire.bluestone.bundled.magenta - 0
+bluepower:part.wire.bluestone.bundled.light_blue - 0
+bluepower:part.wire.bluestone.bundled.yellow - 0
+bluepower:part.wire.bluestone.bundled.lime - 0
+bluepower:part.wire.bluestone.bundled.pink - 0
+bluepower:part.wire.bluestone.bundled.gray - 0
+bluepower:part.wire.bluestone.bundled.light_gray - 0
+bluepower:part.wire.bluestone.bundled.cyan - 0
+bluepower:part.wire.bluestone.bundled.purple - 0
+bluepower:part.wire.bluestone.bundled.blue - 0
+bluepower:part.wire.bluestone.bundled.brown - 0
+bluepower:part.wire.bluestone.bundled.green - 0
+bluepower:part.wire.bluestone.bundled.red - 0
+bluepower:part.wire.bluestone.bundled.black - 0
+bluepower:part.wire.bluestone.bundled - 0
+bluepower:part.wire.redalloy.bundled.white - 0
+bluepower:part.wire.redalloy.bundled.orange - 0
+bluepower:part.wire.redalloy.bundled.magenta - 0
+bluepower:part.wire.redalloy.bundled.light_blue - 0
+bluepower:part.wire.redalloy.bundled.yellow - 0
+bluepower:part.wire.redalloy.bundled.lime - 0
+bluepower:part.wire.redalloy.bundled.pink - 0
+bluepower:part.wire.redalloy.bundled.gray - 0
+bluepower:part.wire.redalloy.bundled.light_gray - 0
+bluepower:part.wire.redalloy.bundled.cyan - 0
+bluepower:part.wire.redalloy.bundled.purple - 0
+bluepower:part.wire.redalloy.bundled.blue - 0
+bluepower:part.wire.redalloy.bundled.brown - 0
+bluepower:part.wire.redalloy.bundled.green - 0
+bluepower:part.wire.redalloy.bundled.red - 0
+bluepower:part.wire.redalloy.bundled.black - 0
+bluepower:part.wire.redalloy.bundled - 0
+bluepower:part.wire.infusedteslatite.bundled.white - 0
+bluepower:part.wire.infusedteslatite.bundled.orange - 0
+bluepower:part.wire.infusedteslatite.bundled.magenta - 0
+bluepower:part.wire.infusedteslatite.bundled.light_blue - 0
+bluepower:part.wire.infusedteslatite.bundled.yellow - 0
+bluepower:part.wire.infusedteslatite.bundled.lime - 0
+bluepower:part.wire.infusedteslatite.bundled.pink - 0
+bluepower:part.wire.infusedteslatite.bundled.gray - 0
+bluepower:part.wire.infusedteslatite.bundled.light_gray - 0
+bluepower:part.wire.infusedteslatite.bundled.cyan - 0
+bluepower:part.wire.infusedteslatite.bundled.purple - 0
+bluepower:part.wire.infusedteslatite.bundled.blue - 0
+bluepower:part.wire.infusedteslatite.bundled.brown - 0
+bluepower:part.wire.infusedteslatite.bundled.green - 0
+bluepower:part.wire.infusedteslatite.bundled.red - 0
+bluepower:part.wire.infusedteslatite.bundled.black - 0
+bluepower:part.wire.infusedteslatite.bundled - 0
+
+
+wireCopper
+Techguns:TechgunsAmmo - 57
+
+
 wireExplosive
 MineFactoryReloaded:detcord - 0
+
+
+wireGold
+Techguns:TechgunsAmmo - 86
+
+
+wireInsulated
+bluepower:part.wire.bluestone.white - 0
+bluepower:part.wire.bluestone.orange - 0
+bluepower:part.wire.bluestone.magenta - 0
+bluepower:part.wire.bluestone.light_blue - 0
+bluepower:part.wire.bluestone.yellow - 0
+bluepower:part.wire.bluestone.lime - 0
+bluepower:part.wire.bluestone.pink - 0
+bluepower:part.wire.bluestone.gray - 0
+bluepower:part.wire.bluestone.light_gray - 0
+bluepower:part.wire.bluestone.cyan - 0
+bluepower:part.wire.bluestone.purple - 0
+bluepower:part.wire.bluestone.blue - 0
+bluepower:part.wire.bluestone.brown - 0
+bluepower:part.wire.bluestone.green - 0
+bluepower:part.wire.bluestone.red - 0
+bluepower:part.wire.bluestone.black - 0
+bluepower:part.wire.redalloy.white - 0
+bluepower:part.wire.redalloy.orange - 0
+bluepower:part.wire.redalloy.magenta - 0
+bluepower:part.wire.redalloy.light_blue - 0
+bluepower:part.wire.redalloy.yellow - 0
+bluepower:part.wire.redalloy.lime - 0
+bluepower:part.wire.redalloy.pink - 0
+bluepower:part.wire.redalloy.gray - 0
+bluepower:part.wire.redalloy.light_gray - 0
+bluepower:part.wire.redalloy.cyan - 0
+bluepower:part.wire.redalloy.purple - 0
+bluepower:part.wire.redalloy.blue - 0
+bluepower:part.wire.redalloy.brown - 0
+bluepower:part.wire.redalloy.green - 0
+bluepower:part.wire.redalloy.red - 0
+bluepower:part.wire.redalloy.black - 0
+bluepower:part.wire.infusedteslatite.white - 0
+bluepower:part.wire.infusedteslatite.orange - 0
+bluepower:part.wire.infusedteslatite.magenta - 0
+bluepower:part.wire.infusedteslatite.light_blue - 0
+bluepower:part.wire.infusedteslatite.yellow - 0
+bluepower:part.wire.infusedteslatite.lime - 0
+bluepower:part.wire.infusedteslatite.pink - 0
+bluepower:part.wire.infusedteslatite.gray - 0
+bluepower:part.wire.infusedteslatite.light_gray - 0
+bluepower:part.wire.infusedteslatite.cyan - 0
+bluepower:part.wire.infusedteslatite.purple - 0
+bluepower:part.wire.infusedteslatite.blue - 0
+bluepower:part.wire.infusedteslatite.brown - 0
+bluepower:part.wire.infusedteslatite.green - 0
+bluepower:part.wire.infusedteslatite.red - 0
+bluepower:part.wire.infusedteslatite.black - 0
 
 
 woodPlank
 Growthcraft|Bamboo:grc.bambooBlock - 0
 
 
-woodRod
-TConstruct:toolRod - 0
-
-
 woodRubber
 MineFactoryReloaded:rubberwood.log - 0
+IC2:blockRubWood - any
 
 
 woodSlab

@@ -165,6 +165,82 @@
 	- Name: Mesa Plateau
 	- Forge Biome Types: MESA SANDY 
 
+40
+	- Name: Twilight Lake
+	- Forge Biome Types: OCEAN 
+
+41
+	- Name: Twilight Forest
+	- Forge Biome Types: FOREST 
+
+42
+	- Name: Dense Twilight Forest
+	- Forge Biome Types: DENSE FOREST 
+
+43
+	- Name: Twilight Highlands
+	- Forge Biome Types: CONIFEROUS FOREST MOUNTAIN 
+
+44
+	- Name: Mushroom Forest
+	- Forge Biome Types: MUSHROOM FOREST 
+
+45
+	- Name: Twilight Swamp
+	- Forge Biome Types: WET SWAMP 
+
+46
+	- Name: Twilight Stream
+	- Forge Biome Types: RIVER 
+
+47
+	- Name: Snowy Forest
+	- Forge Biome Types: COLD CONIFEROUS FOREST SNOWY 
+
+48
+	- Name: Twilight Glacier
+	- Forge Biome Types: COLD SNOWY WASTELAND 
+
+49
+	- Name: Twilight Clearing
+	- Forge Biome Types: SPARSE PLAINS 
+
+50
+	- Name: Oak Savanna
+	- Forge Biome Types: SPARSE FOREST 
+
+51
+	- Name: Firefly Forest
+	- Forge Biome Types: LUSH FOREST 
+
+52
+	- Name: Deep Mushroom Forest
+	- Forge Biome Types: MUSHROOM FOREST 
+
+53
+	- Name: Dark Forest Center
+	- Forge Biome Types: DENSE SPOOKY MAGICAL FOREST 
+
+54
+	- Name: Highlands Center
+	- Forge Biome Types: DRY DEAD MESA WASTELAND 
+
+55
+	- Name: Dark Forest
+	- Forge Biome Types: DENSE SPOOKY FOREST 
+
+56
+	- Name: Enchanted Forest
+	- Forge Biome Types: MAGICAL FOREST 
+
+57
+	- Name: Fire Swamp
+	- Forge Biome Types: HOT SWAMP WASTELAND 
+
+58
+	- Name: Thornlands
+	- Forge Biome Types: DRY DEAD HILLS WASTELAND 
+
 59
 	- Name: Eerie
 	- Forge Biome Types: SPOOKY MAGICAL 
@@ -193,13 +269,117 @@
 	- Name: Ocean Oil Field
 	- Forge Biome Types: OCEAN RIVER 
 
+66
+	- Name: Alpine
+	- Forge Biome Types: MOUNTAIN SNOWY 
+
+67
+	- Name: Autumn Woods
+	- Forge Biome Types: FOREST 
+
+68
+	- Name: Birch Forest
+	- Forge Biome Types: FOREST 
+
+69
+	- Name: Extreme Jungle
+	- Forge Biome Types: JUNGLE MOUNTAIN 
+
+70
+	- Name: Forested Hills
+	- Forge Biome Types: FOREST HILLS 
+
+71
+	- Name: Forested Island
+	- Forge Biome Types: FOREST BEACH 
+
+72
+	- Name: Glacier
+	- Forge Biome Types: MOUNTAIN SNOWY WASTELAND 
+
+73
+	- Name: Green Hills
+	- Forge Biome Types: HILLS 
+
+74
+	- Name: Green Swamplands
+	- Forge Biome Types: OCEAN RIVER SWAMP 
+
+75
+	- Name: Ice Wasteland
+	- Forge Biome Types: SNOWY WASTELAND 
+
+76
+	- Name: Meadow
+	- Forge Biome Types: PLAINS 
+
+77
+	- Name: Mini Jungle
+	- Forge Biome Types: JUNGLE 
+
+78
+	- Name: Mountainous Desert
+	- Forge Biome Types: MOUNTAIN SANDY 
+
+79
+	- Name: Red Rock Mountains
+	- Forge Biome Types: MOUNTAIN SANDY 
+
+80
+	- Name: Mountain Taiga
+	- Forge Biome Types: FOREST MOUNTAIN SNOWY 
+
+81
+	- Name: Pine Forest
+	- Forge Biome Types: FOREST 
+
 82
+	- Name: Rainforest
+	- Forge Biome Types: JUNGLE HILLS 
+
+83
+	- Name: Redwood Forest
+	- Forge Biome Types: FOREST HILLS 
+
+84
+	- Name: Lush Redwoods
+	- Forge Biome Types: FOREST HILLS 
+
+85
+	- Name: Savanna
+	- Forge Biome Types: PLAINS SANDY 
+
+86
+	- Name: Shrubland
+	- Forge Biome Types: PLAINS 
+
+87
+	- Name: Snow Forest
+	- Forge Biome Types: FOREST SNOWY 
+
+88
+	- Name: Snowy Rainforest
+	- Forge Biome Types: FOREST HILLS SNOWY 
+
+89
+	- Name: Temperate Rainforest
+	- Forge Biome Types: FOREST HILLS 
+
+90
+	- Name: Tundra
+	- Forge Biome Types: SANDY SNOWY 
+
+91
+	- Name: Wasteland
+	- Forge Biome Types: WASTELAND 
+
+92
+	- Name: Woodlands
+	- Forge Biome Types: FOREST 
+
+94
 	- Name: BambooForest
 	- Forge Biome Types: DENSE LUSH FOREST 
-
-100
-	- Name: WitchwoodForest
-	- Forge Biome Types: MAGICAL FOREST 
 
 127
 	- Name: biome.treasure.name

@@ -1,5 +1,5 @@
-Total amount of free biome ids: 167
-Total amount of occupied biome ids: 89
+Total amount of free biome ids: 122
+Total amount of occupied biome ids: 134
 Total amount of conflicted biome ids: 0
 All ids and their position:
 0 is Occupied by Ocean (net.minecraft.world.biome.BiomeGenOcean)
@@ -42,25 +42,25 @@ All ids and their position:
 37 is Occupied by Mesa (net.minecraft.world.biome.BiomeGenMesa)
 38 is Occupied by Mesa Plateau F (net.minecraft.world.biome.BiomeGenMesa)
 39 is Occupied by Mesa Plateau (net.minecraft.world.biome.BiomeGenMesa)
-40 is Avaible
-41 is Avaible
-42 is Avaible
-43 is Avaible
-44 is Avaible
-45 is Avaible
-46 is Avaible
-47 is Avaible
-48 is Avaible
-49 is Avaible
-50 is Avaible
-51 is Avaible
-52 is Avaible
-53 is Avaible
-54 is Avaible
-55 is Avaible
-56 is Avaible
-57 is Avaible
-58 is Avaible
+40 is Occupied by Twilight Lake (twilightforest.biomes.TFBiomeTwilightLake)
+41 is Occupied by Twilight Forest (twilightforest.biomes.TFBiomeTwilightForest)
+42 is Occupied by Dense Twilight Forest (twilightforest.biomes.TFBiomeTwilightForestVariant)
+43 is Occupied by Twilight Highlands (twilightforest.biomes.TFBiomeHighlands)
+44 is Occupied by Mushroom Forest (twilightforest.biomes.TFBiomeMushrooms)
+45 is Occupied by Twilight Swamp (twilightforest.biomes.TFBiomeSwamp)
+46 is Occupied by Twilight Stream (twilightforest.biomes.TFBiomeStream)
+47 is Occupied by Snowy Forest (twilightforest.biomes.TFBiomeSnow)
+48 is Occupied by Twilight Glacier (twilightforest.biomes.TFBiomeGlacier)
+49 is Occupied by Twilight Clearing (twilightforest.biomes.TFBiomeClearing)
+50 is Occupied by Oak Savanna (twilightforest.biomes.TFBiomeOakSavanna)
+51 is Occupied by Firefly Forest (twilightforest.biomes.TFBiomeFireflyForest)
+52 is Occupied by Deep Mushroom Forest (twilightforest.biomes.TFBiomeDeepMushrooms)
+53 is Occupied by Dark Forest Center (twilightforest.biomes.TFBiomeDarkForestCenter)
+54 is Occupied by Highlands Center (twilightforest.biomes.TFBiomeFinalPlateau)
+55 is Occupied by Dark Forest (twilightforest.biomes.TFBiomeDarkForest)
+56 is Occupied by Enchanted Forest (twilightforest.biomes.TFBiomeEnchantedForest)
+57 is Occupied by Fire Swamp (twilightforest.biomes.TFBiomeFireSwamp)
+58 is Occupied by Thornlands (twilightforest.biomes.TFBiomeThornlands)
 59 is Occupied by Eerie (thaumcraft.common.lib.world.biomes.BiomeGenEerie)
 60 is Occupied by Eldritch (thaumcraft.common.lib.world.biomes.BiomeGenEldritch)
 61 is Occupied by Magical Forest (thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest)
@@ -68,41 +68,41 @@ All ids and their position:
 63 is Occupied by Storage Cell (appeng.spatial.BiomeGenStorage)
 64 is Occupied by Desert Oil Field (buildcraft.energy.worldgen.BiomeGenOilDesert)
 65 is Occupied by Ocean Oil Field (buildcraft.energy.worldgen.BiomeGenOilOcean)
-66 is Avaible
-67 is Avaible
-68 is Avaible
-69 is Avaible
-70 is Avaible
-71 is Avaible
-72 is Avaible
-73 is Avaible
-74 is Avaible
-75 is Avaible
-76 is Avaible
-77 is Avaible
-78 is Avaible
-79 is Avaible
-80 is Avaible
-81 is Avaible
-82 is Occupied by BambooForest (growthcraft.bamboo.common.world.BiomeGenBamboo)
-83 is Avaible
-84 is Avaible
-85 is Avaible
-86 is Avaible
-87 is Avaible
-88 is Avaible
-89 is Avaible
-90 is Avaible
-91 is Avaible
-92 is Avaible
+66 is Occupied by Alpine (extrabiomes.module.summa.biome.BiomeAlpine)
+67 is Occupied by Autumn Woods (extrabiomes.module.summa.biome.BiomeAutumnWoods)
+68 is Occupied by Birch Forest (extrabiomes.module.summa.biome.BiomeBirchForest)
+69 is Occupied by Extreme Jungle (extrabiomes.module.summa.biome.BiomeExtremeJungle)
+70 is Occupied by Forested Hills (extrabiomes.module.summa.biome.BiomeForestedHills)
+71 is Occupied by Forested Island (extrabiomes.module.summa.biome.BiomeForestedIsland)
+72 is Occupied by Glacier (extrabiomes.module.summa.biome.BiomeGlacier)
+73 is Occupied by Green Hills (extrabiomes.module.summa.biome.BiomeGreenHills)
+74 is Occupied by Green Swamplands (extrabiomes.module.summa.biome.BiomeGreenSwamp)
+75 is Occupied by Ice Wasteland (extrabiomes.module.summa.biome.BiomeIceWasteland)
+76 is Occupied by Meadow (extrabiomes.module.summa.biome.BiomeMeadow)
+77 is Occupied by Mini Jungle (extrabiomes.module.summa.biome.BiomeMiniJungle)
+78 is Occupied by Mountainous Desert (extrabiomes.module.summa.biome.BiomeMountainDesert)
+79 is Occupied by Red Rock Mountains (extrabiomes.module.summa.biome.BiomeMountainRidge)
+80 is Occupied by Mountain Taiga (extrabiomes.module.summa.biome.BiomeMountainTaiga)
+81 is Occupied by Pine Forest (extrabiomes.module.summa.biome.BiomePineForest)
+82 is Occupied by Rainforest (extrabiomes.module.summa.biome.BiomeRainforest)
+83 is Occupied by Redwood Forest (extrabiomes.module.summa.biome.BiomeRedwoodForest)
+84 is Occupied by Lush Redwoods (extrabiomes.module.summa.biome.BiomeRedwoodLush)
+85 is Occupied by Savanna (extrabiomes.module.summa.biome.BiomeSavanna)
+86 is Occupied by Shrubland (extrabiomes.module.summa.biome.BiomeShrubland)
+87 is Occupied by Snow Forest (extrabiomes.module.summa.biome.BiomeSnowForest)
+88 is Occupied by Snowy Rainforest (extrabiomes.module.summa.biome.BiomeSnowRainforest)
+89 is Occupied by Temperate Rainforest (extrabiomes.module.summa.biome.BiomeTemporateRainforest)
+90 is Occupied by Tundra (extrabiomes.module.summa.biome.BiomeTundra)
+91 is Occupied by Wasteland (extrabiomes.module.summa.biome.BiomeWasteland)
+92 is Occupied by Woodlands (extrabiomes.module.summa.biome.BiomeWoodlands)
 93 is Avaible
-94 is Avaible
+94 is Occupied by BambooForest (growthcraft.bamboo.common.world.BiomeGenBamboo)
 95 is Avaible
 96 is Avaible
 97 is Avaible
 98 is Avaible
 99 is Avaible
-100 is Occupied by WitchwoodForest (am2.worldgen.BiomeWitchwoodForest)
+100 is Avaible
 101 is Avaible
 102 is Avaible
 103 is Avaible

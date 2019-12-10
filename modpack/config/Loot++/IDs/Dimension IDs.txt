@@ -36,3 +36,120 @@
 	- Terrain Scale: 1.0
 
 
+-100
+	- Name: Underdark
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: 256.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+-34
+	- Name: the Ancient Treasure Room
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: 8.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+-37
+	- Name: Spirit World
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 0.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+60
+	- Name: Proxima
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 164.77313
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+-38
+	- Name: Torment
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+-39
+	- Name: Mirror
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+-42
+	- Name: The Outer Lands
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: 1.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+-19
+	- Name: Bedrock
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 0.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+-112
+	- Name: The Last Millenium
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 256.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
+-66
+	- Name: SpectreWorld
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: -5.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+7
+	- Name: Twilight Forest
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 161.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
+-23
+	- Name: Land of Darkness
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: 8.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+69
+	- Name: Pocket Plane
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+

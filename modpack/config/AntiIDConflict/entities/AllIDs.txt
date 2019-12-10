@@ -3,7 +3,7 @@
 2 is Occupied by XPOrb(net.minecraft.entity.item.EntityXPOrb)
 3 is Occupied by soundEntity(crazypants.enderio.item.darksteel.SoundEntity)
 4 is Occupied by rangeEntity(crazypants.enderio.machine.ranged.RangeEntity)
-5 is Avaible
+5 is Occupied by FakeChairEntity(com.mia.props.common.entities.EntityChairMount)
 6 is Avaible
 7 is Avaible
 8 is Occupied by LeashKnot(net.minecraft.entity.EntityLeashKnot)
