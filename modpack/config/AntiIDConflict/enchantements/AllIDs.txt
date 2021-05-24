@@ -6,7 +6,7 @@
 5 is Occupied by: enchantment.oxygen (net.minecraft.enchantment.EnchantmentOxygen)
 6 is Occupied by: enchantment.waterWorker (net.minecraft.enchantment.EnchantmentWaterWorker)
 7 is Occupied by: enchantment.thorns (net.minecraft.enchantment.EnchantmentThorns)
-8 is Avaible
+8 is Occupied by: enchantment.blink (mariculture.magic.enchantments.EnchantmentBlink)
 9 is Occupied by: enchantment.chroma.aggromask (Reika.ChromatiCraft.Magic.Enchantment.EnchantmentAggroMask)
 10 is Occupied by: enchantment.chroma.airminer (Reika.ChromatiCraft.Magic.Enchantment.EnchantmentAirMiner)
 11 is Occupied by: enchantment.chroma.phasing (Reika.ChromatiCraft.Magic.Enchantment.EnchantmentPhasingSequence)
@@ -22,14 +22,14 @@
 21 is Occupied by: enchantment.lootBonus (net.minecraft.enchantment.EnchantmentLootBonus)
 22 is Occupied by: enchantment.null (com.bluepowermod.enchant.EnchantmentVorpal)
 23 is Occupied by: enchantment.null (com.bluepowermod.enchant.EnchantmentDisjunction)
-24 is Avaible
-25 is Avaible
-26 is Avaible
-27 is Avaible
+24 is Occupied by: enchantment.elemental (mariculture.magic.enchantments.EnchantmentElemental)
+25 is Occupied by: enchantment.fall (mariculture.magic.enchantments.EnchantmentFallDamage)
+26 is Occupied by: enchantment.jump (mariculture.magic.enchantments.EnchantmentJump)
+27 is Occupied by: enchantment.hungry (mariculture.magic.enchantments.EnchantmentNeverHungry)
 28 is Occupied by: enchantment.matteroverdrive.weapon.damage (matteroverdrive.enchantment.EnchantmentOverclock)
-29 is Avaible
-30 is Avaible
-31 is Avaible
+29 is Occupied by: enchantment.restore (mariculture.magic.enchantments.EnchantmentRestore)
+30 is Occupied by: enchantment.flight (mariculture.magic.enchantments.EnchantmentFlight)
+31 is Occupied by: enchantment.oneRing (mariculture.magic.enchantments.EnchantmentOneRing)
 32 is Occupied by: enchantment.digging (net.minecraft.enchantment.EnchantmentDigging)
 33 is Occupied by: enchantment.untouching (net.minecraft.enchantment.EnchantmentUntouching)
 34 is Occupied by: enchantment.durability (net.minecraft.enchantment.EnchantmentDurability)
@@ -37,8 +37,8 @@
 36 is Avaible
 37 is Avaible
 38 is Avaible
-39 is Avaible
-40 is Avaible
+39 is Occupied by: enchantment.frost_walker (ganymedes01.etfuturum.enchantment.FrostWalker)
+40 is Occupied by: enchantment.mending (ganymedes01.etfuturum.enchantment.Mending)
 41 is Avaible
 42 is Avaible
 43 is Avaible
@@ -77,16 +77,16 @@
 76 is Occupied by: enchantment.wg.stealth (witchinggadgets.common.magic.WGEnchantStealth)
 77 is Occupied by: enchantment.chroma.userepair (Reika.ChromatiCraft.Magic.Enchantment.EnchantmentUseRepair)
 78 is Occupied by: enchantment.chroma.weaponaoe (Reika.ChromatiCraft.Magic.Enchantment.EnchantmentWeaponAOE)
-79 is Avaible
-80 is Avaible
+79 is Occupied by: enchantment.glide (mariculture.magic.enchantments.EnchantmentGlide)
+80 is Occupied by: enchantment.health (mariculture.magic.enchantments.EnchantmentHealth)
 81 is Occupied by: enchantment.chroma.minetime (Reika.ChromatiCraft.Magic.Enchantment.EnchantmentBetterEfficiency)
 82 is Occupied by: enchantment.chroma.datakeep (Reika.ChromatiCraft.Magic.Enchantment.EnchantmentDataKeeper)
 83 is Occupied by: enchantment.chroma.autocollect (Reika.ChromatiCraft.Magic.Enchantment.EnchantmentAutoCollect)
 84 is Occupied by: enchantment.chroma.rareloot (Reika.ChromatiCraft.Magic.Enchantment.EnchantmentRareLoot)
-85 is Avaible
-86 is Avaible
-87 is Avaible
-88 is Avaible
+85 is Occupied by: enchantment.resurrection (mariculture.magic.enchantments.EnchantmentResurrection)
+86 is Occupied by: enchantment.speed (mariculture.magic.enchantments.EnchantmentSpeed)
+87 is Occupied by: enchantment.spiderman (mariculture.magic.enchantments.EnchantmentSpider)
+88 is Occupied by: enchantment.stepUp (mariculture.magic.enchantments.EnchantmentStepUp)
 89 is Avaible
 90 is Occupied by: enchantment.paleontology (fossilsarcheology.server.enchantment.PaleontologyEnchantment)
 91 is Occupied by: enchantment.archeology (fossilsarcheology.server.enchantment.ArcheologyEnchantment)

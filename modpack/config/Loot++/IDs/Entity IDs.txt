@@ -88,8 +88,10 @@ ChromatiCraft.Ball Lightning
 ChromatiCraft.Bezier Particle
 ChromatiCraft.CC Ender Crystal
 ChromatiCraft.ChainGun Shot
+ChromatiCraft.ChargingTool
 ChromatiCraft.Cluster Ball
 ChromatiCraft.DataCrystal
+ChromatiCraft.Death Fog
 ChromatiCraft.Dimension Flare
 ChromatiCraft.Ender Eye T2
 ChromatiCraft.GlowCloud
@@ -120,6 +122,7 @@ DraconicEvolution.EnderDragon
 DraconicEvolution.EntityChaosEnergyVortex
 DraconicEvolution.Persistent Item
 DragonAPI.Tumbling Block
+Elite Stinger
 EnderCrystal
 EnderDragon
 EnderIO.weather_rocket
@@ -133,7 +136,64 @@ Fireball
 FireworksRocketEntity
 Ghast
 Giant
+Giant Flying Manta
 GraviSuite.PlasmaBall
+GrimoireOfGaia.Anubis
+GrimoireOfGaia.Banshee
+GrimoireOfGaia.Baphomet
+GrimoireOfGaia.Bone Knight
+GrimoireOfGaia.Butler
+GrimoireOfGaia.Centaur
+GrimoireOfGaia.Cobble Golem
+GrimoireOfGaia.Cobblestone Golem
+GrimoireOfGaia.Cockatrice
+GrimoireOfGaia.Creep
+GrimoireOfGaia.Creeper Girl
+GrimoireOfGaia.Cyan Flower
+GrimoireOfGaia.Cyclops
+GrimoireOfGaia.Dhampir
+GrimoireOfGaia.Dryad
+GrimoireOfGaia.Dullahan
+GrimoireOfGaia.Ender Dragon Girl
+GrimoireOfGaia.Ender Eye
+GrimoireOfGaia.Ender Girl
+GrimoireOfGaia.Flesh Lich
+GrimoireOfGaia.FutakuchiOnna
+GrimoireOfGaia.Gryphon
+GrimoireOfGaia.Harpy
+GrimoireOfGaia.Holstaurus
+GrimoireOfGaia.Hunter
+GrimoireOfGaia.Jorogumo
+GrimoireOfGaia.Kobold
+GrimoireOfGaia.Magic
+GrimoireOfGaia.Mandragora
+GrimoireOfGaia.Mermaid
+GrimoireOfGaia.Mimic
+GrimoireOfGaia.Minotaur
+GrimoireOfGaia.Minotaurus
+GrimoireOfGaia.Naga
+GrimoireOfGaia.NineTails
+GrimoireOfGaia.Sahuagin
+GrimoireOfGaia.Satyr
+GrimoireOfGaia.Selkie
+GrimoireOfGaia.Shaman
+GrimoireOfGaia.Sharko
+GrimoireOfGaia.Siren
+GrimoireOfGaia.Slime Girl
+GrimoireOfGaia.Sludge Girl
+GrimoireOfGaia.Small Fireball
+GrimoireOfGaia.Sphinx
+GrimoireOfGaia.Spriggan
+GrimoireOfGaia.Succubus
+GrimoireOfGaia.Swamper
+GrimoireOfGaia.Trader
+GrimoireOfGaia.Valkyrie
+GrimoireOfGaia.Vampire
+GrimoireOfGaia.Werecat
+GrimoireOfGaia.Witch
+GrimoireOfGaia.Wither Cow
+GrimoireOfGaia.Yeti
+GrimoireOfGaia.Yuki-Onna
 Growthcraft|Bamboo.bambooRaft
 IC2.BoatCarbon
 IC2.BoatElectric
@@ -155,11 +215,19 @@ Item
 ItemFrame
 LavaSlime
 LeashKnot
+Lizard Doggo
+Mariculture.BassBomb
+Mariculture.EntityItemImmune
+Mariculture.FakeItem
+Mariculture.FishingHook
+Mariculture.WaterSquirt
+Mariculture.speedBoat
 Mekanism.BabySkeleton
 Mekanism.Balloon
 Mekanism.Flame
 Mekanism.ObsidianTNT
 Mekanism.Robit
+Metallurgy.explosiveEntity
 MineFactoryReloaded.DebugTracker
 MineFactoryReloaded.FishingRod
 MineFactoryReloaded.Item
@@ -176,6 +244,9 @@ MinecartSpawner
 MinecartTNT
 Mob
 Monster
+MossySkeleton
+MossySkeletonScythe
+MossySkeletonScythe2
 MushroomCow
 Natura.FlameSpider
 Natura.FlameSpiderBaby
@@ -286,12 +357,15 @@ RotaryCraft.Shock Wave
 Sheep
 Silverfish
 Skeleton
+SkeletonWarriorMace
+SkeletonWarriorTank
 Slime
 SmallFireball
 SnowMan
 Snowball
 Spider
 Squid
+Statuar 
 StevesCarts.Cake.Vswe
 StevesCarts.Egg.Vswe
 StevesCarts.Minecart.Vswe.0
@@ -514,6 +588,7 @@ TwilightForest.tftomebolt
 TwilightForest.tftwilightwandbolt
 Villager
 VillagerGolem
+Void Monster
 Witch
 WitchingGadgets.reformingItem
 WitherBoss
@@ -525,14 +600,57 @@ appliedenergistics2.EntityChargedQuartz
 appliedenergistics2.EntityGrowingCrystal
 appliedenergistics2.EntitySingularity
 appliedenergistics2.EntityTinyTNTPrimed
+armourersWorkshop.seat
 chisel.BallOMoss
 chisel.CloudInABottle
 chisel.SmashingRock
 chisel.snowman
+critterpet.Carminite Ghastling
+critterpet.Fire Beetle
+critterpet.Heatscar Spider
+critterpet.Hedge Spider
+critterpet.Ice Core
+critterpet.King Spider
+critterpet.Lava Slime
+critterpet.Lumafly
+critterpet.Maze Slime
+critterpet.Mist Wolf
+critterpet.Silverfish
+critterpet.Slime
+critterpet.Slime Beetle
+critterpet.Spider
+critterpet.Wisp
+etfuturum.brown_mooshroom
+etfuturum.end_crystal
+etfuturum.ender_dragon
+etfuturum.endermite
+etfuturum.fireproof_item
+etfuturum.husk
+etfuturum.lingering_effect
+etfuturum.lingering_potion
+etfuturum.rabbit
+etfuturum.snow_golem
+etfuturum.stray
+etfuturum.tipped_arrow
+etfuturum.villager_zombie
+etfuturum.wooden_armorstand
 failed_chicken
 failed_cow
 failed_pig
 failed_sheep
+farlanders.Classic Enderman
+farlanders.Elder Farlander
+farlanders.Ender Golem
+farlanders.Ender Guardian
+farlanders.Enderminion
+farlanders.Fanmade Enderman
+farlanders.Farlander
+farlanders.Looter
+farlanders.Mystic Enderman
+farlanders.Mystic Enderminion
+farlanders.Rebel Farlander
+farlanders.Titan
+farlanders.Wanderer
 fossil.Alligator_Gar
 fossil.Allosaurus
 fossil.AncientJavelin
@@ -593,6 +711,24 @@ lootplusplus.Label
 lootplusplus.ThrownItem
 mad_scientist
 mutant_scientist
+netherlicious.Ashling
+netherlicious.BlazeKnight
+netherlicious.CrimsonRay
+netherlicious.Ember
+netherlicious.EmberFoxfire
+netherlicious.EmberShadow
+netherlicious.EmberSoul
+netherlicious.FireproofItemEntity
+netherlicious.FoxfireRay
+netherlicious.Hoglin
+netherlicious.Skull
+netherlicious.Smolder
+netherlicious.SporeCrimson
+netherlicious.SporeFoxfire
+netherlicious.SporeWarped
+netherlicious.Strider
+netherlicious.WarpedRay
+netherlicious.Zoglin
 openmodularturrets.blazingClayProjectile
 openmodularturrets.bulletProjectile
 openmodularturrets.grenadeProjectile
@@ -628,8 +764,10 @@ primitivemobs.TreasureSlime
 rangeEntity
 ranged_rogue_android
 rogue_android
+shipwrecks.piranha
 soundEntity
 thaumicbases.revolverBullet
+universalmodcore.SeatEntity
 witchery.attackbat
 witchery.babayaga
 witchery.banshee
@@ -686,7 +824,12 @@ witchery.wingedmonkey
 witchery.witchhunter
 witchery.wolfman
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
-6 - Blizz
+5 - Statuar 
+6 - MossySkeleton
+7 - MossySkeletonScythe
+23 - SkeletonWarriorTank
+24 - SkeletonWarriorMace
+25 - MossySkeletonScythe2
 50 - Creeper
 51 - Skeleton
 52 - Spider
@@ -701,6 +844,10 @@ witchery.wolfman
 62 - LavaSlime
 65 - Bat
 66 - Witch
+69 - Elite Stinger
+70 - Giant Flying Manta
+71 - Lizard Doggo
+73 - Blizz
 90 - Pig
 91 - Sheep
 92 - Cow
@@ -763,6 +910,28 @@ witchery.wolfman
 342 - fossil.Smilodon
 343 - fossil.Quagga
 344 - fossil.Elasmotherium
+345 - netherlicious.Strider
+346 - netherlicious.Hoglin
+347 - netherlicious.Zoglin
+348 - netherlicious.BlazeKnight
+349 - netherlicious.SporeCrimson
+350 - netherlicious.SporeWarped
+351 - netherlicious.SporeFoxfire
+352 - netherlicious.Ember
+353 - netherlicious.Smolder
+354 - netherlicious.Ashling
+355 - netherlicious.Skull
+356 - netherlicious.EmberSoul
+357 - netherlicious.EmberFoxfire
+358 - netherlicious.EmberShadow
+359 - netherlicious.CrimsonRay
+360 - netherlicious.WarpedRay
+361 - netherlicious.FoxfireRay
+501 - etfuturum.endermite
+503 - etfuturum.rabbit
+505 - etfuturum.husk
+507 - etfuturum.stray
+509 - etfuturum.villager_zombie
 901 - primitivemobs.RocketCreeper
 902 - primitivemobs.FestiveCreeper
 903 - primitivemobs.SupportCreeper

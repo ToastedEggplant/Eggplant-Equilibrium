@@ -377,9 +377,17 @@
 	- Name: Woodlands
 	- Forge Biome Types: FOREST 
 
+93
+	- Name: Burning Desert
+	- Forge Biome Types: NETHER 
+
 94
 	- Name: BambooForest
 	- Forge Biome Types: DENSE LUSH FOREST 
+
+95
+	- Name: Tainted Shroom Cave
+	- Forge Biome Types: NETHER 
 
 127
 	- Name: biome.treasure.name
@@ -420,6 +428,10 @@
 143
 	- Name: Ender Forest
 	- Forge Biome Types: MAGICAL FOREST 
+
+144
+	- Name: Pink Birch Forest
+	- Forge Biome Types: DENSE WET LUSH MAGICAL FOREST MOUNTAIN 
 
 145
 	- Name: Luminous Cliffs
@@ -540,4 +552,36 @@
 174
 	- Name: Voidland
 	- Forge Biome Types: COLD END MAGICAL 
+
+175
+	- Name: Basalt Deltas
+	- Forge Biome Types: NETHER 
+
+176
+	- Name: Crimson Forest
+	- Forge Biome Types: NETHER 
+
+177
+	- Name: Soul Sand Valley
+	- Forge Biome Types: NETHER 
+
+178
+	- Name: Warped Forest
+	- Forge Biome Types: NETHER 
+
+179
+	- Name: Foxfire Swamp
+	- Forge Biome Types: NETHER 
+
+180
+	- Name: Crystalline Crag
+	- Forge Biome Types: NETHER 
+
+181
+	- Name: Abyssal Shadowland
+	- Forge Biome Types: NETHER 
+
+182
+	- Name: Ruptured Chasm
+	- Forge Biome Types: NETHER 
 

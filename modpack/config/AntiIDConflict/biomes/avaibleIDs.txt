@@ -1,7 +1,5 @@
-Total amount of free biome ids: C:\Users\ToastyBoi\AppData\Roaming\.minecraft\config\AntiIDConflict\biomes\avaibleIDs.txt
+Total amount of free biome ids: E:\Users\ToastyBoi\AppData\Roaming\.minecraft\config\AntiIDConflict\biomes\avaibleIDs.txt
 List of free biome ids:
-93
-95
 96
 97
 98
@@ -40,15 +38,6 @@ List of free biome ids:
 139
 141
 142
-144
-175
-176
-177
-178
-179
-180
-181
-182
 183
 184
 185

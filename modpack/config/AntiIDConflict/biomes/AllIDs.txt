@@ -1,5 +1,5 @@
-Total amount of free biome ids: 122
-Total amount of occupied biome ids: 134
+Total amount of free biome ids: 111
+Total amount of occupied biome ids: 145
 Total amount of conflicted biome ids: 0
 All ids and their position:
 0 is Occupied by Ocean (net.minecraft.world.biome.BiomeGenOcean)
@@ -95,9 +95,9 @@ All ids and their position:
 90 is Occupied by Tundra (extrabiomes.module.summa.biome.BiomeTundra)
 91 is Occupied by Wasteland (extrabiomes.module.summa.biome.BiomeWasteland)
 92 is Occupied by Woodlands (extrabiomes.module.summa.biome.BiomeWoodlands)
-93 is Avaible
+93 is Occupied by Burning Desert (DelirusCrux.Netherlicious.Biomes.BurningDesert)
 94 is Occupied by BambooForest (growthcraft.bamboo.common.world.BiomeGenBamboo)
-95 is Avaible
+95 is Occupied by Tainted Shroom Cave (DelirusCrux.Netherlicious.Biomes.TaintedShroomCave)
 96 is Avaible
 97 is Avaible
 98 is Avaible
@@ -146,7 +146,7 @@ All ids and their position:
 141 is Avaible
 142 is Avaible
 143 is Occupied by Ender Forest (Reika.ChromatiCraft.World.BiomeEnderForest)
-144 is Avaible
+144 is Occupied by Pink Birch Forest (Reika.Satisforestry.Biome.BiomePinkForest)
 145 is Occupied by Luminous Cliffs (Reika.ChromatiCraft.World.BiomeGlowingCliffs)
 146 is Occupied by Luminous Cliffs Shores (Reika.ChromatiCraft.World.GlowingCliffsEdge)
 147 is Occupied by Rainbow Forest (Reika.ChromatiCraft.World.BiomeRainbowForest)
@@ -177,14 +177,14 @@ All ids and their position:
 172 is Occupied by Sparkling Sands (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenSparkle)
 173 is Occupied by Structure Field (Reika.ChromatiCraft.World.Dimension.Biome.StructureBiome)
 174 is Occupied by Voidland (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenVoidlands)
-175 is Avaible
-176 is Avaible
-177 is Avaible
-178 is Avaible
-179 is Avaible
-180 is Avaible
-181 is Avaible
-182 is Avaible
+175 is Occupied by Basalt Deltas (DelirusCrux.Netherlicious.Biomes.BasaltDeltas)
+176 is Occupied by Crimson Forest (DelirusCrux.Netherlicious.Biomes.CrimsonForest)
+177 is Occupied by Soul Sand Valley (DelirusCrux.Netherlicious.Biomes.SoulSandValley)
+178 is Occupied by Warped Forest (DelirusCrux.Netherlicious.Biomes.WarpedForest)
+179 is Occupied by Foxfire Swamp (DelirusCrux.Netherlicious.Biomes.FoxfireSwamp)
+180 is Occupied by Crystalline Crag (DelirusCrux.Netherlicious.Biomes.CrystallineCrag)
+181 is Occupied by Abyssal Shadowland (DelirusCrux.Netherlicious.Biomes.AbyssalShadowland)
+182 is Occupied by Ruptured Chasm (DelirusCrux.Netherlicious.Biomes.RupturedChasm)
 183 is Avaible
 184 is Avaible
 185 is Avaible

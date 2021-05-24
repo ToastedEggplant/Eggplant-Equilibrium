@@ -1,4 +1,4 @@
-Total amount of free potion ids: C:\Users\ToastyBoi\AppData\Roaming\.minecraft\config\AntiIDConflict\potions\avaibleIDs.txt
+Total amount of free potion ids: E:\Users\ToastyBoi\AppData\Roaming\.minecraft\config\AntiIDConflict\potions\avaibleIDs.txt
 List of free potion ids:
 0
 26

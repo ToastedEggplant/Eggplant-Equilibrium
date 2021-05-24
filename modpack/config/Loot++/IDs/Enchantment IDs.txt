@@ -64,10 +64,10 @@
 
 
 8
-	- Name: enchantment.enderio.soulBound
-	- Weight: 1
+	- Name: enchantment.blink
+	- Weight: 5
 	- Min Level: 1
-	- Max Level: 1
+	- Max Level: 3
 
 
 9
@@ -175,11 +175,60 @@
 	- Max Level: 5
 
 
+24
+	- Name: enchantment.elemental
+	- Weight: 4
+	- Min Level: 1
+	- Max Level: 1
+
+
+25
+	- Name: enchantment.fall
+	- Weight: 5
+	- Min Level: 1
+	- Max Level: 4
+
+
+26
+	- Name: enchantment.jump
+	- Weight: 6
+	- Min Level: 1
+	- Max Level: 4
+
+
+27
+	- Name: enchantment.hungry
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 5
+
+
 28
 	- Name: enchantment.matteroverdrive.weapon.damage
 	- Weight: 10
 	- Min Level: 1
 	- Max Level: 4
+
+
+29
+	- Name: enchantment.restore
+	- Weight: 3
+	- Min Level: 1
+	- Max Level: 3
+
+
+30
+	- Name: enchantment.flight
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 3
+
+
+31
+	- Name: enchantment.oneRing
+	- Weight: 0
+	- Min Level: 1
+	- Max Level: 1
 
 
 32
@@ -208,6 +257,27 @@
 	- Weight: 2
 	- Min Level: 1
 	- Max Level: 3
+
+
+36
+	- Name: enchantment.enderio.soulBound
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 1
+
+
+39
+	- Name: enchantment.frost_walker
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 2
+
+
+40
+	- Name: enchantment.mending
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 1
 
 
 45
@@ -371,6 +441,20 @@
 	- Max Level: 5
 
 
+79
+	- Name: enchantment.glide
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 2
+
+
+80
+	- Name: enchantment.health
+	- Weight: 4
+	- Min Level: 1
+	- Max Level: 3
+
+
 81
 	- Name: enchantment.chroma.minetime
 	- Weight: 0
@@ -397,6 +481,34 @@
 	- Weight: 0
 	- Min Level: 1
 	- Max Level: 4
+
+
+85
+	- Name: enchantment.resurrection
+	- Weight: 1
+	- Min Level: 1
+	- Max Level: 3
+
+
+86
+	- Name: enchantment.speed
+	- Weight: 6
+	- Min Level: 1
+	- Max Level: 5
+
+
+87
+	- Name: enchantment.spiderman
+	- Weight: 3
+	- Min Level: 1
+	- Max Level: 1
+
+
+88
+	- Name: enchantment.stepUp
+	- Weight: 5
+	- Min Level: 1
+	- Max Level: 3
 
 
 90

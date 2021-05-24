@@ -3,9 +3,9 @@
 2 is Occupied by XPOrb(net.minecraft.entity.item.EntityXPOrb)
 3 is Occupied by soundEntity(crazypants.enderio.item.darksteel.SoundEntity)
 4 is Occupied by rangeEntity(crazypants.enderio.machine.ranged.RangeEntity)
-5 is Occupied by FakeChairEntity(com.mia.props.common.entities.EntityChairMount)
-6 is Avaible
-7 is Avaible
+5 is Occupied by Statuar (Conception.entitys.EntityStatuar)
+6 is Occupied by MossySkeleton(Conception.entitys.EntityMossySkeleton)
+7 is Occupied by MossySkeletonScythe(Conception.entitys.EntityMossySkeletonScythe)
 8 is Occupied by LeashKnot(net.minecraft.entity.EntityLeashKnot)
 9 is Occupied by Painting(net.minecraft.entity.item.EntityPainting)
 10 is Occupied by Arrow(net.minecraft.entity.projectile.EntityArrow)
@@ -21,23 +21,23 @@
 20 is Occupied by PrimedTnt(net.minecraft.entity.item.EntityTNTPrimed)
 21 is Occupied by FallingSand(net.minecraft.entity.item.EntityFallingBlock)
 22 is Occupied by FireworksRocketEntity(net.minecraft.entity.item.EntityFireworkRocket)
-23 is Avaible
-24 is Avaible
-25 is Avaible
-26 is Avaible
-27 is Avaible
-28 is Avaible
-29 is Avaible
-30 is Avaible
-31 is Avaible
-32 is Avaible
-33 is Avaible
-34 is Avaible
-35 is Avaible
-36 is Avaible
-37 is Avaible
-38 is Avaible
-39 is Avaible
+23 is Occupied by SkeletonWarriorTank(Conception.entitys.EntityMossySkeletonWarriorTank)
+24 is Occupied by SkeletonWarriorMace(Conception.entitys.EntityMossySkeletonWarriorMace)
+25 is Occupied by MossySkeletonScythe2(Conception.entitys.EntityMossySkeletonScythe2)
+26 is Occupied by FakeChairEntity(com.mia.props.common.entities.EntityChairMount)
+27 is Occupied by critterpet.Spider(Reika.CritterPet.Entities.TameVanilla)
+28 is Occupied by critterpet.Heatscar Spider(Reika.CritterPet.Entities.Mod.TameHeatScar)
+29 is Occupied by critterpet.King Spider(Reika.CritterPet.Entities.Mod.TF.TameKing)
+30 is Occupied by critterpet.Hedge Spider(Reika.CritterPet.Entities.Mod.TF.TameHedge)
+31 is Occupied by critterpet.Slime Beetle(Reika.CritterPet.Entities.Mod.TF.TameSlimeBeetle)
+32 is Occupied by critterpet.Fire Beetle(Reika.CritterPet.Entities.Mod.TF.TameFire)
+33 is Occupied by critterpet.Maze Slime(Reika.CritterPet.Entities.Mod.TF.TameMazeSlime)
+34 is Occupied by critterpet.Wisp(Reika.CritterPet.Entities.Mod.TameWisp)
+35 is Occupied by critterpet.Mist Wolf(Reika.CritterPet.Entities.Mod.TF.TameMistWolf)
+36 is Occupied by critterpet.Silverfish(Reika.CritterPet.Entities.TameSilverfish)
+37 is Occupied by critterpet.Lava Slime(Reika.CritterPet.Entities.TameLavaSlime)
+38 is Occupied by critterpet.Carminite Ghastling(Reika.CritterPet.Entities.Mod.TF.TameMinighast)
+39 is Occupied by critterpet.Slime(Reika.CritterPet.Entities.TameSlime)
 40 is Occupied by MinecartCommandBlock(mods.railcraft.common.carts.EntityCartCommand)
 41 is Occupied by Boat(net.minecraft.entity.item.EntityBoat)
 42 is Occupied by MinecartRideable(mods.railcraft.common.carts.EntityCartBasic)
@@ -65,12 +65,12 @@
 64 is Occupied by WitherBoss(net.minecraft.entity.boss.EntityWither)
 65 is Occupied by Bat(net.minecraft.entity.passive.EntityBat)
 66 is Occupied by Witch(net.minecraft.entity.monster.EntityWitch)
-67 is Avaible
-68 is Avaible
-69 is Avaible
-70 is Avaible
-71 is Avaible
-72 is Avaible
+67 is Occupied by critterpet.Ice Core(Reika.CritterPet.Entities.Mod.TF.TameIceCore)
+68 is Occupied by critterpet.Lumafly(Reika.CritterPet.Entities.Mod.TameLumafly)
+69 is Occupied by Elite Stinger(Reika.Satisforestry.Entity.EntityEliteStinger)
+70 is Occupied by Giant Flying Manta(Reika.Satisforestry.Entity.EntityFlyingManta)
+71 is Occupied by Lizard Doggo(Reika.Satisforestry.Entity.EntityLizardDoggo)
+72 is Occupied by Void Monster(Reika.VoidMonster.Entity.EntityVoidMonster)
 73 is Avaible
 74 is Avaible
 75 is Avaible

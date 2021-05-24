@@ -672,6 +672,104 @@ ForbiddenMagic:TaintFruit
 	- Saturation Amount: 0.8
 
 
+GrimoireOfGaia:item.GrimoireOfGaia.FoodBerryCure
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.0
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodBerryFire
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.0
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodBerryHealth
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.0
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodBerryIce
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.0
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodCoalfish
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.4
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodDriedNetherWart
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.4
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodMandrake
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodMeat
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodMeatMorsel
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.8
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodPieBerry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 12
+	- Saturation Amount: 0.2
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodPieMandrake
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 12
+	- Saturation Amount: 0.8
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodPieMeat
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 16
+	- Saturation Amount: 0.8
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodSmallAppleGold
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.4
+
+
+GrimoireOfGaia:item.GrimoireOfGaia.FoodWitherMeat
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
 Growthcraft|Apples:grc.appleCider
 	- Megadata: 0
 	- Food or Drink? Drink
@@ -1393,6 +1491,24 @@ IC2:itemTerraWart
 	- Saturation Amount: 1.0
 
 
+Mariculture:bait
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+Mariculture:fluids
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Mariculture:food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
 MineFactoryReloaded:meat.ingot.cooked
 	- Megadata: 0
 	- Food or Drink? Food
@@ -1605,6 +1721,13 @@ RotaryCraft:rotarycraft_item_flamethrower
 	- Food Info Unknown!
 
 
+Satisforestry:paleberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.0
+
+
 TaintedMagic:ItemMagicFunguar
 	- Megadata: 0
 	- Food or Drink? Food
@@ -1801,6 +1924,76 @@ cookingbook:toast
 	- Food or Drink? Food
 	- Food Amount: 7
 	- Saturation Amount: 1.2
+
+
+etfuturum:beetroot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.6
+
+
+etfuturum:beetroot_soup
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+etfuturum:chorus_fruit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.3
+
+
+etfuturum:mutton_cooked
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.8
+
+
+etfuturum:mutton_raw
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+etfuturum:rabbit_cooked
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+etfuturum:rabbit_raw
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+etfuturum:rabbit_stew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 0.6
+
+
+etfuturum:suspicious_stew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+etfuturum:sweet_berries
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.6
 
 
 fossil:cookedAlligator_Gar
@@ -7053,6 +7246,258 @@ minecraft:fish
 	- Saturation Amount: 0.1
 
 
+minecraft:fish
+	- Megadata: 4
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 5
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 6
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 7
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 8
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 9
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 10
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 11
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 12
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 13
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 14
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 15
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 16
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 17
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 18
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 19
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 20
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 21
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 22
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 23
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 24
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 25
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 26
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 27
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 28
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 29
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 30
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 31
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 32
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 33
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 34
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 35
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 36
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 37
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 38
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 39
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
 minecraft:golden_apple
 	- Megadata: 0
 	- Food or Drink? Food
@@ -7380,6 +7825,30 @@ minecraft:potion
 
 
 minecraft:potion
+	- Megadata: 8267
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8235
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16459
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16427
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
 	- Megadata: 8268
 	- Food or Drink? Drink
 	- Food Info Unknown!
@@ -7512,6 +7981,125 @@ mo:romulan_ale
 	- Food or Drink? Drink
 	- Food Amount: 4
 	- Saturation Amount: 0.6
+
+
+netherlicious:AbyssalBread
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+netherlicious:CookieHellderberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+netherlicious:DevilishMaizeItem
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.6
+
+
+netherlicious:DevilishPopcorn
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.6
+
+
+netherlicious:GhastlyPie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.3
+
+
+netherlicious:HellderBerryItem
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.6
+
+
+netherlicious:JuiceHellderberry
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 3
+	- Saturation Amount: 0.6
+
+
+netherlicious:RoastedDevilishMaize
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.6
+
+
+netherlicious:RoastedWart
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.0
+
+
+netherlicious:StewCrimson
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+netherlicious:StewFoxfire
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+netherlicious:StewWarped
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+netherlicious:StriderFlankCooked
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+netherlicious:StriderFlankRaw
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+netherlicious:WartItem
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.0
+
+
+netherlicious:WartItem
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.0
+
+
+netherlicious:WartItem
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.0
 
 
 thaumicbases:concentratedTaint

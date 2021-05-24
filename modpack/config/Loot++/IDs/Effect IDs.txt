@@ -58,7 +58,7 @@
 
 8
 	- Name: potion.jump
-	- Color: 7889559
+	- Color: 2293580
 	- Is Instant? false
 	- Is Bad? false
 
@@ -849,7 +849,7 @@
 
 147
 	- Name: Restorative Aura
-	- Color: -11125543
+	- Color: -5578072
 	- Is Instant? false
 	- Is Bad? false
 
