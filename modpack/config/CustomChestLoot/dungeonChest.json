@@ -1,0 +1,970 @@
+{
+  "_name": "dungeonChest",
+  "min": 8,
+  "max": 8,
+  "loot": [
+    {
+      "weight": 10,
+      "id": "minecraft:saddle",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:iron_ingot",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:bread",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:wheat",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:gunpowder",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:string",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:bucket",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:golden_apple",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:redstone",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:record_13",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:record_cat",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:name_tag",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "minecraft:golden_horse_armor",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:iron_horse_armor",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:diamond_horse_armor",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "minecraft:enchanted_book",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 9,
+      "id": "Botania:manaResource",
+      "damage": 0,
+      "min": 1,
+      "max": 5
+    },
+    {
+      "weight": 6,
+      "id": "Botania:lexicon",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Botania:manaBottle",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 6,
+      "id": "Botania:blackLotus",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "Botania:overgrowthSeed",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 100,
+      "id": "IC2:itemIngot",
+      "damage": 0,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "weight": 100,
+      "id": "IC2:itemIngot",
+      "damage": 1,
+      "min": 2,
+      "max": 5
+    },
+    {
+      "weight": 20,
+      "id": "IC2:itemOreIridium",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 100,
+      "id": "IC2:itemShardIridium",
+      "damage": 0,
+      "min": 6,
+      "max": 14
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:record_blocks",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:record_chirp",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:record_far",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:record_mall",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:record_mellohi",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:record_stal",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:record_strad",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:record_ward",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:record_11",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "minecraft:record_wait",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:tool.steel.sword",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:armor.steel.helmet",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:armor.steel.plate",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:armor.steel.legs",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "Railcraft:armor.steel.boots",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "etfuturum:beetroot_seeds",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 5,
+      "id": "fossil:figurine",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "fossil:scarabGem",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "fossil:record_bones",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "fossil:record_bones",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "fossil:record_bones",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "fossil:record_discovery",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "fossil:record_discovery",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "fossil:record_discovery",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "fossil:record_scarab",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "fossil:record_scarab",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "fossil:record_scarab",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "OpenBlocks:technicolorGlasses",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "RandomThings:whitestone",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 25,
+      "id": "MineFactoryReloaded:safarinet.singleuse",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 8,
+      "id": "MineFactoryReloaded:rubberwood.sapling",
+      "damage": 2,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 6,
+      "id": "AWWayofTime:standardBindingAgent",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 4,
+      "id": "AWWayofTime:mundanePowerCatalyst",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 4,
+      "id": "AWWayofTime:mundaneLengtheningCatalyst",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "AWWayofTime:averagePowerCatalyst",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "AWWayofTime:averageLengtheningCatalyst",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "AWWayofTime:greaterPowerCatalyst",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "AWWayofTime:greaterLengtheningCatalyst",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "EnderIO:itemAlloy",
+      "damage": 6,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 10,
+      "id": "EnderIO:itemConduitProbe",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 20,
+      "id": "minecraft:quartz",
+      "damage": 0,
+      "min": 3,
+      "max": 16
+    },
+    {
+      "weight": 10,
+      "id": "minecraft:nether_wart",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 30,
+      "id": "minecraft:ender_pearl",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 5,
+      "id": "EnderIO:item.darkSteel_sword",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 5,
+      "id": "EnderIO:item.darkSteel_boots",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 0,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 1,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 2,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 3,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 4,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 5,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 6,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 7,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 8,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 9,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 10,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 11,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 12,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 13,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 14,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_shard",
+      "damage": 15,
+      "min": 2,
+      "max": 8
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_item_help",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "ChromatiCraft:chromaticraft_item_fragment",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "ChromatiCraft:chromaticraft_block_glowsapling",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "keep": "li.cil.oc.common.Loot",
+      "id": "OpenComputers:item",
+      "damage": 4,
+      "nbt": false,
+      "count": 1
+    },
+    {
+      "weight": 20,
+      "id": "RotaryCraft:rotarycraft_item_shaftcraft",
+      "damage": 9,
+      "min": 6,
+      "max": 18
+    },
+    {
+      "weight": 40,
+      "id": "RotaryCraft:rotarycraft_item_shaftcraft",
+      "damage": 10,
+      "min": 1,
+      "max": 12
+    },
+    {
+      "weight": 40,
+      "id": "RotaryCraft:rotarycraft_item_canola",
+      "damage": 0,
+      "min": 1,
+      "max": 12
+    },
+    {
+      "weight": 2,
+      "id": "LostBooks:randomBook",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Mariculture:ring",
+      "damage": 0,
+      "min": 1,
+      "max": 1,
+      "enchant": 0,
+      "enchant_chance": 0,
+      "functions": [
+        {
+          "function": "nbt",
+          "tags": [
+            {
+              "name": "ench",
+              "function": "list",
+              "tags": [
+                {
+                  "function": "compound",
+                  "tags": [
+                    {
+                      "name": "lvl",
+                      "function": "short",
+                      "value": "1~1"
+                    },
+                    {
+                      "name": "id",
+                      "function": "enchant_id",
+                      "value": "enchantment.oneRing"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Specials",
+              "function": "string",
+              "value": "\u00a7eOne Ring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 15,
+      "id": "openmodularturrets:disposeItemTurret",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 15,
+      "id": "openmodularturrets:baseTierWood",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 15,
+      "id": "openmodularturrets:leverBlock",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 10,
+      "id": "PneumaticCraft:stopWorm",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 10,
+      "id": "PneumaticCraft:nukeVirus",
+      "damage": 0,
+      "min": 1,
+      "max": 4
+    },
+    {
+      "weight": 8,
+      "id": "TravellersGear:simpleGear",
+      "damage": 6,
+      "min": 1,
+      "max": 1,
+      "enchant": 0,
+      "enchant_chance": 0,
+      "functions": [
+        {
+          "function": "nbt",
+          "tags": [
+            {
+              "name": "title",
+              "function": "string",
+              "value": "TG.personaltitle.archchancellor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 5,
+      "id": "Thaumcraft:ItemLootBag",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 5,
+      "id": "Thaumcraft:ItemResource",
+      "damage": 2,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 5,
+      "id": "Thaumcraft:ItemResource",
+      "damage": 6,
+      "min": 1,
+      "max": 3
+    },
+    {
+      "weight": 4,
+      "id": "Thaumcraft:ItemLootBag",
+      "damage": 1,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 4,
+      "id": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 0,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 4,
+      "id": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 1,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 4,
+      "id": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 2,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 4,
+      "id": "Thaumcraft:ItemResource",
+      "damage": 9,
+      "min": 1,
+      "max": 2
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemLootBag",
+      "damage": 2,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemThaumonomicon",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemSwordThaumium",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemPickThaumium",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemAxeThaumium",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemHoeThaumium",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemRingRunic",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 3,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 4,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 5,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 6,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 7,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 8,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 1,
+      "id": "Thaumcraft:ItemAmuletVis",
+      "damage": 0,
+      "min": 1,
+      "max": 1,
+      "enchant": 0,
+      "enchant_chance": 0,
+      "functions": [
+        {
+          "function": "nbt",
+          "tags": [
+            {
+              "name": "aqua",
+              "function": "int",
+              "value": "200~200"
+            },
+            {
+              "name": "terra",
+              "function": "int",
+              "value": "300~300"
+            },
+            {
+              "name": "ignis",
+              "function": "int",
+              "value": "100~100"
+            },
+            {
+              "name": "ordo",
+              "function": "int",
+              "value": "100~100"
+            },
+            {
+              "name": "perditio",
+              "function": "int",
+              "value": "100~100"
+            },
+            {
+              "name": "aer",
+              "function": "int",
+              "value": "300~300"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "id": "Automagy:baubleEnderDisjunction",
+      "damage": 1,
+      "min": 1,
+      "max": 1
+    },
+    {
+      "weight": 3,
+      "id": "Automagy:phialExtra",
+      "damage": 0,
+      "min": 1,
+      "max": 3
+    }
+  ]
+}

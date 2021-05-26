@@ -1,6 +1,0 @@
-MineFactoryReloaded:glass.helm,1,0
-minecraft:wooden_sword,1,0
-minecraft:wooden_axe,1,0
-minecraft:wooden_pickaxe,1,0
-minecraft:wooden_shovel,1,0
-mo:emergency_ration,8,0

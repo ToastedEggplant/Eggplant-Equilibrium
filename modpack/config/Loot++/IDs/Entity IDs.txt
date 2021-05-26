@@ -710,6 +710,16 @@ ironbackpacks.EntityBackpack
 lootplusplus.Label
 lootplusplus.ThrownItem
 mad_scientist
+mowziesmobs.BabyFoliaath
+mowziesmobs.FerrousWroughtnaut
+mowziesmobs.Foliaath
+mowziesmobs.SolarBeam
+mowziesmobs.Sunstrike
+mowziesmobs.TribeLeader
+mowziesmobs.TribesmanElite
+mowziesmobs.TribesmanHunter
+mowziesmobs.TribesmanVillager
+mowziesmobs.dart
 mutant_scientist
 netherlicious.Ashling
 netherlicious.BlazeKnight

@@ -1,0 +1,42 @@
+{
+  "_name": "pyramidJungleDispenser",
+  "min": 2,
+  "max": 2,
+  "loot": [
+    {
+      "weight": 30,
+      "id": "minecraft:arrow",
+      "damage": 0,
+      "min": 2,
+      "max": 7
+    },
+    {
+      "weight": 25,
+      "id": "MineFactoryReloaded:safarinet.singleuse",
+      "damage": 0,
+      "min": 1,
+      "max": 1,
+      "enchant": 0,
+      "enchant_chance": 0,
+      "functions": [
+        {
+          "function": "nbt",
+          "tags": [
+            {
+              "name": "hide",
+              "function": "byte",
+              "value": "1~1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 2,
+      "id": "ChromatiCraft:chromaticraft_block_glowsapling",
+      "damage": 0,
+      "min": 1,
+      "max": 1
+    }
+  ]
+}

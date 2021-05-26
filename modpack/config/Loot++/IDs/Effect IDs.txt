@@ -183,50 +183,50 @@
 
 
 26
+	- Name: potion.sunsBlessing
+	- Color: 16768834
+	- Is Instant? false
+	- Is Bad? false
+
+
+27
 	- Name: potion.fluxtaint
 	- Color: 6697847
 	- Is Instant? false
 	- Is Bad? true
 
 
-27
+28
 	- Name: potion.visexhaust
 	- Color: 6702199
 	- Is Instant? false
 	- Is Bad? true
 
 
-28
+29
 	- Name: potion.infvisexhaust
 	- Color: 6706551
 	- Is Instant? false
 	- Is Bad? true
 
 
-29
+30
 	- Name: potion.unhunger
 	- Color: 4482611
 	- Is Instant? false
 	- Is Bad? true
 
 
-30
+31
 	- Name: potion.warpward
 	- Color: 14742263
 	- Is Instant? false
 	- Is Bad? false
 
 
-31
+32
 	- Name: potion.deathgaze
 	- Color: 6702131
-	- Is Instant? false
-	- Is Bad? true
-
-
-32
-	- Name: potion.blurred
-	- Color: 8421504
 	- Is Instant? false
 	- Is Bad? true
 
@@ -281,8 +281,8 @@
 
 
 40
-	- Name: potion.sunscorned
-	- Color: 16308330
+	- Name: potion.blurred
+	- Color: 8421504
 	- Is Instant? false
 	- Is Bad? true
 
@@ -540,17 +540,17 @@
 
 
 77
-	- Name: potion.thaumarhia
-	- Color: 6702199
+	- Name: potion.sunscorned
+	- Color: 16308330
 	- Is Instant? false
 	- Is Bad? true
 
 
 78
-	- Name: potion.visboost
-	- Color: 6697847
+	- Name: potion.thaumarhia
+	- Color: 6702199
 	- Is Instant? false
-	- Is Bad? false
+	- Is Bad? true
 
 
 79
@@ -568,29 +568,29 @@
 
 
 81
+	- Name: potion.visboost
+	- Color: 6697847
+	- Is Instant? false
+	- Is Bad? false
+
+
+82
 	- Name: potion.visregen
 	- Color: 5701759
 	- Is Instant? false
 	- Is Bad? false
 
 
-82
+83
 	- Name: potion.vacuum
 	- Color: 4210752
 	- Is Instant? false
 	- Is Bad? false
 
 
-83
+84
 	- Name: potion.shock
 	- Color: 11513861
-	- Is Instant? false
-	- Is Bad? false
-
-
-84
-	- Name: potion.synthesis
-	- Color: 3253280
 	- Is Instant? false
 	- Is Bad? false
 
@@ -614,6 +614,13 @@
 	- Color: 0
 	- Is Instant? false
 	- Is Bad? true
+
+
+88
+	- Name: potion.synthesis
+	- Color: 3253280
+	- Is Instant? false
+	- Is Bad? false
 
 
 89
@@ -849,7 +856,7 @@
 
 147
 	- Name: Restorative Aura
-	- Color: -5578072
+	- Color: -7415328
 	- Is Instant? false
 	- Is Bad? false
 
