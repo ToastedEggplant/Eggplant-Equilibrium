@@ -1,23 +1,16 @@
-///////////////////* Logan's
-   Tweaks and Alterations */
-
-   
 //Starts here  
-//val EmberBand = <BiomesOPlenty:flowerBand:3>.withTag({display: {Name: "§l§aBand of The Dryad", Lore: ["§dEmber's Flower Band", "§bThe animals, they follow."]}});
-val OfficiallysEggplant = <plantmegapack:foodEggplant>.withTag({display: {Name: "§l§dA Lost Penis...", Lore: ["§dTattooed on one side it reads", "§dIf found please return to OfficialyAwsome..Weird.."]}});
-recipes.addShaped(OfficiallysEggplant, [[<plantmegapack:foodEggplant>, <plantmegapack:foodEggplant>, <plantmegapack:foodEggplant>]]);
-
-
-//Pour Tritanium in Smeltery
-mods.tconstruct.Casting.addBasinRecipe(<mo:tritanium_block>, <liquid:molten_tritanium> * 1152, null, true, 20);
-mods.tconstruct.Casting.addTableRecipe(<mo:tritanium_ingot>, <liquid:molten_tritanium> * 128, <TConstruct:metalPattern>, false, 20);
-
-   
-//Dragon Egg Recipe   
-recipes.addShaped(<minecraft:dragon_egg>, [[<HardcoreEnderExpansion:obsidian_end>, <HardcoreEnderExpansion:essence>, <HardcoreEnderExpansion:endium_ingot>], [<HardcoreEnderExpansion:end_powder>, <DraconicEvolution:dragonHeart>, <HardcoreEnderExpansion:stardust>], [<ExtraUtilities:plant/ender_lilly>, <HardcoreEnderExpansion:igneous_rock>, <HardcoreEnderExpansion:death_flower>]]);
 
 //Remove Broken Stone Recipe
 recipes.remove(<minecraft:stone>);
+recipes.remove(<etfuturum:stone_slab>);
+
+//Add Vanilla Stone Slabs Back
+recipes.addShaped(<minecraft:stone_slab> * 6, [[<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
+
+//Etfuturum Smooth Stone
+//furnace.remove(<etfuturum:smooth_stone>);
+//mods.thermalexpansion.Furnace.removeRecipe(<etfuturum:smooth_stone>);
+recipes.addShapeless(<etfuturum:smooth_stone>, [<minecraft:stone>]);
   
 //Remove Angel Rings
 recipes.remove(<ExtraUtilities:angelRing>);
@@ -28,7 +21,7 @@ recipes.remove(<ExtraUtilities:angelRing:4>);
 
 
 //Add Angel Rings
-recipes.addShaped(<ExtraUtilities:angelRing>, [[<xreliquary:angelic_feather>, <Thaumcraft:ItemResource:14>, <xreliquary:angelic_feather>], [<minecraft:nether_star>, <simplyjetpacks:components>, <minecraft:nether_star>], [<Thaumcraft:ItemResource:14>, <minecraft:nether_star>, <Thaumcraft:ItemResource:14>]]);
+recipes.addShaped(<ExtraUtilities:angelRing>, [[<minecraft:feather>, <Thaumcraft:ItemResource:14>, <minecraft:feather>], [<minecraft:nether_star>, <simplyjetpacks:components>, <minecraft:nether_star>], [<Thaumcraft:ItemResource:14>, <minecraft:nether_star>, <Thaumcraft:ItemResource:14>]]);
 recipes.addShapeless(<ExtraUtilities:angelRing>, [<ExtraUtilities:angelRing:1>]);
 recipes.addShapeless(<ExtraUtilities:angelRing:1>, [<ExtraUtilities:angelRing:2>]);
 recipes.addShapeless(<ExtraUtilities:angelRing:2>, [<ExtraUtilities:angelRing:3>]);
@@ -49,7 +42,7 @@ recipes.addShapeless(<OpenComputers:item:111> * 6, [<EnderIO:itemMaterial:10>]);
    
 // Atomic Disassembler
 recipes.remove(<Mekanism:AtomicDisassembler>);
-recipes.addShaped(<Mekanism:AtomicDisassembler>, [[<RedstoneArsenal:tool.axeFlux>, <RedstoneArsenal:tool.swordFlux>, <RedstoneArsenal:tool.shovelFlux>], [<simplyjetpacks:components:63>, <RedstoneArsenal:tool.pickaxeFlux>, <simplyjetpacks:components:63>], [<Mekanism:ControlCircuit:3>, <RedstoneArsenal:material:193>, <Mekanism:ControlCircuit:3>]]);
+recipes.addShaped(<Mekanism:AtomicDisassembler>, [[<RedstoneArsenal:tool.axeFlux>, <RedstoneArsenal:tool.swordFlux>, <RedstoneArsenal:tool.shovelFlux>], [<Mekanism:ControlCircuit:3>, <RedstoneArsenal:tool.pickaxeFlux>, <Mekanism:ControlCircuit:3>], [<Mekanism:ControlCircuit:3>, <RedstoneArsenal:material:193>, <Mekanism:ControlCircuit:3>]]);
 
 
 // Digital Miner
@@ -59,15 +52,15 @@ recipes.addShaped(<Mekanism:MachineBlock:4>, [[<BuildCraft|Builders:machineBlock
 
 // Draconic Core
 recipes.remove(<DraconicEvolution:draconicCore>);
-recipes.addShaped(<DraconicEvolution:draconicCore>, [[<HardcoreEnderExpansion:end_powder>, <DraconicEvolution:draconium>, <HardcoreEnderExpansion:end_powder>], [<DraconicEvolution:draconium>, <HardcoreEnderExpansion:endium_block>, <DraconicEvolution:draconium>], [<HardcoreEnderExpansion:end_powder>, <DraconicEvolution:draconium>, <HardcoreEnderExpansion:end_powder>]]);
+recipes.addShaped(<DraconicEvolution:draconicCore>, [[<ore:ingotEnderium>, <DraconicEvolution:draconium>, <ore:ingotEnderium>], [<DraconicEvolution:draconium>, <ore:ingotEnderium>, <DraconicEvolution:draconium>], [<ore:ingotEnderium>, <DraconicEvolution:draconium>, <ore:ingotEnderium>]]);
 
 
 // wyvern core 
 recipes.remove(<DraconicEvolution:wyvernCore>);
-recipes.addShaped(<DraconicEvolution:wyvernCore>, [[<HardcoreEnderExpansion:end_powder>, <DraconicEvolution:draconicCore>, <HardcoreEnderExpansion:end_powder>], [<DraconicEvolution:draconicCore>, <RandomThings:spiritBinder>, <DraconicEvolution:draconicCore>], [<HardcoreEnderExpansion:end_powder>, <DraconicEvolution:draconicCore>, <HardcoreEnderExpansion:end_powder>]]);
+recipes.addShaped(<DraconicEvolution:wyvernCore>, [[<ore:ingotEnderium>, <DraconicEvolution:draconicCore>, <ore:ingotEnderium>], [<DraconicEvolution:draconicCore>, <RandomThings:spiritBinder>, <DraconicEvolution:draconicCore>], [<ore:ingotEnderium>, <DraconicEvolution:draconicCore>, <ore:ingotEnderium>]]);
 
 
 
 // Mekanism Jetpack
 recipes.remove(<Mekanism:Jetpack>);
-recipes.addShaped(<Mekanism:Jetpack>, [[<Mekanism:Ingot>, <Mekanism:ControlCircuit:1>, <Mekanism:Ingot>], [<ImmersiveEngineering:toolupgrade>, <simplyjetpacks:components>, <ImmersiveEngineering:toolupgrade>], [<Mekanism:Flamethrower>, <EMT:EMTItems:9>, <Mekanism:Flamethrower>]]);
+recipes.addShaped(<Mekanism:Jetpack>, [[<Mekanism:Ingot>, <Mekanism:ControlCircuit:1>, <Mekanism:Ingot>], [<ImmersiveEngineering:toolupgrade>, <simplyjetpacks:components>, <ImmersiveEngineering:toolupgrade>], [<Mekanism:Flamethrower>, <ore:itemRubber>, <Mekanism:Flamethrower>]]);
